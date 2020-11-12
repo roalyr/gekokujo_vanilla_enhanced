@@ -1,0 +1,3166 @@
+scenesfile version 1
+ 791
+scn_random_scene random_scene 1792 none none 0.000000 0.000000 240.000000 240.000000 -0.500000 0x300028000003e8fa0000034e00004b34000059be 
+  0 
+  0 
+ 0 
+scn_conversation_scene conversation_scene 0 encounter_spot bo_encounter_spot -40.000000 -40.000000 40.000000 40.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_water water 0 none none -1000.000000 -1000.000000 1000.000000 1000.000000 -0.500000 0 
+  0 
+  0 
+ 0 
+scn_random_scene_steppe random_scene_steppe 1792 none none 0.000000 0.000000 240.000000 240.000000 -0.500000 0x0000000229602800000691a400003efe00004b34000059be 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_random_scene_plain random_scene_plain 1792 none none 0.000000 0.000000 240.000000 240.000000 -0.500000 0x0000000229602800000691a400003efe00004b34000059be 
+  0 
+  0 
+ outer_terrain_plain 
+scn_random_scene_snow random_scene_snow 1792 none none 0.000000 0.000000 240.000000 240.000000 -0.500000 0x0000000229602800000691a400003efe00004b34000059be 
+  0 
+  0 
+ outer_terrain_snow 
+scn_random_scene_desert random_scene_desert 1792 none none 0.000000 0.000000 240.000000 240.000000 -0.500000 0x0000000229602800000691a400003efe00004b34000059be 
+  0 
+  0 
+ outer_terrain_plain 
+scn_random_scene_steppe_forest random_scene_steppe_forest 1792 none none 0.000000 0.000000 240.000000 240.000000 -0.500000 0x300028000003e8fa0000034e00004b34000059be 
+  0 
+  0 
+ outer_terrain_plain 
+scn_random_scene_plain_forest random_scene_plain_forest 1792 none none 0.000000 0.000000 240.000000 240.000000 -0.500000 0x300028000003e8fa0000034e00004b34000059be 
+  0 
+  0 
+ outer_terrain_plain 
+scn_random_scene_snow_forest random_scene_snow_forest 1792 none none 0.000000 0.000000 240.000000 240.000000 -0.500000 0x300028000003e8fa0000034e00004b34000059be 
+  0 
+  0 
+ outer_terrain_snow 
+scn_random_scene_desert_forest random_scene_desert_forest 1792 none none 0.000000 0.000000 240.000000 240.000000 -0.500000 0x300028000003e8fa0000034e00004b34000059be 
+  0 
+  0 
+ outer_terrain_desert 
+scn_camp_scene camp_scene 1280 none none 0.000000 0.000000 240.000000 240.000000 -0.500000 0x300028000003e8fa0000034e00004b34000059be 
+  0 
+  0 
+ outer_terrain_plain 
+scn_camp_scene_horse_track camp_scene_horse_track 1280 none none 0.000000 0.000000 240.000000 240.000000 -0.500000 0x300028000003e8fa0000034e00004b34000059be 
+  0 
+  0 
+ outer_terrain_plain 
+scn_four_ways_inn four_ways_inn 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x0000000030015f2b000350d4000011a4000017ee000054af 
+  0 
+  0 
+ outer_terrain_town_thir_1 
+scn_test_scene test_scene 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x0230817a00028ca300007f4a0000479400161992 
+  0 
+  0 
+ outer_terrain_plain 
+scn_quick_battle_1 quick_battle_1 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x30401ee300059966000001bf0000299a0000638f 
+  0 
+  0 
+ outer_terrain_plain 
+scn_quick_battle_2 quick_battle_2 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0xa0425ccf0004a92a000063d600005a8a00003d9a 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_quick_battle_3 quick_battle_3 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x4c6024e3000691a400001b7c0000591500007b52 
+  0 
+  0 
+ outer_terrain_snow 
+scn_quick_battle_4 quick_battle_4 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x00001d63c005114300006228000053bf00004eb9 
+  0 
+  0 
+ outer_terrain_plain 
+scn_quick_battle_5 quick_battle_5 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x3a078bb2000589630000667200002fb90000179c 
+  0 
+  0 
+ outer_terrain_plain 
+scn_quick_battle_6 quick_battle_6 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0xa0425ccf0004a92a000063d600005a8a00003d9a 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_quick_battle_7 quick_battle_7 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x314d060900036cd70000295300002ec9000025f3 
+  0 
+  0 
+ outer_terrain_plain 
+scn_salt_mine salt_mine 256 none none -200.000000 -200.000000 200.000000 200.000000 -100.000000 0x2a07b23200025896000023ee00007f9c000022a8 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_novice_ground novice_ground 1 training_house_a bo_training_house_a -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_zendar_arena zendar_arena 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0xa0001d9300031ccb0000156f000048ba0000361c 
+  0 
+  0 
+ outer_terrain_plain 
+scn_dhorak_keep dhorak_keep 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x33a7946000028ca300007f4a0000479400161992 
+  1  100000 
+  0 
+ 0 
+scn_reserved4 reserved4 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 28791 
+  0 
+  0 
+ 0 
+scn_reserved5 reserved5 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 117828 
+  0 
+  0 
+ 0 
+scn_reserved6 reserved6 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 6849 
+  0 
+  0 
+ 0 
+scn_reserved7 reserved7 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 6849 
+  0 
+  0 
+ 0 
+scn_reserved8 reserved8 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 13278 
+  0 
+  0 
+ 0 
+scn_reserved9 reserved9 1 thirsty_lion bo_thirsty_lion -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_reserved10 reserved10 0 none none -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_reserved11 reserved11 0 none none -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_reserved12 reserved12 1 thirsty_lion bo_thirsty_lion -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_training_ground training_ground 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x30000500400360d80000189f00002a8380006d91 
+  0 
+  2  1553  1554 
+ outer_terrain_plain 
+scn_tutorial_1 tutorial_1 1 tutorial_1_scene bo_tutorial_1_scene -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_tutorial_2 tutorial_2 1 tutorial_2_scene bo_tutorial_2_scene -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_tutorial_3 tutorial_3 1 tutorial_3_scene bo_tutorial_3_scene -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_tutorial_4 tutorial_4 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x30000500400360d80000189f00002a8380006d91 
+  0 
+  0 
+ outer_terrain_plain 
+scn_tutorial_5 tutorial_5 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x3a06dca80005715c0000537400001377000011fe 
+  0 
+  0 
+ outer_terrain_plain 
+scn_training_ground_horse_track_1 training_ground_horse_track_1 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x00000000337553240004d53700000c0500002a0f80006267 
+  0 
+  0 
+ outer_terrain_plain 
+scn_training_ground_horse_track_2 training_ground_horse_track_2 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x00000000301553240004d5370000466000002a0f800073f1 
+  0 
+  0 
+ outer_terrain_plain 
+scn_training_ground_horse_track_3 training_ground_horse_track_3 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x00000000400c12b2000515470000216b0000485e00006928 
+  0 
+  0 
+ outer_terrain_snow 
+scn_training_ground_horse_track_4 training_ground_horse_track_4 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x00000000200b60320004a5290000180d0000452f00000e90 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_training_ground_horse_track_5 training_ground_horse_track_5 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000003008208e0006419000000f730000440f00003c86 
+  0 
+  0 
+ outer_terrain_plain 
+scn_training_ground_ranged_melee_1 training_ground_ranged_melee_1 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x00000001350455c20005194a000041cb00005ae800000ff5 
+  0 
+  0 
+ outer_terrain_plain 
+scn_training_ground_ranged_melee_2 training_ground_ranged_melee_2 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x0000000532c8dccb0005194a000041cb00005ae800001bdd 
+  0 
+  0 
+ outer_terrain_plain 
+scn_training_ground_ranged_melee_3 training_ground_ranged_melee_3 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000054327dcba0005194a00001b1d00005ae800004d63 
+  0 
+  0 
+ outer_terrain_snow 
+scn_training_ground_ranged_melee_4 training_ground_ranged_melee_4 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000012247dcba0005194a000041ef00005ae8000050af 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_training_ground_ranged_melee_5 training_ground_ranged_melee_5 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x00000001324a9cba0005194a000041ef00005ae800003c55 
+  0 
+  0 
+ outer_terrain_plain 
+scn_zendar_center zendar_center 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x300bc5430001e0780000448a0000049f00007932 
+  3  52  0  53 
+  0 
+ outer_terrain_plain 
+scn_the_happy_boar the_happy_boar 1 interior_town_house_f bo_interior_town_house_f -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  51 
+  1  1552 
+ 0 
+scn_zendar_merchant zendar_merchant 1 interior_town_house_i bo_interior_town_house_i -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_town_1_center town_1_center 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003002498000035cd50000104100005e940000147b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_2_center town_2_center 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003002498000035cd50000104100005e940000147b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_3_center town_3_center 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003002498000035cd50000104100005e940000147b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_4_center town_4_center 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003002498000035cd50000104100005e940000147b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_5_center town_5_center 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003002498000035cd50000104100005e940000147b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_6_center town_6_center 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003002498000035cd50000104100005e940000147b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_7_center town_7_center 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003002498000035cd50000104100005e940000147b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_8_center town_8_center 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003002498000035cd50000104100005e940000147b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_9_center town_9_center 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003002498000035cd50000104100005e940000147b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_10_center town_10_center 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003002498000035cd50000104100005e940000147b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_11_center town_11_center 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003002498000035cd50000104100005e940000147b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_12_center town_12_center 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003002498000035cd50000104100005e940000147b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_13_center town_13_center 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003002498000035cd50000104100005e940000147b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_14_center town_14_center 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003002498000035cd50000104100005e940000147b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_15_center town_15_center 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003002498000035cd50000104100005e940000147b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_16_center town_16_center 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003002498000035cd50000104100005e940000147b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_17_center town_17_center 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003002498000035cd50000104100005e940000147b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_18_center town_18_center 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003002498000035cd50000104100005e940000147b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_19_center town_19_center 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003002498000035cd50000104100005e940000147b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_20_center town_20_center 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003002498000035cd50000104100005e940000147b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_21_center town_21_center 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003002498000035cd50000104100005e940000147b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_22_center town_22_center 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003002498000035cd50000104100005e940000147b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_23_center town_23_center 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003002498000035cd50000104100005e940000147b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_24_center town_24_center 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003002498000035cd50000104100005e940000147b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_25_center town_25_center 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003002498000035cd50000104100005e940000147b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_26_center town_26_center 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003002498000035cd50000104100005e940000147b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_27_center town_27_center 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003002498000035cd50000104100005e940000147b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_28_center town_28_center 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003002498000035cd50000104100005e940000147b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_29_center town_29_center 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003002498000035cd50000104100005e940000147b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_30_center town_30_center 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003002498000035cd50000104100005e940000147b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_31_center town_31_center 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003002498000035cd50000104100005e940000147b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_32_center town_32_center 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003002498000035cd50000104100005e940000147b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_1_castle town_1_castle 1 gekokujo_interior_palace bo_gekokujo_interior_palace -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1024 
+ 0 
+scn_town_2_castle town_2_castle 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1025 
+ 0 
+scn_town_3_castle town_3_castle 1 gekokujo_interior_palace bo_gekokujo_interior_palace -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1026 
+ 0 
+scn_town_4_castle town_4_castle 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1027 
+ 0 
+scn_town_5_castle town_5_castle 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1028 
+ 0 
+scn_town_6_castle town_6_castle 1 gekokujo_interior_palace bo_gekokujo_interior_palace -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1029 
+ 0 
+scn_town_7_castle town_7_castle 1 gekokujo_interior_palace bo_gekokujo_interior_palace -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1030 
+ 0 
+scn_town_8_castle town_8_castle 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1031 
+ 0 
+scn_town_9_castle town_9_castle 1 gekokujo_interior_palace bo_gekokujo_interior_palace -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1032 
+ 0 
+scn_town_10_castle town_10_castle 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1033 
+ 0 
+scn_town_11_castle town_11_castle 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1034 
+ 0 
+scn_town_12_castle town_12_castle 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1035 
+ 0 
+scn_town_13_castle town_13_castle 1 gekokujo_interior_palace bo_gekokujo_interior_palace -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1036 
+ 0 
+scn_town_14_castle town_14_castle 1 gekokujo_interior_palace bo_gekokujo_interior_palace -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1037 
+ 0 
+scn_town_15_castle town_15_castle 1 gekokujo_interior_palace bo_gekokujo_interior_palace -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1038 
+ 0 
+scn_town_16_castle town_16_castle 1 gekokujo_interior_palace bo_gekokujo_interior_palace -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1039 
+ 0 
+scn_town_17_castle town_17_castle 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1040 
+ 0 
+scn_town_18_castle town_18_castle 1 gekokujo_interior_palace bo_gekokujo_interior_palace -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1041 
+ 0 
+scn_town_19_castle town_19_castle 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1042 
+ 0 
+scn_town_20_castle town_20_castle 1 gekokujo_interior_palace bo_gekokujo_interior_palace -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1043 
+ 0 
+scn_town_21_castle town_21_castle 1 gekokujo_interior_palace bo_gekokujo_interior_palace -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1044 
+ 0 
+scn_town_22_castle town_22_castle 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1045 
+ 0 
+scn_town_23_castle town_23_castle 1 gekokujo_interior_palace bo_gekokujo_interior_palace -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1046 
+ 0 
+scn_town_24_castle town_24_castle 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1047 
+ 0 
+scn_town_25_castle town_25_castle 1 gekokujo_interior_palace bo_gekokujo_interior_palace -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1048 
+ 0 
+scn_town_26_castle town_26_castle 1 gekokujo_interior_palace bo_gekokujo_interior_palace -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1049 
+ 0 
+scn_town_27_castle town_27_castle 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1050 
+ 0 
+scn_town_28_castle town_28_castle 1 gekokujo_interior_palace bo_gekokujo_interior_palace -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1051 
+ 0 
+scn_town_29_castle town_29_castle 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1052 
+ 0 
+scn_town_30_castle town_30_castle 1 gekokujo_interior_palace bo_gekokujo_interior_palace -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1053 
+ 0 
+scn_town_31_castle town_31_castle 1 gekokujo_interior_palace bo_gekokujo_interior_palace -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1054 
+ 0 
+scn_town_32_castle town_32_castle 1 gekokujo_interior_palace bo_gekokujo_interior_palace -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1055 
+ 0 
+scn_town_1_tavern town_1_tavern 1 gekokujo_interior_inn bo_gekokujo_interior_inn -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_2_tavern town_2_tavern 1 gekokujo_interior_inn bo_gekokujo_interior_inn -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_3_tavern town_3_tavern 1 gekokujo_interior_inn bo_gekokujo_interior_inn -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_4_tavern town_4_tavern 1 gekokujo_interior_inn bo_gekokujo_interior_inn -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_5_tavern town_5_tavern 1 gekokujo_interior_inn bo_gekokujo_interior_inn -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_6_tavern town_6_tavern 1 gekokujo_interior_inn bo_gekokujo_interior_inn -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_7_tavern town_7_tavern 1 gekokujo_interior_inn bo_gekokujo_interior_inn -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_8_tavern town_8_tavern 1 gekokujo_interior_inn bo_gekokujo_interior_inn -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_9_tavern town_9_tavern 1 gekokujo_interior_inn bo_gekokujo_interior_inn -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_10_tavern town_10_tavern 1 gekokujo_interior_inn bo_gekokujo_interior_inn -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_11_tavern town_11_tavern 1 gekokujo_interior_inn bo_gekokujo_interior_inn -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_12_tavern town_12_tavern 1 gekokujo_interior_inn bo_gekokujo_interior_inn -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_13_tavern town_13_tavern 1 gekokujo_interior_inn bo_gekokujo_interior_inn -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_14_tavern town_14_tavern 1 gekokujo_interior_inn bo_gekokujo_interior_inn -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_15_tavern town_15_tavern 1 gekokujo_interior_inn bo_gekokujo_interior_inn -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_16_tavern town_16_tavern 1 gekokujo_interior_inn bo_gekokujo_interior_inn -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_17_tavern town_17_tavern 1 gekokujo_interior_inn bo_gekokujo_interior_inn -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_18_tavern town_18_tavern 1 gekokujo_interior_inn bo_gekokujo_interior_inn -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_19_tavern town_19_tavern 1 gekokujo_interior_inn bo_gekokujo_interior_inn -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_20_tavern town_20_tavern 1 gekokujo_interior_inn bo_gekokujo_interior_inn -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_21_tavern town_21_tavern 1 gekokujo_interior_inn bo_gekokujo_interior_inn -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_22_tavern town_22_tavern 1 gekokujo_interior_inn bo_gekokujo_interior_inn -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_23_tavern town_23_tavern 1 gekokujo_interior_inn bo_gekokujo_interior_inn -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_24_tavern town_24_tavern 1 gekokujo_interior_inn bo_gekokujo_interior_inn -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_25_tavern town_25_tavern 1 gekokujo_interior_inn bo_gekokujo_interior_inn -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_26_tavern town_26_tavern 1 gekokujo_interior_inn bo_gekokujo_interior_inn -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_27_tavern town_27_tavern 1 gekokujo_interior_inn bo_gekokujo_interior_inn -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_28_tavern town_28_tavern 1 gekokujo_interior_inn bo_gekokujo_interior_inn -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_29_tavern town_29_tavern 1 gekokujo_interior_inn bo_gekokujo_interior_inn -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_30_tavern town_30_tavern 1 gekokujo_interior_inn bo_gekokujo_interior_inn -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_31_tavern town_31_tavern 1 gekokujo_interior_inn bo_gekokujo_interior_inn -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_32_tavern town_32_tavern 1 gekokujo_interior_inn bo_gekokujo_interior_inn -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_1_store town_1_store 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_2_store town_2_store 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_3_store town_3_store 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_4_store town_4_store 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_5_store town_5_store 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_6_store town_6_store 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_7_store town_7_store 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_8_store town_8_store 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_9_store town_9_store 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_10_store town_10_store 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_11_store town_11_store 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_12_store town_12_store 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_13_store town_13_store 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_14_store town_14_store 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_15_store town_15_store 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_16_store town_16_store 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_17_store town_17_store 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_18_store town_18_store 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_19_store town_19_store 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_20_store town_20_store 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_21_store town_21_store 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_22_store town_22_store 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_23_store town_23_store 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_24_store town_24_store 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_25_store town_25_store 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_26_store town_26_store 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_27_store town_27_store 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_28_store town_28_store 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_29_store town_29_store 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_30_store town_30_store 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_31_store town_31_store 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_32_store town_32_store 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_1_arena town_1_arena 1 gekokujo_interior_dojo bo_gekokujo_interior_dojo -200.000000 -200.000000 200.000000 200.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_2_arena town_2_arena 1 gekokujo_interior_dojo bo_gekokujo_interior_dojo -200.000000 -200.000000 200.000000 200.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_3_arena town_3_arena 1 gekokujo_interior_dojo bo_gekokujo_interior_dojo -200.000000 -200.000000 200.000000 200.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_4_arena town_4_arena 1 gekokujo_interior_dojo bo_gekokujo_interior_dojo -200.000000 -200.000000 200.000000 200.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_5_arena town_5_arena 1 gekokujo_interior_dojo bo_gekokujo_interior_dojo -200.000000 -200.000000 200.000000 200.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_6_arena town_6_arena 1 gekokujo_interior_dojo bo_gekokujo_interior_dojo -200.000000 -200.000000 200.000000 200.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_7_arena town_7_arena 1 gekokujo_interior_dojo bo_gekokujo_interior_dojo -200.000000 -200.000000 200.000000 200.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_8_arena town_8_arena 1 gekokujo_interior_dojo bo_gekokujo_interior_dojo -200.000000 -200.000000 200.000000 200.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_9_arena town_9_arena 1 gekokujo_interior_dojo bo_gekokujo_interior_dojo -200.000000 -200.000000 200.000000 200.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_10_arena town_10_arena 1 gekokujo_interior_dojo bo_gekokujo_interior_dojo -200.000000 -200.000000 200.000000 200.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_11_arena town_11_arena 1 gekokujo_interior_dojo bo_gekokujo_interior_dojo -200.000000 -200.000000 200.000000 200.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_12_arena town_12_arena 1 gekokujo_interior_dojo bo_gekokujo_interior_dojo -200.000000 -200.000000 200.000000 200.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_13_arena town_13_arena 1 gekokujo_interior_dojo bo_gekokujo_interior_dojo -200.000000 -200.000000 200.000000 200.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_14_arena town_14_arena 1 gekokujo_interior_dojo bo_gekokujo_interior_dojo -200.000000 -200.000000 200.000000 200.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_15_arena town_15_arena 1 gekokujo_interior_dojo bo_gekokujo_interior_dojo -200.000000 -200.000000 200.000000 200.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_16_arena town_16_arena 1 gekokujo_interior_dojo bo_gekokujo_interior_dojo -200.000000 -200.000000 200.000000 200.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_17_arena town_17_arena 1 gekokujo_interior_dojo bo_gekokujo_interior_dojo -200.000000 -200.000000 200.000000 200.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_18_arena town_18_arena 1 gekokujo_interior_dojo bo_gekokujo_interior_dojo -200.000000 -200.000000 200.000000 200.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_19_arena town_19_arena 1 gekokujo_interior_dojo bo_gekokujo_interior_dojo -200.000000 -200.000000 200.000000 200.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_20_arena town_20_arena 1 gekokujo_interior_dojo bo_gekokujo_interior_dojo -200.000000 -200.000000 200.000000 200.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_21_arena town_21_arena 1 gekokujo_interior_dojo bo_gekokujo_interior_dojo -200.000000 -200.000000 200.000000 200.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_22_arena town_22_arena 1 gekokujo_interior_dojo bo_gekokujo_interior_dojo -200.000000 -200.000000 200.000000 200.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_23_arena town_23_arena 1 gekokujo_interior_dojo bo_gekokujo_interior_dojo -200.000000 -200.000000 200.000000 200.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_24_arena town_24_arena 1 gekokujo_interior_dojo bo_gekokujo_interior_dojo -200.000000 -200.000000 200.000000 200.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_25_arena town_25_arena 1 gekokujo_interior_dojo bo_gekokujo_interior_dojo -200.000000 -200.000000 200.000000 200.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_26_arena town_26_arena 1 gekokujo_interior_dojo bo_gekokujo_interior_dojo -200.000000 -200.000000 200.000000 200.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_27_arena town_27_arena 1 gekokujo_interior_dojo bo_gekokujo_interior_dojo -200.000000 -200.000000 200.000000 200.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_28_arena town_28_arena 1 gekokujo_interior_dojo bo_gekokujo_interior_dojo -200.000000 -200.000000 200.000000 200.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_29_arena town_29_arena 1 gekokujo_interior_dojo bo_gekokujo_interior_dojo -200.000000 -200.000000 200.000000 200.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_30_arena town_30_arena 1 gekokujo_interior_dojo bo_gekokujo_interior_dojo -200.000000 -200.000000 200.000000 200.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_31_arena town_31_arena 1 gekokujo_interior_dojo bo_gekokujo_interior_dojo -200.000000 -200.000000 200.000000 200.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_32_arena town_32_arena 1 gekokujo_interior_dojo bo_gekokujo_interior_dojo -200.000000 -200.000000 200.000000 200.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_1_prison town_1_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_2_prison town_2_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_3_prison town_3_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_4_prison town_4_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_5_prison town_5_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_6_prison town_6_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_7_prison town_7_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_8_prison town_8_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_9_prison town_9_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_10_prison town_10_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_11_prison town_11_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_12_prison town_12_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_13_prison town_13_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_14_prison town_14_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_15_prison town_15_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_16_prison town_16_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_17_prison town_17_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_18_prison town_18_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_19_prison town_19_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_20_prison town_20_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_21_prison town_21_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_22_prison town_22_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_23_prison town_23_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_24_prison town_24_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_25_prison town_25_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_26_prison town_26_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_27_prison town_27_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_28_prison town_28_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_29_prison town_29_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_30_prison town_30_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_31_prison town_31_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_32_prison town_32_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_1_walls town_1_walls 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005000006098200004dac00000d1000006fac 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_2_walls town_2_walls 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005000006098200004dac00000d1000006fac 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_3_walls town_3_walls 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005008004a12200001dbf000001ba0000064c 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_4_walls town_4_walls 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005008004611600001dbf00003729000030ce 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_5_walls town_5_walls 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005008004611600001dbf00003729000030ce 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_6_walls town_6_walls 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000308655e30004c12d0000231a00000d10000072ee 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_7_walls town_7_walls 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005000006098200004dac00000d1000006fac 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_8_walls town_8_walls 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005000006098200004dac00000d1000006fac 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_9_walls town_9_walls 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005000006098200004dac00000d1000006fac 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_10_walls town_10_walls 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005000006098200004dac00000d1000006fac 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_11_walls town_11_walls 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005008004611600001dbf00003729000030ce 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_12_walls town_12_walls 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003104f1150005094800007f5c000035b6000027d2 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_13_walls town_13_walls 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005000006098200004dac00000d1000006fac 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_14_walls town_14_walls 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005000006098200004dac00000d1000006fac 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_15_walls town_15_walls 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005008004a12200001dbf000001ba0000064c 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_16_walls town_16_walls 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005000006098200004dac00000d1000006fac 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_17_walls town_17_walls 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005000006098200004dac00000d1000006fac 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_18_walls town_18_walls 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000308655e30004c12d0000231a00000d10000072ee 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_19_walls town_19_walls 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005000006098200004dac00000d1000006fac 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_20_walls town_20_walls 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005008004a12200001dbf000001ba0000064c 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_21_walls town_21_walls 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005000006098200004dac00000d1000006fac 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_22_walls town_22_walls 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005008004a12200001dbf000001ba0000064c 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_23_walls town_23_walls 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005000006098200004dac00000d1000006fac 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_24_walls town_24_walls 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005008004611600001dbf00003729000030ce 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_25_walls town_25_walls 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005000006098200004dac00000d1000006fac 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_26_walls town_26_walls 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000308655e30004c12d0000231a00000d10000072ee 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_27_walls town_27_walls 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005000006098200004dac00000d1000006fac 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_28_walls town_28_walls 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005008004a12200001dbf000001ba0000064c 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_29_walls town_29_walls 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000308655e30004c12d0000231a00000d10000072ee 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_30_walls town_30_walls 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005000006098200004dac00000d1000006fac 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_31_walls town_31_walls 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000308655e30004c12d0000231a00000d10000072ee 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_32_walls town_32_walls 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000308655e30004c12d0000231a00000d10000072ee 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_1_alley town_1_alley 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_2_alley town_2_alley 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_3_alley town_3_alley 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_4_alley town_4_alley 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_5_alley town_5_alley 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_6_alley town_6_alley 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_7_alley town_7_alley 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_8_alley town_8_alley 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_9_alley town_9_alley 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_10_alley town_10_alley 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_11_alley town_11_alley 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_12_alley town_12_alley 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_13_alley town_13_alley 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_14_alley town_14_alley 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_15_alley town_15_alley 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_16_alley town_16_alley 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_17_alley town_17_alley 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_18_alley town_18_alley 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_19_alley town_19_alley 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_20_alley town_20_alley 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_21_alley town_21_alley 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_22_alley town_22_alley 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_23_alley town_23_alley 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_24_alley town_24_alley 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_25_alley town_25_alley 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_26_alley town_26_alley 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_27_alley town_27_alley 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_28_alley town_28_alley 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_29_alley town_29_alley 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_30_alley town_30_alley 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_31_alley town_31_alley 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_32_alley town_32_alley 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_1_exterior castle_1_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003001f70000058962000074530000027700006aab 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_1_interior castle_1_interior 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1056 
+ 0 
+scn_castle_1_prison castle_1_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_2_exterior castle_2_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000331e10c078006819f0000312a0000496c00003f1d 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_2_interior castle_2_interior 1 gekokujo_interior_palace bo_gekokujo_interior_palace -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1057 
+ 0 
+scn_castle_2_prison castle_2_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_3_exterior castle_3_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005000006098200004dac00000d1000006fac 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_3_interior castle_3_interior 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1058 
+ 0 
+scn_castle_3_prison castle_3_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_4_exterior castle_4_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005008004611600001dbf00003729000030ce 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_4_interior castle_4_interior 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1059 
+ 0 
+scn_castle_4_prison castle_4_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_5_exterior castle_5_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003001f70000058962000074530000027700006aab 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_5_interior castle_5_interior 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1060 
+ 0 
+scn_castle_5_prison castle_5_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_6_exterior castle_6_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000030044e900003dd02000077b20000400100005697 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_6_interior castle_6_interior 1 gekokujo_interior_palace bo_gekokujo_interior_palace -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1061 
+ 0 
+scn_castle_6_prison castle_6_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_7_exterior castle_7_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005008004a12200001dbf000001ba0000064c 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_7_interior castle_7_interior 1 gekokujo_interior_palace bo_gekokujo_interior_palace -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1062 
+ 0 
+scn_castle_7_prison castle_7_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_8_exterior castle_8_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003104f1150005094800007f5c000035b6000027d2 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_8_interior castle_8_interior 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1063 
+ 0 
+scn_castle_8_prison castle_8_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_9_exterior castle_9_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005000003ccf900001dbf000050dc000030ce 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_9_interior castle_9_interior 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1064 
+ 0 
+scn_castle_9_prison castle_9_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_10_exterior castle_10_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003001f70000058962000074530000027700006aab 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_10_interior castle_10_interior 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1065 
+ 0 
+scn_castle_10_prison castle_10_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_11_exterior castle_11_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000308655e30004c12d0000231a00000d10000072ee 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_11_interior castle_11_interior 1 gekokujo_interior_palace bo_gekokujo_interior_palace -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1066 
+ 0 
+scn_castle_11_prison castle_11_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_12_exterior castle_12_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000331e10c078006819f0000312a0000496c00003f1d 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_12_interior castle_12_interior 1 gekokujo_interior_palace bo_gekokujo_interior_palace -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1067 
+ 0 
+scn_castle_12_prison castle_12_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_13_exterior castle_13_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005000006098200004dac00000d1000006fac 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_13_interior castle_13_interior 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1068 
+ 0 
+scn_castle_13_prison castle_13_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_14_exterior castle_14_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000030044e900003dd02000077b20000400100005697 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_14_interior castle_14_interior 1 gekokujo_interior_palace bo_gekokujo_interior_palace -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1069 
+ 0 
+scn_castle_14_prison castle_14_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_15_exterior castle_15_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005008004a12200001dbf000001ba0000064c 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_15_interior castle_15_interior 1 gekokujo_interior_palace bo_gekokujo_interior_palace -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1070 
+ 0 
+scn_castle_15_prison castle_15_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_16_exterior castle_16_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005000003ccf900001dbf000050dc000030ce 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_16_interior castle_16_interior 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1071 
+ 0 
+scn_castle_16_prison castle_16_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_17_exterior castle_17_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000308655e30004c12d0000231a00000d10000072ee 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_17_interior castle_17_interior 1 gekokujo_interior_palace bo_gekokujo_interior_palace -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1072 
+ 0 
+scn_castle_17_prison castle_17_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_18_exterior castle_18_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000331e10c078006819f0000312a0000496c00003f1d 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_18_interior castle_18_interior 1 gekokujo_interior_palace bo_gekokujo_interior_palace -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1073 
+ 0 
+scn_castle_18_prison castle_18_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_19_exterior castle_19_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005000006098200004dac00000d1000006fac 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_19_interior castle_19_interior 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1074 
+ 0 
+scn_castle_19_prison castle_19_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_20_exterior castle_20_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003104f1150005094800007f5c000035b6000027d2 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_20_interior castle_20_interior 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1075 
+ 0 
+scn_castle_20_prison castle_20_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_21_exterior castle_21_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000030044e900003dd02000077b20000400100005697 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_21_interior castle_21_interior 1 gekokujo_interior_palace bo_gekokujo_interior_palace -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1076 
+ 0 
+scn_castle_21_prison castle_21_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_22_exterior castle_22_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003001f70000058962000074530000027700006aab 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_22_interior castle_22_interior 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1077 
+ 0 
+scn_castle_22_prison castle_22_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_23_exterior castle_23_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003001f70000058962000074530000027700006aab 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_23_interior castle_23_interior 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1078 
+ 0 
+scn_castle_23_prison castle_23_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_24_exterior castle_24_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005008004611600001dbf00003729000030ce 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_24_interior castle_24_interior 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1079 
+ 0 
+scn_castle_24_prison castle_24_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_25_exterior castle_25_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005008004a12200001dbf000001ba0000064c 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_25_interior castle_25_interior 1 gekokujo_interior_palace bo_gekokujo_interior_palace -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1080 
+ 0 
+scn_castle_25_prison castle_25_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_26_exterior castle_26_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005000003ccf900001dbf000050dc000030ce 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_26_interior castle_26_interior 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1081 
+ 0 
+scn_castle_26_prison castle_26_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_27_exterior castle_27_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000308655e30004c12d0000231a00000d10000072ee 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_27_interior castle_27_interior 1 gekokujo_interior_palace bo_gekokujo_interior_palace -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1082 
+ 0 
+scn_castle_27_prison castle_27_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_28_exterior castle_28_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000331e10c078006819f0000312a0000496c00003f1d 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_28_interior castle_28_interior 1 gekokujo_interior_palace bo_gekokujo_interior_palace -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1083 
+ 0 
+scn_castle_28_prison castle_28_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_29_exterior castle_29_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005000006098200004dac00000d1000006fac 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_29_interior castle_29_interior 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1084 
+ 0 
+scn_castle_29_prison castle_29_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_30_exterior castle_30_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005008004611600001dbf00003729000030ce 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_30_interior castle_30_interior 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1085 
+ 0 
+scn_castle_30_prison castle_30_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_31_exterior castle_31_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000030044e900003dd02000077b20000400100005697 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_31_interior castle_31_interior 1 gekokujo_interior_palace bo_gekokujo_interior_palace -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1086 
+ 0 
+scn_castle_31_prison castle_31_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_32_exterior castle_32_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005008004611600001dbf00003729000030ce 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_32_interior castle_32_interior 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1087 
+ 0 
+scn_castle_32_prison castle_32_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_33_exterior castle_33_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005008004a12200001dbf000001ba0000064c 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_33_interior castle_33_interior 1 gekokujo_interior_palace bo_gekokujo_interior_palace -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1088 
+ 0 
+scn_castle_33_prison castle_33_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_34_exterior castle_34_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005000003ccf900001dbf000050dc000030ce 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_34_interior castle_34_interior 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1089 
+ 0 
+scn_castle_34_prison castle_34_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_35_exterior castle_35_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000308655e30004c12d0000231a00000d10000072ee 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_35_interior castle_35_interior 1 gekokujo_interior_palace bo_gekokujo_interior_palace -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1090 
+ 0 
+scn_castle_35_prison castle_35_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_36_exterior castle_36_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000331e10c078006819f0000312a0000496c00003f1d 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_36_interior castle_36_interior 1 gekokujo_interior_palace bo_gekokujo_interior_palace -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1091 
+ 0 
+scn_castle_36_prison castle_36_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_37_exterior castle_37_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005000006098200004dac00000d1000006fac 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_37_interior castle_37_interior 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1092 
+ 0 
+scn_castle_37_prison castle_37_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_38_exterior castle_38_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000030044e900003dd02000077b20000400100005697 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_38_interior castle_38_interior 1 gekokujo_interior_palace bo_gekokujo_interior_palace -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1093 
+ 0 
+scn_castle_38_prison castle_38_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_39_exterior castle_39_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005008004a12200001dbf000001ba0000064c 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_39_interior castle_39_interior 1 gekokujo_interior_palace bo_gekokujo_interior_palace -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1094 
+ 0 
+scn_castle_39_prison castle_39_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_40_exterior castle_40_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005000003ccf900001dbf000050dc000030ce 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_40_interior castle_40_interior 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1095 
+ 0 
+scn_castle_40_prison castle_40_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_41_exterior castle_41_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000308655e30004c12d0000231a00000d10000072ee 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_41_interior castle_41_interior 1 gekokujo_interior_palace bo_gekokujo_interior_palace -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1096 
+ 0 
+scn_castle_41_prison castle_41_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_42_exterior castle_42_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003001f70000058962000074530000027700006aab 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_42_interior castle_42_interior 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1097 
+ 0 
+scn_castle_42_prison castle_42_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_43_exterior castle_43_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003001f70000058962000074530000027700006aab 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_43_interior castle_43_interior 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1098 
+ 0 
+scn_castle_43_prison castle_43_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_44_exterior castle_44_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000331e10c078006819f0000312a0000496c00003f1d 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_44_interior castle_44_interior 1 gekokujo_interior_palace bo_gekokujo_interior_palace -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1099 
+ 0 
+scn_castle_44_prison castle_44_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_45_exterior castle_45_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005000006098200004dac00000d1000006fac 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_45_interior castle_45_interior 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1100 
+ 0 
+scn_castle_45_prison castle_45_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_46_exterior castle_46_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000030044e900003dd02000077b20000400100005697 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_46_interior castle_46_interior 1 gekokujo_interior_palace bo_gekokujo_interior_palace -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1101 
+ 0 
+scn_castle_46_prison castle_46_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_47_exterior castle_47_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005008004a12200001dbf000001ba0000064c 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_47_interior castle_47_interior 1 gekokujo_interior_palace bo_gekokujo_interior_palace -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1102 
+ 0 
+scn_castle_47_prison castle_47_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_48_exterior castle_48_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005000003ccf900001dbf000050dc000030ce 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_48_interior castle_48_interior 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1103 
+ 0 
+scn_castle_48_prison castle_48_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_49_exterior castle_49_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005008004611600001dbf00003729000030ce 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_49_interior castle_49_interior 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1104 
+ 0 
+scn_castle_49_prison castle_49_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_50_exterior castle_50_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000308655e30004c12d0000231a00000d10000072ee 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_50_interior castle_50_interior 1 gekokujo_interior_palace bo_gekokujo_interior_palace -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1105 
+ 0 
+scn_castle_50_prison castle_50_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_51_exterior castle_51_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005000006098200004dac00000d1000006fac 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_51_interior castle_51_interior 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1106 
+ 0 
+scn_castle_51_prison castle_51_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_52_exterior castle_52_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005008004a12200001dbf000001ba0000064c 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_52_interior castle_52_interior 1 gekokujo_interior_palace bo_gekokujo_interior_palace -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1107 
+ 0 
+scn_castle_52_prison castle_52_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_53_exterior castle_53_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005008004611600001dbf00003729000030ce 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_53_interior castle_53_interior 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1108 
+ 0 
+scn_castle_53_prison castle_53_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_54_exterior castle_54_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005000003ccf900001dbf000050dc000030ce 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_54_interior castle_54_interior 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1109 
+ 0 
+scn_castle_54_prison castle_54_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_55_exterior castle_55_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005008004611600001dbf00003729000030ce 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_55_interior castle_55_interior 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1110 
+ 0 
+scn_castle_55_prison castle_55_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_56_exterior castle_56_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003001f70000058962000074530000027700006aab 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_56_interior castle_56_interior 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1111 
+ 0 
+scn_castle_56_prison castle_56_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_57_exterior castle_57_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003104f1150005094800007f5c000035b6000027d2 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_57_interior castle_57_interior 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1112 
+ 0 
+scn_castle_57_prison castle_57_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_58_exterior castle_58_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003001f70000058962000074530000027700006aab 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_58_interior castle_58_interior 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1113 
+ 0 
+scn_castle_58_prison castle_58_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_59_exterior castle_59_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003104f1150005094800007f5c000035b6000027d2 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_59_interior castle_59_interior 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1114 
+ 0 
+scn_castle_59_prison castle_59_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_60_exterior castle_60_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003104f1150005094800007f5c000035b6000027d2 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_60_interior castle_60_interior 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1115 
+ 0 
+scn_castle_60_prison castle_60_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_61_exterior castle_61_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005000006098200004dac00000d1000006fac 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_61_interior castle_61_interior 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1116 
+ 0 
+scn_castle_61_prison castle_61_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_62_exterior castle_62_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005008004a12200001dbf000001ba0000064c 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_62_interior castle_62_interior 1 gekokujo_interior_palace bo_gekokujo_interior_palace -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1117 
+ 0 
+scn_castle_62_prison castle_62_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_63_exterior castle_63_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003104f1150005094800007f5c000035b6000027d2 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_63_interior castle_63_interior 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1118 
+ 0 
+scn_castle_63_prison castle_63_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_64_exterior castle_64_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003001f70000058962000074530000027700006aab 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_64_interior castle_64_interior 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1119 
+ 0 
+scn_castle_64_prison castle_64_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_65_exterior castle_65_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005000003ccf900001dbf000050dc000030ce 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_65_interior castle_65_interior 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1120 
+ 0 
+scn_castle_65_prison castle_65_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_66_exterior castle_66_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000308655e30004c12d0000231a00000d10000072ee 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_66_interior castle_66_interior 1 gekokujo_interior_palace bo_gekokujo_interior_palace -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1121 
+ 0 
+scn_castle_66_prison castle_66_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_67_exterior castle_67_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003104f1150005094800007f5c000035b6000027d2 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_67_interior castle_67_interior 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1122 
+ 0 
+scn_castle_67_prison castle_67_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_68_exterior castle_68_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003104f1150005094800007f5c000035b6000027d2 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_68_interior castle_68_interior 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1123 
+ 0 
+scn_castle_68_prison castle_68_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_69_exterior castle_69_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003104f1150005094800007f5c000035b6000027d2 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_69_interior castle_69_interior 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1124 
+ 0 
+scn_castle_69_prison castle_69_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_70_exterior castle_70_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003104f1150005094800007f5c000035b6000027d2 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_70_interior castle_70_interior 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1125 
+ 0 
+scn_castle_70_prison castle_70_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_71_exterior castle_71_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003001f70000058962000074530000027700006aab 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_71_interior castle_71_interior 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1126 
+ 0 
+scn_castle_71_prison castle_71_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_72_exterior castle_72_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000131e313148004c95c00001d5e00005860000004db 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_72_interior castle_72_interior 1 gekokujo_interior_palace bo_gekokujo_interior_palace -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1127 
+ 0 
+scn_castle_72_prison castle_72_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_73_exterior castle_73_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005008004611600001dbf00003729000030ce 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_73_interior castle_73_interior 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1128 
+ 0 
+scn_castle_73_prison castle_73_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_74_exterior castle_74_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005000006098200004dac00000d1000006fac 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_74_interior castle_74_interior 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1129 
+ 0 
+scn_castle_74_prison castle_74_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_castle_75_exterior castle_75_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000131e313148004c95c00001d5e00005860000004db 
+  0 
+  0 
+ outer_terrain_plain 
+scn_castle_75_interior castle_75_interior 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  1  1130 
+ 0 
+scn_castle_75_prison castle_75_prison 1 gekokujo_interior_medium bo_gekokujo_interior_medium -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_village_1 village_1 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300019500006c1b4000065c700002bea0000154e 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_2 village_2 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000001b0051ebc00062d8b0000570d00005b3900001ae1 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_3 village_3 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300029d4000691a4000015148000335800004190 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_4 village_4 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000230029ce30004912400002acc000040d7000077db 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_5 village_5 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000022004d36300077dd600002e08000036ab00004651 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_village_6 village_6 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000030081763000589620000338e00004f2c00005cfb 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_7 village_7 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300019500006c1b4000065c700002bea0000154e 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_8 village_8 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000001b0051ebc00062d8b0000570d00005b3900001ae1 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_9 village_9 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300029d4000691a4000015148000335800004190 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_10 village_10 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000230029ce30004912400002acc000040d7000077db 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_11 village_11 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000022004d36300077dd600002e08000036ab00004651 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_village_12 village_12 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000030081763000589620000338e00004f2c00005cfb 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_13 village_13 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300019500006c1b4000065c700002bea0000154e 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_14 village_14 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000001b0051ebc00062d8b0000570d00005b3900001ae1 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_15 village_15 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300029d4000691a4000015148000335800004190 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_16 village_16 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000230029ce30004912400002acc000040d7000077db 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_17 village_17 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000022004d36300077dd600002e08000036ab00004651 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_village_18 village_18 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000030081763000589620000338e00004f2c00005cfb 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_19 village_19 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300019500006c1b4000065c700002bea0000154e 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_20 village_20 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000001b0051ebc00062d8b0000570d00005b3900001ae1 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_21 village_21 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300029d4000691a4000015148000335800004190 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_22 village_22 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000230029ce30004912400002acc000040d7000077db 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_23 village_23 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000022004d36300077dd600002e08000036ab00004651 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_village_24 village_24 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000030081763000589620000338e00004f2c00005cfb 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_25 village_25 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300019500006c1b4000065c700002bea0000154e 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_26 village_26 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000001b0051ebc00062d8b0000570d00005b3900001ae1 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_27 village_27 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300029d4000691a4000015148000335800004190 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_28 village_28 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000230029ce30004912400002acc000040d7000077db 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_29 village_29 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000022004d36300077dd600002e08000036ab00004651 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_village_30 village_30 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000030081763000589620000338e00004f2c00005cfb 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_31 village_31 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300019500006c1b4000065c700002bea0000154e 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_32 village_32 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000001b0051ebc00062d8b0000570d00005b3900001ae1 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_33 village_33 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300029d4000691a4000015148000335800004190 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_34 village_34 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000230029ce30004912400002acc000040d7000077db 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_35 village_35 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000022004d36300077dd600002e08000036ab00004651 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_village_36 village_36 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000030081763000589620000338e00004f2c00005cfb 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_37 village_37 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300019500006c1b4000065c700002bea0000154e 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_38 village_38 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000001b0051ebc00062d8b0000570d00005b3900001ae1 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_39 village_39 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300029d4000691a4000015148000335800004190 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_40 village_40 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000230029ce30004912400002acc000040d7000077db 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_41 village_41 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000022004d36300077dd600002e08000036ab00004651 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_village_42 village_42 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000030081763000589620000338e00004f2c00005cfb 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_43 village_43 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300019500006c1b4000065c700002bea0000154e 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_44 village_44 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000001b0051ebc00062d8b0000570d00005b3900001ae1 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_45 village_45 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300029d4000691a4000015148000335800004190 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_46 village_46 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000230029ce30004912400002acc000040d7000077db 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_47 village_47 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000022004d36300077dd600002e08000036ab00004651 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_village_48 village_48 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000030081763000589620000338e00004f2c00005cfb 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_49 village_49 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300019500006c1b4000065c700002bea0000154e 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_50 village_50 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000001b0051ebc00062d8b0000570d00005b3900001ae1 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_51 village_51 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300029d4000691a4000015148000335800004190 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_52 village_52 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000230029ce30004912400002acc000040d7000077db 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_53 village_53 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000022004d36300077dd600002e08000036ab00004651 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_village_54 village_54 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000030081763000589620000338e00004f2c00005cfb 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_55 village_55 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300019500006c1b4000065c700002bea0000154e 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_56 village_56 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000001b0051ebc00062d8b0000570d00005b3900001ae1 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_57 village_57 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300029d4000691a4000015148000335800004190 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_58 village_58 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000230029ce30004912400002acc000040d7000077db 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_59 village_59 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000022004d36300077dd600002e08000036ab00004651 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_village_60 village_60 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000030081763000589620000338e00004f2c00005cfb 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_61 village_61 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300019500006c1b4000065c700002bea0000154e 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_62 village_62 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000001b0051ebc00062d8b0000570d00005b3900001ae1 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_63 village_63 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300029d4000691a4000015148000335800004190 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_64 village_64 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000230029ce30004912400002acc000040d7000077db 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_65 village_65 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000022004d36300077dd600002e08000036ab00004651 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_village_66 village_66 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000030081763000589620000338e00004f2c00005cfb 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_67 village_67 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300019500006c1b4000065c700002bea0000154e 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_68 village_68 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000001b0051ebc00062d8b0000570d00005b3900001ae1 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_69 village_69 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300029d4000691a4000015148000335800004190 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_70 village_70 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000230029ce30004912400002acc000040d7000077db 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_71 village_71 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000022004d36300077dd600002e08000036ab00004651 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_village_72 village_72 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000030081763000589620000338e00004f2c00005cfb 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_73 village_73 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300019500006c1b4000065c700002bea0000154e 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_74 village_74 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000001b0051ebc00062d8b0000570d00005b3900001ae1 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_75 village_75 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300029d4000691a4000015148000335800004190 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_76 village_76 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000230029ce30004912400002acc000040d7000077db 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_77 village_77 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000022004d36300077dd600002e08000036ab00004651 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_village_78 village_78 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000030081763000589620000338e00004f2c00005cfb 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_79 village_79 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300019500006c1b4000065c700002bea0000154e 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_80 village_80 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000001b0051ebc00062d8b0000570d00005b3900001ae1 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_81 village_81 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300029d4000691a4000015148000335800004190 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_82 village_82 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000230029ce30004912400002acc000040d7000077db 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_83 village_83 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000022004d36300077dd600002e08000036ab00004651 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_village_84 village_84 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000030081763000589620000338e00004f2c00005cfb 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_85 village_85 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300019500006c1b4000065c700002bea0000154e 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_86 village_86 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000001b0051ebc00062d8b0000570d00005b3900001ae1 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_87 village_87 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300029d4000691a4000015148000335800004190 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_88 village_88 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000230029ce30004912400002acc000040d7000077db 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_89 village_89 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000022004d36300077dd600002e08000036ab00004651 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_village_90 village_90 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000030081763000589620000338e00004f2c00005cfb 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_91 village_91 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300019500006c1b4000065c700002bea0000154e 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_92 village_92 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000001b0051ebc00062d8b0000570d00005b3900001ae1 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_93 village_93 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300029d4000691a4000015148000335800004190 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_94 village_94 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000230029ce30004912400002acc000040d7000077db 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_95 village_95 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000022004d36300077dd600002e08000036ab00004651 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_village_96 village_96 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000030081763000589620000338e00004f2c00005cfb 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_97 village_97 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300019500006c1b4000065c700002bea0000154e 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_98 village_98 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000001b0051ebc00062d8b0000570d00005b3900001ae1 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_99 village_99 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300029d4000691a4000015148000335800004190 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_100 village_100 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000230029ce30004912400002acc000040d7000077db 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_101 village_101 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000022004d36300077dd600002e08000036ab00004651 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_village_102 village_102 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000030081763000589620000338e00004f2c00005cfb 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_103 village_103 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300019500006c1b4000065c700002bea0000154e 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_104 village_104 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000001b0051ebc00062d8b0000570d00005b3900001ae1 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_105 village_105 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300029d4000691a4000015148000335800004190 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_106 village_106 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000230029ce30004912400002acc000040d7000077db 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_107 village_107 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000022004d36300077dd600002e08000036ab00004651 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_village_108 village_108 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000030081763000589620000338e00004f2c00005cfb 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_109 village_109 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300019500006c1b4000065c700002bea0000154e 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_110 village_110 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000001b0051ebc00062d8b0000570d00005b3900001ae1 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_111 village_111 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300029d4000691a4000015148000335800004190 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_112 village_112 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000230029ce30004912400002acc000040d7000077db 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_113 village_113 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000022004d36300077dd600002e08000036ab00004651 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_village_114 village_114 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000030081763000589620000338e00004f2c00005cfb 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_115 village_115 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300019500006c1b4000065c700002bea0000154e 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_116 village_116 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000001b0051ebc00062d8b0000570d00005b3900001ae1 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_117 village_117 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300029d4000691a4000015148000335800004190 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_118 village_118 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000230029ce30004912400002acc000040d7000077db 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_119 village_119 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000022004d36300077dd600002e08000036ab00004651 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_village_120 village_120 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000030081763000589620000338e00004f2c00005cfb 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_121 village_121 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300019500006c1b4000065c700002bea0000154e 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_122 village_122 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000001b0051ebc00062d8b0000570d00005b3900001ae1 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_123 village_123 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300029d4000691a4000015148000335800004190 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_124 village_124 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000230029ce30004912400002acc000040d7000077db 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_125 village_125 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000022004d36300077dd600002e08000036ab00004651 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_village_126 village_126 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000030081763000589620000338e00004f2c00005cfb 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_127 village_127 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300019500006c1b4000065c700002bea0000154e 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_128 village_128 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000001b0051ebc00062d8b0000570d00005b3900001ae1 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_129 village_129 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300029d4000691a4000015148000335800004190 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_130 village_130 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000230029ce30004912400002acc000040d7000077db 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_131 village_131 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000022004d36300077dd600002e08000036ab00004651 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_village_132 village_132 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000030081763000589620000338e00004f2c00005cfb 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_133 village_133 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300019500006c1b4000065c700002bea0000154e 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_134 village_134 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000001b0051ebc00062d8b0000570d00005b3900001ae1 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_135 village_135 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300029d4000691a4000015148000335800004190 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_136 village_136 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000230029ce30004912400002acc000040d7000077db 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_137 village_137 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000022004d36300077dd600002e08000036ab00004651 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_village_138 village_138 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000030081763000589620000338e00004f2c00005cfb 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_139 village_139 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300019500006c1b4000065c700002bea0000154e 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_140 village_140 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000001b0051ebc00062d8b0000570d00005b3900001ae1 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_141 village_141 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300029d4000691a4000015148000335800004190 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_142 village_142 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000230029ce30004912400002acc000040d7000077db 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_143 village_143 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000022004d36300077dd600002e08000036ab00004651 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_village_144 village_144 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000030081763000589620000338e00004f2c00005cfb 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_145 village_145 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300019500006c1b4000065c700002bea0000154e 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_146 village_146 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000001b0051ebc00062d8b0000570d00005b3900001ae1 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_147 village_147 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300029d4000691a4000015148000335800004190 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_148 village_148 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000230029ce30004912400002acc000040d7000077db 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_149 village_149 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000022004d36300077dd600002e08000036ab00004651 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_village_150 village_150 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000030081763000589620000338e00004f2c00005cfb 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_151 village_151 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300019500006c1b4000065c700002bea0000154e 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_152 village_152 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000001b0051ebc00062d8b0000570d00005b3900001ae1 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_153 village_153 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300029d4000691a4000015148000335800004190 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_154 village_154 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000230029ce30004912400002acc000040d7000077db 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_155 village_155 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000022004d36300077dd600002e08000036ab00004651 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_village_156 village_156 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000030081763000589620000338e00004f2c00005cfb 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_157 village_157 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300019500006c1b4000065c700002bea0000154e 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_158 village_158 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000001b0051ebc00062d8b0000570d00005b3900001ae1 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_159 village_159 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300029d4000691a4000015148000335800004190 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_160 village_160 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000230029ce30004912400002acc000040d7000077db 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_161 village_161 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000022004d36300077dd600002e08000036ab00004651 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_village_162 village_162 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000230029ce30004912400002acc000040d7000077db 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_163 village_163 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000230029ce30004912400002acc000040d7000077db 
+  0 
+  0 
+ outer_terrain_plain 
+scn_village_164 village_164 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000230029ce30004912400002acc000040d7000077db 
+  0 
+  0 
+ outer_terrain_plain 
+scn_fort_1 fort_1 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003002663d000310c6000010410000604a00001719 
+  0 
+  0 
+ outer_terrain_plain 
+scn_fort_2 fort_2 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003002663d000310c6000010410000604a00001719 
+  0 
+  0 
+ outer_terrain_plain 
+scn_fort_3 fort_3 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000131e313148004c95c00001d5e00005860000004db 
+  0 
+  0 
+ outer_terrain_plain 
+scn_fort_4 fort_4 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000131e313148004c95c00001d5e00005860000004db 
+  0 
+  0 
+ outer_terrain_plain 
+scn_fort_5 fort_5 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000140029bbc0006799b000009cb0000720000006555 
+  0 
+  0 
+ outer_terrain_snow 
+scn_fort_6 fort_6 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000014007b26300059563000051e000001aa4000034ee 
+  0 
+  0 
+ outer_terrain_snow 
+scn_field_1 field_1 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000033a059a5a0009525600002005000060e300001175 
+  0 
+  0 
+ outer_terrain_plain 
+scn_field_2 field_2 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000033a079a3f000a3a8000006dfd000030a100006522 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_field_3 field_3 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x30054da28004050000005a76800022aa00002e3b 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_field_4 field_4 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x30054da28004050000005a76800022aa00002e3b 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_field_5 field_5 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x30054da28004050000005a76800022aa00002e3b 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_test2 test2 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000b0078cb20003fd0000005e480000288c0000286f 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_test3 test3 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000b00511d98004b12e0000039f00004e6300005c7d 
+  0 
+  0 
+ outer_terrain_plain 
+scn_multi_scene_1 multi_scene_1 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000001300389800003a4ea000058340000637a0000399b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_multi_scene_2 multi_scene_2 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000012002a0b20004992700006e54000007fe00001fd2 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_multi_scene_3 multi_scene_3 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000013002e0b20005154500006e540000235600007b55 
+  0 
+  0 
+ outer_terrain_plain 
+scn_multi_scene_4 multi_scene_4 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000001300659630003c8f300003ca000006a8900003c89 
+  0 
+  0 
+ outer_terrain_plain 
+scn_multi_scene_5 multi_scene_5 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000023002a1ba0004210900003ca000006a8900007a7b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_multi_scene_6 multi_scene_6 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002300494b200048524000059e80000453300001d32 
+  0 
+  0 
+ outer_terrain_plain 
+scn_multi_scene_7 multi_scene_7 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000130010e0e0005fd84000011c60000285b00005cbe 
+  0 
+  0 
+ outer_terrain_plain 
+scn_multi_scene_8 multi_scene_8 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000020004db18004611400005c918000397b00004c2e 
+  0 
+  0 
+ outer_terrain_plain 
+scn_multi_scene_9 multi_scene_9 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000400032320003c0f300001f9e000011180000031c 
+  0 
+  0 
+ outer_terrain_snow 
+scn_multi_scene_10 multi_scene_10 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003009cde1000599630000423b00005756000000af 
+  0 
+  0 
+ outer_terrain_plain 
+scn_multi_scene_11 multi_scene_11 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000030015f2b000350d4000011a4000017ee000054af 
+  0 
+  0 
+ outer_terrain_plain 
+scn_multi_scene_12 multi_scene_12 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000013003d7e30005053f00003b4e0000146300006e84 
+  0 
+  0 
+ outer_terrain_plain 
+scn_multi_scene_13 multi_scene_13 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000001300389800003a4ea000058340000637a0000399b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_multi_scene_14 multi_scene_14 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000040000c910003e8fa0000538900003e9e00005301 
+  0 
+  0 
+ outer_terrain_snow 
+scn_multi_scene_15 multi_scene_15 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000500b1d158005394c00001230800072880000018f 
+  0 
+  0 
+ outer_terrain_desert 
+scn_multi_scene_16 multi_scene_16 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000d007abd20002c8b1000050c50000752a0000788c 
+  0 
+  0 
+ outer_terrain_desert 
+scn_multi_scene_17 multi_scene_17 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002200005000005f57b00005885000046bd00006d9c 
+  0 
+  0 
+ outer_terrain_plain 
+scn_multi_scene_18 multi_scene_18 4352 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000b00037630002308c00000c9400005d4c00000f3a 
+  0 
+  0 
+ outer_terrain_plain 
+scn_multi_scene_19 multi_scene_19 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000001300389800003a4ea000058340000637a0000399b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_multi_scene_20 multi_scene_20 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000013002ab630004651800000d7a00007f3100002701 
+  0 
+  0 
+ outer_terrain_plain 
+scn_random_multi_plain_medium random_multi_plain_medium 1792 none none 0.000000 0.000000 240.000000 240.000000 -0.500000 0x00000001394018dd000649920004406900002920000056d7 
+  0 
+  0 
+ outer_terrain_plain 
+scn_random_multi_plain_large random_multi_plain_large 1792 none none 0.000000 0.000000 240.000000 240.000000 -0.500000 0x000000013a001853000aa6a40004406900002920001e4f81 
+  0 
+  0 
+ outer_terrain_plain 
+scn_random_multi_steppe_medium random_multi_steppe_medium 1792 none none 0.000000 0.000000 100.000000 100.000000 -0.500000 0x0000000128601ae300063d8f0004406900002920001e4f81 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_random_multi_steppe_large random_multi_steppe_large 1792 none none 0.000000 0.000000 100.000000 100.000000 -0.500000 0x000000012a00d8630009fe7f0004406900002920001e4f81 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_multiplayer_maps_end multiplayer_maps_end 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000001300389800003a4ea000058340000637a0000399b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_wedding wedding 1 castle_h_interior_a bo_castle_h_interior_a -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_lair_seto_pirates lair_seto_pirates 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000200434070004450c000022bf00006ad6000060ed 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_lair_kanto_rebels lair_kanto_rebels 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003002663d000310c6000010410000604a00001719 
+  0 
+  0 
+ outer_terrain_plain 
+scn_lair_northern_raiders lair_northern_raiders 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000004c079c3e000499280000420f0000495d000048d6 
+  0 
+  0 
+ outer_terrain_snow 
+scn_lair_shinano_rebels lair_shinano_rebels 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003002663d000310c6000010410000604a00001719 
+  0 
+  0 
+ outer_terrain_plain 
+scn_lair_woku_pirates lair_woku_pirates 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000200434070004450c000022bf00006ad6000060ed 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_lair_kinai_rebels lair_kinai_rebels 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003002663d000310c6000010410000604a00001719 
+  0 
+  0 
+ outer_terrain_plain 
+scn_lair_monk_rebels lair_monk_rebels 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000131e313148004c95c00001d5e00005860000004db 
+  0 
+  0 
+ outer_terrain_plain 
+scn_lair_mansion lair_mansion 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003002663d000310c6000010410000604a00001719 
+  0 
+  0 
+ outer_terrain_plain 
+scn_quick_battle_scene_1 quick_battle_scene_1 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000023002dee300045d1d000001bf0000299a0000638f 
+  0 
+  0 
+ outer_terrain_plain 
+scn_quick_battle_scene_2 quick_battle_scene_2 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x0000000250001d630005114300006228000053bf00004eb9 
+  0 
+  0 
+ outer_terrain_plain 
+scn_quick_battle_scene_3 quick_battle_scene_3 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000023002b76300046d2400000190000076300000692a 
+  0 
+  0 
+ outer_terrain_plain 
+scn_quick_battle_scene_4 quick_battle_scene_4 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000025a00f23700057d5f00006d6a000050ba000036df 
+  0 
+  0 
+ outer_terrain_plain 
+scn_quick_battle_scene_5 quick_battle_scene_5 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000012007985300055550000064d500005c060000759e 
+  0 
+  0 
+ outer_terrain_plain 
+scn_quick_battle_maps_end quick_battle_maps_end 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000001300389800003a4ea000058340000637a0000399b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_tutorial_training_ground tutorial_training_ground 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000003000050000046d1b0000189f00002a8380006d91 
+  0 
+  0 
+ outer_terrain_plain 
+scn_town_1_room town_1_room 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_5_room town_5_room 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_6_room town_6_room 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_18_room town_18_room 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_10_room town_10_room 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_town_19_room town_19_room 1 gekokujo_interior_small bo_gekokujo_interior_small -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_meeting_scene_steppe meeting_scene_steppe 0 ch_meet_steppe_a bo_encounter_spot -40.000000 -40.000000 40.000000 40.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_meeting_scene_plain meeting_scene_plain 0 ch_meet_plain_a bo_encounter_spot -40.000000 -40.000000 40.000000 40.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_meeting_scene_snow meeting_scene_snow 0 ch_meet_snow_a bo_encounter_spot -40.000000 -40.000000 40.000000 40.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_meeting_scene_desert meeting_scene_desert 0 ch_meet_desert_a bo_encounter_spot -40.000000 -40.000000 40.000000 40.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_meeting_scene_steppe_forest meeting_scene_steppe_forest 0 ch_meet_steppe_a bo_encounter_spot -40.000000 -40.000000 40.000000 40.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_meeting_scene_plain_forest meeting_scene_plain_forest 0 ch_meet_plain_a bo_encounter_spot -40.000000 -40.000000 40.000000 40.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_meeting_scene_snow_forest meeting_scene_snow_forest 0 ch_meet_snow_a bo_encounter_spot -40.000000 -40.000000 40.000000 40.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_meeting_scene_desert_forest meeting_scene_desert_forest 0 ch_meet_desert_a bo_encounter_spot -40.000000 -40.000000 40.000000 40.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_enterprise_tannery enterprise_tannery 256 ch_meet_steppe_a bo_encounter_spot -40.000000 -40.000000 40.000000 40.000000 -100.000000 0x000000012004480500040902000041cb00005ae800000ff5 
+  0 
+  0 
+ 0 
+scn_enterprise_winery enterprise_winery 1 winery_interior bo_winery_interior -40.000000 -40.000000 40.000000 40.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_enterprise_mill enterprise_mill 1 mill_interior bo_mill_interior -40.000000 -40.000000 40.000000 40.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_enterprise_smithy enterprise_smithy 1 smithy_interior bo_smithy_interior -40.000000 -40.000000 40.000000 40.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_enterprise_dyeworks enterprise_dyeworks 1 weavery_interior bo_weavery_interior -40.000000 -40.000000 40.000000 40.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_enterprise_linen_weavery enterprise_linen_weavery 1 weavery_interior bo_weavery_interior -40.000000 -40.000000 40.000000 40.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_enterprise_wool_weavery enterprise_wool_weavery 1 weavery_interior bo_weavery_interior -40.000000 -40.000000 40.000000 40.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_enterprise_brewery enterprise_brewery 1 brewery_interior bo_brewery_interior -40.000000 -40.000000 40.000000 40.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_enterprise_oil_press enterprise_oil_press 1 oil_press_interior bo_oil_press_interior -40.000000 -40.000000 40.000000 40.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_gekokujo_bridge_1 gekokujo_bridge_1 256 none none -100.000000 -100.000000 100.000000 100.000000 -0.500000 0x0000000036c4d1958005795e00007e1c000031fe000024a1 
+  0 
+  0 
+ outer_terrain_plain 
+scn_gekokujo_bridge_2 gekokujo_bridge_2 256 none none -100.000000 -100.000000 100.000000 100.000000 -0.500000 0x000000003449c82e80075dd200000cb60000583100005b4e 
+  0 
+  0 
+ outer_terrain_plain 
+scn_gekokujo_bridge_3 gekokujo_bridge_3 256 none none -100.000000 -100.000000 100.000000 100.000000 -0.500000 0x000000003829c82e80075dd2000007ae0000093900003c52 
+  0 
+  0 
+ outer_terrain_plain 
+scn_gekokujo_road_1 gekokujo_road_1 256 none none -100.000000 -100.000000 100.000000 100.000000 -0.500000 0x0000000037a788b20006c1b0000075ff0000329900006e1a 
+  0 
+  0 
+ outer_terrain_plain 
+scn_gekokujo_road_2 gekokujo_road_2 256 none none -100.000000 -100.000000 100.000000 100.000000 -0.500000 0x0000000334a799ba000825fe0000767200000c510000458b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_gekokujo_road_3 gekokujo_road_3 256 none none -100.000000 -100.000000 100.000000 100.000000 -0.500000 0x0000000334aa9998000825fe0000594b000068410000046e 
+  0 
+  0 
+ outer_terrain_plain 
+scn_gekokujo_sea_1 gekokujo_sea_1 256 none none -100.000000 -100.000000 100.000000 100.000000 -0.500000 0x000000003002498080035cd50000104100005e940000147b 
+  0 
+  0 
+ sea_outer_terrain_2 
+scn_gekokujo_sea_2 gekokujo_sea_2 256 none none -100.000000 -100.000000 100.000000 100.000000 -0.500000 0x000000003002498080035cd50000104100005e940000147b 
+  0 
+  0 
+ sea_outer_terrain_2 
+scn_gekokujo_sea_3 gekokujo_sea_3 256 none none -100.000000 -100.000000 100.000000 100.000000 -0.500000 0x000000003002498080035cd50000104100005e940000147b 
+  0 
+  0 
+ sea_outer_terrain_2 
+scn_gekokujo_sea_4 gekokujo_sea_4 256 none none -100.000000 -100.000000 100.000000 100.000000 -0.500000 0x000000003002498080035cd50000104100005e940000147b 
+  0 
+  0 
+ sea_outer_terrain_2 
+scn_gekokujo_island_1 gekokujo_island_1 256 none none -100.000000 -100.000000 100.000000 100.000000 -0.500000 0x0000000331e65f000007d9fb0000337900007b93000049b6 
+  0 
+  0 
+ sea_outer_terrain_2 
+scn_gekokujo_island_2 gekokujo_island_2 256 none none -100.000000 -100.000000 100.000000 100.000000 -0.500000 0x0000000331e65f000007d9fb0000337900007b93000049b6 
+  0 
+  0 
+ sea_outer_terrain_2 
+scn_gekokujo_island_3 gekokujo_island_3 256 none none -100.000000 -100.000000 100.000000 100.000000 -0.500000 0x0000000331e65f000007d9fb0000337900007b93000049b6 
+  0 
+  0 
+ sea_outer_terrain_2 
+scn_gekokujo_island_4 gekokujo_island_4 256 none none -100.000000 -100.000000 100.000000 100.000000 -0.500000 0x0000000331e65f000007d9fb0000337900007b93000049b6 
+  0 
+  0 
+ sea_outer_terrain_2 
+scn_gekokujo_island_5 gekokujo_island_5 256 none none -100.000000 -100.000000 100.000000 100.000000 -0.500000 0x0000000331e65f000007d9fb0000337900007b93000049b6 
+  0 
+  0 
+ sea_outer_terrain_2 

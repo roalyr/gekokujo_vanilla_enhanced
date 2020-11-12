@@ -1,0 +1,2399 @@
+itemsfile version 3
+596
+ itm_no_item INVALID_ITEM INVALID_ITEM 1  invalid_item 0  12582914 9223388529554358287 3 0 1.500000 100 0 0 0 0 16384 103 0 90 0 522 528
+ 0
+0
+
+ itm_tutorial_spear Spear Spear 1  spear 0  138674180 4222124851986688 0 8202 4.500000 100 0 0 0 0 0 80 0 158 0 275 0
+ 0
+0
+
+ itm_tutorial_club Club Club 1  club 0  4587522 9223388529554358286 0 0 2.500000 100 0 0 0 0 11264 95 0 95 0 256 523
+ 0
+0
+
+ itm_tutorial_battle_axe Battle_Axe Battle_Axe 1  battle_ax 0  73662467 9223635923965575392 0 262164 5.000000 100 0 0 0 0 27648 88 0 108 0 256 27
+ 0
+0
+
+ itm_tutorial_arrows Arrows Arrows 3  arrow 0  flying_missile 2305843009213693952  quiver 3458764513820540928  5 2147483648 0 4398046511112 3.000000 160 0 0 0 0 0 0 0 95 20 256 0
+ 0
+0
+
+ itm_tutorial_bolts Bolts Bolts 4  bolt 0  flying_missile 2305843009213693952  bolt_bag 3458764513820540928  bolt_bag_b 3458768911867052032  6 1879048192 0 4398046511112 2.250000 90 0 0 0 0 0 0 0 55 18 256 0
+ 0
+0
+
+ itm_tutorial_short_bow Short_Bow Short_Bow 2  short_bow 0  short_bow_carry 3458764513820540928  6291464 5905584128 0 655370 1.000000 100 0 0 0 0 0 98 49 0 0 268 0
+ 0
+0
+
+ itm_tutorial_crossbow Crossbow Crossbow 1  crossbow 0  7340041 5637160960 0 131082 3.000000 100 0 0 0 0 0 42 68 0 1 288 0
+ 0
+0
+
+ itm_tutorial_throwing_daggers Throwing_Daggers Throwing_Daggers 1  throwing_dagger 0  4194314 131072 0 4398046511112 3.500000 100 0 0 0 0 0 102 25 0 14 16 0
+ 0
+0
+
+ itm_tutorial_saddle_horse Saddle_Horse Saddle_Horse 1  saddle_horse 0  1 0 0 41876193280 0.000000 90 0 3 0 0 0 38 40 0 0 8 0
+ 0
+0
+
+ itm_tutorial_shield Kite_Shield Kite_Shield 1  shield_kite_a 0  262151 4831838208 118 167772194 2.500000 100 0 1 0 0 480 82 0 150 0 0 0
+ 0
+0
+
+ itm_tutorial_staff_no_attack Staff Staff 1  wooden_staff 0  1212547076 4222129214062592 9 0 3.500000 100 0 0 0 0 0 120 0 115 0 512 512
+ 0
+0
+
+ itm_tutorial_staff Staff Staff 1  wooden_staff 0  1212547076 8725728866602752 9 0 3.500000 100 0 0 0 0 16384 120 0 115 0 528 528
+ 0
+0
+
+ itm_tutorial_sword Sword Sword 2  long_sword 0  scab_longsw_a 3458764513820540928  4194306 9223388564182532111 0 24596 1.500000 100 0 0 0 0 18432 100 0 102 0 271 18
+ 0
+0
+
+ itm_tutorial_axe Axe Axe 1  iron_ax 0  73662467 9223635923965575392 0 262164 4.000000 100 0 0 0 0 19456 91 0 108 0 256 19
+ 0
+0
+
+ itm_tutorial_dagger Dagger Dagger 1  practice_dagger 0  12582914 9223388529554358287 3 0 1.500000 100 0 0 0 0 16384 103 0 40 0 522 528
+ 0
+0
+
+ itm_horse_meat Horse_Meat Horse_Meat 1  raw_meat 0  34078731 0 12 0 40.000000 100 30 0 0 0 0 0 0 0 80 0 0
+ 0
+0
+
+ itm_book_tactics Tale_of_Hogen_(Tactics) Tale_of_Hogen_(Tactics) 1  book_a 0  20 0 4000 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_persuasion Composition_of_Tanka_Poetry_(Persuasion) Composition_of_Tanka_Poetry_(Persuasion) 1  book_b 0  20 0 5000 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_leadership A_Biography_of_Shotoku_Taishi_(Leadership) A_Biography_of_Shotoku_Taishi_(Leadership) 1  book_d 0  20 0 4200 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_intelligence Nihon_Shoki_(Intelligence) Nihon_Shoki_(Intelligence) 1  book_e 0  20 0 2900 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_trade A_Survey_of_Kinai_and_the_Seven_Roads_(Trade) A_Survey_of_Kinai_and_the_Seven_Roads_(Trade) 1  book_f 0  20 0 3100 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_weapon_mastery Kenjutsu_Fundamentals_(Weapon_Master) Kenjutsu_Fundamentals_(Weapon_Master) 1  book_d 0  20 0 4200 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_engineering Techniques_of_the_Nanban_(Engineering) Techniques_of_the_Nanban_(Engineering) 1  book_open 0  20 0 4000 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_wound_treatment_reference Ishinpo_(Wound_Treatment) Ishinpo_(Wound_Treatment) 1  book_c 0  20 0 3500 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_training_reference Heiho_Okigusho_(Training) Heiho_Okigusho_(Training) 1  book_open 0  20 0 3500 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_surgery_reference Keiteki-Shu_(Surgery) Keiteki-Shu_(Surgery) 1  book_c 0  20 0 3500 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_spice Spice Spice 1  spice_sack 0  33619979 0 880 0 40.000000 25 0 0 0 0 0 0 0 0 100 0 0
+ 0
+0
+
+ itm_salt Salt Salt 1  salt_sack 0  65547 0 255 0 50.000000 120 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_oil Fish_Sauce Fish_Sauce 1  oil 0  33619979 0 450 0 50.000000 60 0 0 0 0 0 0 0 0 100 0 0
+ 0
+0
+
+ itm_pottery Ceramic_Ware Ceramic_Ware 1  jug 0  65547 0 100 0 50.000000 90 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_raw_flax Flax_Bundle Flax_Bundle 1  raw_flax 0  65547 0 150 0 40.000000 90 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_linen Linen_Cloth Linen_Cloth 1  linen 0  65547 0 250 0 40.000000 90 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_wool Hemp_Fiber Hemp_Fiber 1  wool_sack 0  65547 0 130 0 40.000000 90 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_wool_cloth Hemp_Cloth Hemp_Cloth 1  wool_cloth 0  65547 0 250 0 40.000000 90 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_raw_silk Raw_Silk Raw_Silk 1  raw_silk_bundle 0  65547 0 600 0 30.000000 90 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_raw_dyes Dyes Dyes 1  dyes 0  65547 0 200 0 10.000000 90 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_velvet Silk_Cloth Silk_Cloth 1  velvet 0  65547 0 1025 0 40.000000 30 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_iron Iron Iron 1  iron 0  65547 0 264 0 60.000000 60 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_tools Tools Tools 1  iron_hammer 0  65547 0 410 0 50.000000 90 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_raw_leather Urushi_Sap Urushi_Sap 1  bowl_a 0  65547 0 120 0 40.000000 90 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_leatherwork Lacquer_Ware Lacquer_Ware 1  chest_c 0  65547 0 220 0 40.000000 90 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_raw_date_fruit Mushrooms Mushrooms 1  mushroom_basket 0  34144267 0 120 0 40.000000 100 10 0 0 0 0 0 0 0 20 0 0
+ 0
+0
+
+ itm_furs Furs Furs 1  fur_pack 0  65547 0 391 0 40.000000 90 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_wine Soy_Sauce Soy_Sauce 1  amphora_slim 0  33619979 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 100 0 0
+ 0
+0
+
+ itm_ale Sake Sake 1  ale_barrel 0  33619979 0 120 0 30.000000 70 0 0 0 0 0 0 0 0 100 0 0
+ 0
+0
+
+ itm_smoked_fish Dried_Sea_Fish Dried_Sea_Fish 1  smoked_fish 0  34144267 0 65 0 30.000000 110 50 0 0 0 0 0 0 0 100 0 0
+ 0
+0
+
+ itm_cheese Tofu Tofu 1  cheese_b 0  34144267 0 75 0 12.000000 110 40 0 0 0 0 0 0 0 60 0 0
+ 0
+0
+
+ itm_honey Natto Natto 1  honey_pot 0  34144267 0 220 0 10.000000 110 40 0 0 0 0 0 0 0 60 0 0
+ 0
+0
+
+ itm_sausages Dried_Eel Dried_Eel 1  sausages 0  34144267 0 85 0 20.000000 110 40 0 0 0 0 0 0 0 80 0 0
+ 0
+0
+
+ itm_cabbages Cabbages Cabbages 1  cabbage 0  34144267 0 30 0 30.000000 110 40 0 0 0 0 0 0 0 100 0 0
+ 0
+0
+
+ itm_dried_meat Dried_River_Fish Dried_River_Fish 1  smoked_river_fish 0  34144267 0 85 0 30.000000 100 70 0 0 0 0 0 0 0 100 0 0
+ 0
+0
+
+ itm_apples Fruit Fruit 1  apple_basket 0  34144267 0 44 0 40.000000 110 40 0 0 0 0 0 0 0 100 0 0
+ 0
+0
+
+ itm_raw_grapes Soybeans Soybeans 1  soybean_sack 0  33619979 0 75 0 16.000000 90 10 0 0 0 0 0 0 0 20 0 0
+ 0
+0
+
+ itm_raw_olives Fish_Offal Fish_Offal 1  wine_barrel 0  33619979 0 100 0 16.000000 90 10 0 0 0 0 0 0 0 20 0 0
+ 0
+0
+
+ itm_grain Brown_Rice Brown_Rice 1  brown_rice_sack 0  33619979 0 30 0 60.000000 110 40 0 0 0 0 0 0 0 100 0 0
+ 0
+0
+
+ itm_cattle_meat Beef Beef 1  raw_meat 0  34144267 0 80 0 40.000000 100 80 0 0 0 0 0 0 0 100 0 0
+ 0
+0
+
+ itm_bread White_Rice White_Rice 1  white_rice_sack 0  34144267 0 50 0 60.000000 110 40 0 0 0 0 0 0 0 100 0 0
+ 0
+0
+
+ itm_chicken Chicken Chicken 1  chicken 0  34144267 0 95 0 20.000000 110 40 0 0 0 0 0 0 0 100 0 0
+ 0
+0
+
+ itm_pork Pork Pork 1  pork 0  34144267 0 75 0 30.000000 100 70 0 0 0 0 0 0 0 100 0 0
+ 0
+0
+
+ itm_butter Miso Miso 1  butter_pot 0  34144267 0 150 0 12.000000 110 40 0 0 0 0 0 0 0 60 0 0
+ 0
+0
+
+ itm_siege_supply Supplies Supplies 1  ale_barrel 0  11 0 96 0 40.000000 70 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_quest_wine Soy_Sauce Soy_Sauce 1  amphora_slim 0  11 0 46 0 40.000000 60 0 0 0 0 0 0 0 0 100 0 0
+ 0
+0
+
+ itm_quest_ale Sake Sake 1  ale_barrel 0  11 0 31 0 40.000000 70 0 0 0 0 0 0 0 0 100 0 0
+ 0
+0
+
+ itm_practice_horse Practice_Horse Practice_Horse 1  saddle_horse 0  1 0 37 0 0.000000 100 0 10 0 0 0 37 40 0 0 14 0
+ 0
+0
+
+ itm_sumpter_horse Noma_Horse Noma_Horse 1  sumpter_horse 0  65537 0 134 41876193280 0.000000 90 0 14 0 1 100 39 37 94 0 9 0
+ 0
+0
+
+ itm_saddle_horse Taishu_Horse Taishu_Horse 2  saddle_horse 0  horse_c 34360000512  65537 0 240 41876193280 0.000000 90 0 8 0 1 100 44 45 96 0 10 0
+ 0
+0
+
+ itm_steppe_horse Miyako_Horse Miyako_Horse 1  steppe_horse 0  65537 0 192 41876193280 0.000000 80 0 10 0 2 120 51 40 93 0 8 0
+ 0
+0
+
+ itm_courser Dosanko_Horse Dosanko_Horse 1  courser 0  65537 0 600 110595670016 0.000000 70 0 12 0 2 110 44 50 96 0 12 0
+ 0
+0
+
+ itm_arabian_horse_a Nanbu_Horse Nanbu_Horse 1  arabian_horse_a 0  65537 0 550 110595670016 0.000000 80 0 10 0 2 110 50 42 94 0 12 0
+ 0
+0
+
+ itm_arabian_horse_b Kagoshima_Horse Kagoshima_Horse 1  arabian_horse_b 0  65537 0 700 110595670016 0.000000 80 0 10 0 3 120 54 43 94 0 16 0
+ 0
+0
+
+ itm_hunter Kiso_Horse Kiso_Horse 2  hunting_horse 0  hunting_horse 34360000512  65537 0 810 110595670016 0.000000 60 0 18 0 3 160 44 43 98 0 24 0
+ 1
+ 34
+0
+
+ itm_lyre Koto Koto 1  lyre 0  537133063 5905580032 118 0 2.500000 100 0 1 0 0 480 82 0 90 0 0 0
+ 0
+0
+
+ itm_lute Biwa Biwa 1  lute 0  537133063 5905580032 118 0 2.500000 100 0 1 0 0 480 82 0 90 0 0 0
+ 0
+0
+
+ itm_wooden_stick Wooden_Stick Wooden_Stick 1  wooden_stick 0  4587522 9223388529554358286 4 0 2.500000 100 0 0 0 0 13312 99 0 63 0 256 525
+ 0
+0
+
+ itm_club Club Club 1  club 0  274882494466 9223388529554358286 11 0 2.500000 100 0 0 0 0 20480 98 0 70 0 256 532
+ 0
+0
+
+ itm_mace_1 Spiked_Club Spiked_Club 1  mace_d 0  274882363394 9223388532775583758 45 262164 1.500000 100 0 0 0 0 19456 99 0 70 0 256 275
+ 0
+0
+
+ itm_cleaver Cleaver Cleaver 1  cleaver_new 0  12861442 9223372036879941646 14 0 1.500000 100 0 0 0 0 24576 103 0 35 0 256 24
+ 0
+0
+
+ itm_knife Knife Knife 1  peasant_knife_new 0  12599298 9223372037685248015 18 24596 0.500000 100 0 0 0 0 21504 110 0 40 0 269 21
+ 0
+0
+
+ itm_butchering_knife Butchering_Knife Butchering_Knife 1  khyber_knife_new 0  12599298 9223372037953683471 23 24596 0.750000 100 0 0 0 0 24576 108 0 60 0 273 24
+ 0
+0
+
+ itm_stones Stones Stones 1  throwing_stone 0  4194314 65536 1 4398046511104 4.000000 100 0 0 0 0 0 97 30 8 18 523 0
+ 0
+0
+
+ itm_gekokujo_katana_1 Katana Katana 2  gekokujo_katana_1 0  gekokujo_katana_1_scabbard 3458764513820540928  14745603 9223635962888716543 679 155668 2.000000 100 0 0 0 9 32768 103 0 78 0 274 32
+ 0
+0
+
+ itm_gekokujo_katana_2 Katana Katana 2  gekokujo_katana_2 0  gekokujo_katana_2_scabbard 3458764513820540928  14745603 9223635962888716543 679 155668 2.000000 100 0 0 0 9 32768 103 0 78 0 274 32
+ 0
+0
+
+ itm_gekokujo_katana_3 Katana Katana 2  gekokujo_katana_3 0  gekokujo_katana_3_scabbard 3458764513820540928  14745603 9223635962888716543 679 155668 2.000000 100 0 0 0 9 32768 103 0 78 0 274 32
+ 0
+0
+
+ itm_gekokujo_katana_4 Soshu_Katana Soshu_Katana 2  gekokujo_katana_4 0  gekokujo_katana_4_scabbard 3458764513820540928  14745603 9223635962888716543 1358 155668 2.000000 80 0 0 0 0 32768 103 0 78 0 274 32
+ 0
+0
+
+ itm_gekokujo_katana_5 Yamato_Katana Yamato_Katana 2  gekokujo_katana_5 0  gekokujo_katana_5_scabbard 3458764513820540928  14745603 9223635962888716543 1358 155668 2.000000 80 0 0 0 8 32768 111 0 78 0 274 32
+ 0
+0
+
+ itm_gekokujo_katana_6 Bizen_Katana Bizen_Katana 2  gekokujo_katana_6 0  gekokujo_katana_6_scabbard 3458764513820540928  14745603 9223635962888716543 1358 155668 2.000000 80 0 0 0 8 35840 103 0 78 0 274 35
+ 0
+0
+
+ itm_gekokujo_katana_7 Yamashiro_Katana Yamashiro_Katana 2  gekokujo_katana_7 0  gekokujo_katana_7_scabbard 3458764513820540928  14745603 9223635962888716543 1358 155668 2.000000 80 0 0 0 9 35840 108 0 78 0 274 35
+ 0
+0
+
+ itm_gekokujo_katana_8 Mino_Katana Mino_Katana 2  gekokujo_katana_8 0  gekokujo_katana_8_scabbard 3458764513820540928  14745603 9223635962888716543 1358 155668 2.000000 80 0 0 0 9 34816 111 0 78 0 274 34
+ 0
+0
+
+ itm_gekokujo_katana_9 Masamune_Katana Masamune_Katana 2  gekokujo_katana_9 0  gekokujo_katana_9_scabbard 3458764513820540928  14745603 9223635962888716543 2716 155668 2.000000 60 0 0 0 9 32768 118 0 78 0 274 32
+ 0
+0
+
+ itm_gekokujo_katana_10 Muramasa_Katana Muramasa_Katana 2  gekokujo_katana_10 0  gekokujo_katana_10_scabbard 3458764513820540928  14745603 9223635962888716543 2716 155668 2.000000 60 0 0 0 9 37888 103 0 78 0 274 37
+ 0
+0
+
+ itm_gekokujo_tachi_1 Tachi Tachi 2  gekokujo_tachi_1 0  gekokujo_tachi_1_scabbard 3458764513820540928  14745603 9223635962888716543 729 155668 2.000000 90 0 0 0 9 30720 105 0 89 0 274 30
+ 0
+0
+
+ itm_gekokujo_tachi_2 Tachi Tachi 2  gekokujo_tachi_2 0  gekokujo_tachi_2_scabbard 3458764513820540928  14745603 9223635962888716543 729 155668 2.000000 90 0 0 0 9 30720 105 0 89 0 274 30
+ 0
+0
+
+ itm_gekokujo_tachi_3 Tachi Tachi 2  gekokujo_tachi_3 0  gekokujo_tachi_3_scabbard 3458764513820540928  14745603 9223635962888716543 729 155668 2.000000 90 0 0 0 9 30720 105 0 89 0 274 30
+ 0
+0
+
+ itm_gekokujo_tachi_4 Soshu_Tachi Soshu_Tachi 2  gekokujo_tachi_4 0  gekokujo_tachi_4_scabbard 3458764513820540928  14745603 9223635962888716543 1458 155668 2.000000 70 0 0 0 0 30720 105 0 89 0 274 30
+ 0
+0
+
+ itm_gekokujo_tachi_5 Yamato_Tachi Yamato_Tachi 2  gekokujo_tachi_5 0  gekokujo_tachi_5_scabbard 3458764513820540928  14745603 9223635962888716543 1458 155668 2.000000 70 0 0 0 8 30720 113 0 89 0 274 30
+ 0
+0
+
+ itm_gekokujo_tachi_6 Bizen_Tachi Bizen_Tachi 2  gekokujo_tachi_6 0  gekokujo_tachi_6_scabbard 3458764513820540928  14745603 9223635962888716543 1458 155668 2.000000 70 0 0 0 8 33792 105 0 89 0 274 33
+ 0
+0
+
+ itm_gekokujo_tachi_7 Yamashiro_Tachi Yamashiro_Tachi 2  gekokujo_tachi_7 0  gekokujo_tachi_7_scabbard 3458764513820540928  14745603 9223635962888716543 1458 155668 2.000000 70 0 0 0 9 33792 110 0 89 0 274 33
+ 0
+0
+
+ itm_gekokujo_tachi_8 Mino_Tachi Mino_Tachi 2  gekokujo_tachi_8 0  gekokujo_tachi_8_scabbard 3458764513820540928  14745603 9223635962888716543 1458 155668 2.000000 70 0 0 0 9 32768 113 0 89 0 274 32
+ 0
+0
+
+ itm_gekokujo_tachi_9 Masamune_Tachi Masamune_Tachi 2  gekokujo_tachi_9 0  gekokujo_tachi_9_scabbard 3458764513820540928  14745603 9223635962888716543 2916 155668 2.000000 50 0 0 0 9 30720 120 0 89 0 274 30
+ 0
+0
+
+ itm_gekokujo_tachi_10 Muramasa_Tachi Muramasa_Tachi 2  gekokujo_tachi_10 0  gekokujo_tachi_10_scabbard 3458764513820540928  14745603 9223635962888716543 2916 155668 2.000000 50 0 0 0 9 35840 105 0 89 0 274 35
+ 0
+0
+
+ itm_gekokujo_nodachi_1 Nodachi Nodachi 2  gekokujo_nodachi_1 0  gekokujo_nodachi_1_scabbard 3458764513820540928  6356995 9223635958593749216 920 417812 3.500000 80 0 0 0 11 38912 87 0 109 0 256 38
+ 0
+0
+
+ itm_gekokujo_nodachi_2 Nodachi Nodachi 2  gekokujo_nodachi_2 0  gekokujo_nodachi_2_scabbard 3458764513820540928  6356995 9223635958593749216 920 417812 3.500000 80 0 0 0 11 38912 87 0 109 0 256 38
+ 0
+0
+
+ itm_gekokujo_nodachi_3 Nodachi Nodachi 2  gekokujo_nodachi_3 0  gekokujo_nodachi_3_scabbard 3458764513820540928  6356995 9223635958593749216 920 417812 3.500000 80 0 0 0 11 38912 87 0 109 0 256 38
+ 0
+0
+
+ itm_gekokujo_nodachi_4 Soshu_Nodachi Soshu_Nodachi 2  gekokujo_nodachi_4 0  gekokujo_nodachi_4_scabbard 3458764513820540928  6356995 9223635958593749216 1840 417812 3.500000 60 0 0 0 8 38912 87 0 109 0 256 38
+ 0
+0
+
+ itm_gekokujo_nodachi_5 Yamato_Nodachi Yamato_Nodachi 2  gekokujo_nodachi_5 0  gekokujo_nodachi_5_scabbard 3458764513820540928  6356995 9223635958593749216 1840 417812 3.500000 60 0 0 0 10 38912 95 0 109 0 256 38
+ 0
+0
+
+ itm_gekokujo_nodachi_6 Bizen_Nodachi Bizen_Nodachi 2  gekokujo_nodachi_6 0  gekokujo_nodachi_6_scabbard 3458764513820540928  6356995 9223635958593749216 1840 417812 3.500000 60 0 0 0 10 41984 87 0 109 0 256 41
+ 0
+0
+
+ itm_gekokujo_nodachi_7 Yamashiro_Nodachi Yamashiro_Nodachi 2  gekokujo_nodachi_7 0  gekokujo_nodachi_7_scabbard 3458764513820540928  6356995 9223635958593749216 1840 417812 3.500000 60 0 0 0 11 41984 92 0 109 0 256 41
+ 0
+0
+
+ itm_gekokujo_nodachi_8 Mino_Nodachi Mino_Nodachi 2  gekokujo_nodachi_8 0  gekokujo_nodachi_8_scabbard 3458764513820540928  6356995 9223635958593749216 1840 417812 3.500000 60 0 0 0 11 40960 95 0 109 0 256 40
+ 0
+0
+
+ itm_gekokujo_nodachi_9 Masamune_Nodachi Masamune_Nodachi 2  gekokujo_nodachi_9 0  gekokujo_nodachi_9_scabbard 3458764513820540928  6356995 9223635958593749216 3680 417812 3.500000 40 0 0 0 11 38912 102 0 109 0 256 38
+ 0
+0
+
+ itm_gekokujo_nodachi_10 Muramasa_Nodachi Muramasa_Nodachi 2  gekokujo_nodachi_10 0  gekokujo_nodachi_10_scabbard 3458764513820540928  6356995 9223635958593749216 3680 417812 3.500000 40 0 0 0 11 44032 87 0 109 0 256 43
+ 0
+0
+
+ itm_gekokujo_nagamaki_1 Nagamaki Nagamaki 2  gekokujo_nagamaki_1 0  gekokujo_nagamaki_1_scabbard 3458764513820540928  6619140 8725728866602752 800 417812 2.750000 75 0 0 0 11 35840 96 0 142 0 275 35
+ 0
+0
+
+ itm_gekokujo_nagamaki_2 Nagamaki Nagamaki 2  gekokujo_nagamaki_2 0  gekokujo_nagamaki_2_scabbard 3458764513820540928  6619140 8725728866602752 800 417812 2.750000 75 0 0 0 11 35840 96 0 142 0 275 35
+ 0
+0
+
+ itm_gekokujo_nagamaki_3 Nagamaki Nagamaki 2  gekokujo_nagamaki_3 0  gekokujo_nagamaki_3_scabbard 3458764513820540928  6619140 8725728866602752 800 417812 2.750000 75 0 0 0 11 35840 96 0 142 0 275 35
+ 0
+0
+
+ itm_gekokujo_nagamaki_4 Soshu_Nagamaki Soshu_Nagamaki 2  gekokujo_nagamaki_4 0  gekokujo_nagamaki_4_scabbard 3458764513820540928  6619140 8725728866602752 800 417812 2.750000 75 0 0 0 8 35840 96 0 142 0 275 35
+ 0
+0
+
+ itm_gekokujo_nagamaki_5 Yamato_Nagamaki Yamato_Nagamaki 2  gekokujo_nagamaki_5 0  gekokujo_nagamaki_5_scabbard 3458764513820540928  6619140 8725728866602752 800 417812 2.750000 75 0 0 0 10 35840 104 0 142 0 275 35
+ 0
+0
+
+ itm_gekokujo_nagamaki_6 Bizen_Nagamaki Bizen_Nagamaki 2  gekokujo_nagamaki_6 0  gekokujo_nagamaki_6_scabbard 3458764513820540928  6619140 8725728866602752 800 417812 2.750000 75 0 0 0 10 38912 96 0 142 0 275 38
+ 0
+0
+
+ itm_gekokujo_nagamaki_7 Yamashiro_Nagamaki Yamashiro_Nagamaki 2  gekokujo_nagamaki_7 0  gekokujo_nagamaki_7_scabbard 3458764513820540928  6619140 8725728866602752 800 417812 2.750000 75 0 0 0 11 38912 101 0 142 0 275 38
+ 0
+0
+
+ itm_gekokujo_nagamaki_8 Mino_Nagamaki Mino_Nagamaki 2  gekokujo_nagamaki_8 0  gekokujo_nagamaki_8_scabbard 3458764513820540928  6619140 8725728866602752 800 417812 2.750000 75 0 0 0 11 37888 104 0 142 0 275 37
+ 0
+0
+
+ itm_gekokujo_nagamaki_9 Masamune_Nagamaki Masamune_Nagamaki 2  gekokujo_nagamaki_9 0  gekokujo_nagamaki_9_scabbard 3458764513820540928  6619140 8725728866602752 800 417812 2.750000 75 0 0 0 11 35840 111 0 142 0 275 35
+ 0
+0
+
+ itm_gekokujo_nagamaki_10 Muramasa_Nagamaki Muramasa_Nagamaki 2  gekokujo_nagamaki_10 0  gekokujo_nagamaki_10_scabbard 3458764513820540928  6619140 8725728866602752 800 417812 2.750000 75 0 0 0 11 40960 96 0 142 0 275 40
+ 0
+0
+
+ itm_gekokujo_wakizashi_1 Wakizashi Wakizashi 2  gekokujo_wakizashi_1 0  gekokujo_wakizashi_1_scabbard 3458764513820540928  12648450 9223388573040902159 321 155668 1.250000 105 0 0 0 0 25600 115 0 59 0 275 25
+ 0
+0
+
+ itm_gekokujo_wakizashi_2 Wakizashi Wakizashi 2  gekokujo_wakizashi_2 0  gekokujo_wakizashi_2_scabbard 3458764513820540928  12648450 9223388573040902159 321 155668 1.250000 105 0 0 0 0 25600 115 0 59 0 275 25
+ 0
+0
+
+ itm_gekokujo_wakizashi_3 Wakizashi Wakizashi 2  gekokujo_wakizashi_3 0  gekokujo_wakizashi_3_scabbard 3458764513820540928  12648450 9223388573040902159 321 155668 1.250000 105 0 0 0 0 25600 115 0 59 0 275 25
+ 0
+0
+
+ itm_gekokujo_wakizashi_4 Soshu_Wakizashi Soshu_Wakizashi 2  gekokujo_wakizashi_4 0  gekokujo_wakizashi_4_scabbard 3458764513820540928  12648450 9223388573040902159 482 155668 1.250000 85 0 0 0 0 27648 120 0 59 0 275 27
+ 0
+0
+
+ itm_gekokujo_wakizashi_5 Yamato_Wakizashi Yamato_Wakizashi 2  gekokujo_wakizashi_5 0  gekokujo_wakizashi_5_scabbard 3458764513820540928  12648450 9223388573040902159 482 155668 1.250000 85 0 0 0 0 25600 123 0 59 0 275 25
+ 0
+0
+
+ itm_gekokujo_wakizashi_6 Bizen_Wakizashi Bizen_Wakizashi 2  gekokujo_wakizashi_6 0  gekokujo_wakizashi_6_scabbard 3458764513820540928  12648450 9223388573040902159 482 155668 1.250000 85 0 0 0 0 28672 115 0 59 0 275 28
+ 0
+0
+
+ itm_gekokujo_wakizashi_7 Yamashiro_Wakizashi Yamashiro_Wakizashi 2  gekokujo_wakizashi_7 0  gekokujo_wakizashi_7_scabbard 3458764513820540928  12648450 9223388573040902159 642 155668 1.250000 85 0 0 0 0 28672 120 0 59 0 275 28
+ 0
+0
+
+ itm_gekokujo_wakizashi_8 Mino_Wakizashi Mino_Wakizashi 2  gekokujo_wakizashi_8 0  gekokujo_wakizashi_8_scabbard 3458764513820540928  12648450 9223388573040902159 642 155668 1.250000 85 0 0 0 0 27648 123 0 59 0 275 27
+ 0
+0
+
+ itm_gekokujo_wakizashi_9 Masamune_Wakizashi Masamune_Wakizashi 2  gekokujo_wakizashi_9 0  gekokujo_wakizashi_9_scabbard 3458764513820540928  12648450 9223388573040902159 1284 155668 1.250000 65 0 0 0 0 25600 130 0 59 0 275 25
+ 0
+0
+
+ itm_gekokujo_wakizashi_10 Muramasa_Wakizashi Muramasa_Wakizashi 2  gekokujo_wakizashi_10 0  gekokujo_wakizashi_10_scabbard 3458764513820540928  12648450 9223388573040902159 1284 155668 1.250000 65 0 0 0 0 30720 115 0 59 0 275 30
+ 0
+0
+
+ itm_gekokujo_tanto_1 Tanto Tanto 2  gekokujo_tanto_1 0  gekokujo_tanto_1_scabbard 3458764513820540928  12664834 9223372072044986383 116 155668 0.500000 100 0 0 0 0 19456 115 0 37 0 273 19
+ 0
+0
+
+ itm_gekokujo_tanto_2 Tanto Tanto 2  gekokujo_tanto_2 0  gekokujo_tanto_2_scabbard 3458764513820540928  12664834 9223372072044986383 116 155668 0.500000 100 0 0 0 0 17408 115 0 37 0 273 17
+ 0
+0
+
+ itm_gekokujo_tanto_3 Tanto Tanto 2  gekokujo_tanto_3 0  gekokujo_tanto_3_scabbard 3458764513820540928  12664834 9223372072044986383 116 155668 0.500000 100 0 0 0 0 17408 115 0 37 0 275 17
+ 0
+0
+
+ itm_gekokujo_tanto_4 Soshu_Tanto Soshu_Tanto 2  gekokujo_tanto_4 0  gekokujo_tanto_4_scabbard 3458764513820540928  12664834 9223372072044986383 174 155668 0.500000 100 0 0 0 0 21504 120 0 37 0 273 21
+ 0
+0
+
+ itm_gekokujo_tanto_5 Yamato_Tanto Yamato_Tanto 2  gekokujo_tanto_5 0  gekokujo_tanto_5_scabbard 3458764513820540928  12664834 9223372072044986383 174 155668 0.500000 100 0 0 0 0 17408 123 0 37 0 275 17
+ 0
+0
+
+ itm_gekokujo_tanto_6 Bizen_Tanto Bizen_Tanto 2  gekokujo_tanto_6 0  gekokujo_tanto_6_scabbard 3458764513820540928  12664834 9223372072044986383 174 155668 0.500000 100 0 0 0 0 22528 115 0 37 0 273 22
+ 0
+0
+
+ itm_gekokujo_tanto_7 Yamashiro_Tanto Yamashiro_Tanto 2  gekokujo_tanto_7 0  gekokujo_tanto_7_scabbard 3458764513820540928  12664834 9223372072044986383 232 155668 0.500000 100 0 0 0 0 17408 120 0 37 0 278 17
+ 0
+0
+
+ itm_gekokujo_tanto_8 Mino_Tanto Mino_Tanto 2  gekokujo_tanto_8 0  gekokujo_tanto_8_scabbard 3458764513820540928  12664834 9223372072044986383 232 155668 0.500000 100 0 0 0 0 17408 123 0 37 0 277 17
+ 0
+0
+
+ itm_gekokujo_tanto_9 Masamune_Tanto Masamune_Tanto 2  gekokujo_tanto_9 0  gekokujo_tanto_9_scabbard 3458764513820540928  12664834 9223372072044986383 464 155668 0.500000 100 0 0 0 0 19456 130 0 37 0 273 19
+ 0
+0
+
+ itm_gekokujo_tanto_10 Muramasa_Tanto Muramasa_Tanto 2  gekokujo_tanto_10 0  gekokujo_tanto_10_scabbard 3458764513820540928  12664834 9223372072044986383 464 155668 0.500000 100 0 0 0 0 17408 115 0 37 0 280 17
+ 0
+0
+
+ itm_gekokujo_ninjato_1 Ninjato Ninjato 2  gekokujo_ninjato_1 0  gekokujo_ninjato_1_scabbard 3458764513820540928  4259842 9223388568477499407 432 155668 1.500000 90 0 0 0 0 23552 120 0 50 0 276 23
+ 0
+0
+
+ itm_gekokujo_ninjato_2 Ninjato Ninjato 2  gekokujo_ninjato_2 0  gekokujo_ninjato_2_scabbard 3458764513820540928  4259842 9223388568477499407 432 155668 1.500000 90 0 0 0 0 23552 120 0 50 0 276 23
+ 0
+0
+
+ itm_gekokujo_ninjato_3 Ninjato Ninjato 2  gekokujo_ninjato_3 0  gekokujo_ninjato_3_scabbard 3458764513820540928  4259843 9223635958593749247 512 155668 2.250000 90 0 0 0 0 28672 110 0 69 0 276 28
+ 0
+0
+
+ itm_gekokujo_ninjato_4 Ninjato Ninjato 2  gekokujo_ninjato_4 0  gekokujo_ninjato_4_scabbard 3458764513820540928  4259843 9223635958593749247 512 155668 2.250000 90 0 0 0 0 28672 110 0 69 0 276 28
+ 0
+0
+
+ itm_gekokujo_shuriken Shuriken Shuriken 2  gekokujo_shuriken 0  gekokujo_shuriken 2305843009213693952  12648458 131072 93 4398046781448 2.000000 100 0 0 0 0 0 110 24 0 13 25 0
+ 0
+0
+
+ itm_gekokujo_kunai Kunai Kunai 1  gf_kunai 0  12664834 9223372036879941647 72 262164 3.000000 100 0 0 0 0 16384 115 0 30 0 281 528
+ 0
+0
+
+ itm_gekokujo_sabakato_blunt Sabakato Sabakato 2  gekokujo_sabakato_blunt 0  gekokujo_sabakato_scabbard 3458764513820540928  551616515 9223635962888716543 1019 155668 2.000000 150 0 0 0 9 30720 103 0 78 0 530 542
+ 0
+0
+
+ itm_gekokujo_sabakato_sharp Sabakato Sabakato 2  gekokujo_sabakato_sharp 0  gekokujo_sabakato_scabbard 3458764513820540928  14680067 9223635962888716543 1019 155668 2.000000 100 0 0 0 9 32768 103 0 78 0 274 32
+ 0
+0
+
+ itm_gekokujo_mongol_1 Mongol_Cleaver Mongol_Cleaver 1  gf_mongol_sword 0  6356995 9223635924234010848 1088 262164 2.750000 60 0 0 0 13 40960 88 0 118 0 256 40
+ 0
+0
+
+ itm_gekokujo_chinese_1 Chinese_Changdao Chinese_Changdao 2  dachidragon03 0  dachidragon03_scabbard 3458764513820540928  6356995 9223635958593749216 960 262164 3.750000 60 0 0 0 12 39936 90 0 125 0 256 39
+ 0
+0
+
+ itm_gekokujo_chinese_2 Chinese_Liuyedao Chinese_Liuyedao 2  katan_toothdragon 0  katan_toothdragon_scabbard 3458764513820540928  6356995 9223635962888716543 883 24596 2.000000 60 0 0 0 9 36864 98 0 102 0 274 36
+ 0
+0
+
+ itm_gekokujo_chinese_3 Chinese_Wodao Chinese_Wodao 2  katana_headdragon 0  katana_headdragon_scabbard 3458764513820540928  14745603 9223635962888716543 883 24596 2.000000 60 0 0 0 9 36864 98 0 102 0 274 36
+ 0
+0
+
+ itm_gekokujo_chinese_4 Chinese_Wodao Chinese_Wodao 2  katanadragon02 0  katanadragon02_scabbard 3458764513820540928  14745603 9223635962888716543 883 24596 2.000000 60 0 0 0 9 36864 98 0 100 0 274 36
+ 0
+0
+
+ itm_gekokujo_chinese_5 Chinese_Wodao Chinese_Wodao 2  katanadragon01 0  katanadragon01_scabbard 3458764513820540928  14745603 9223635962888716543 628 24596 1.750000 60 0 0 0 9 31744 110 0 91 0 275 31
+ 0
+0
+
+ itm_gekokujo_ezo_sword_1 Tashiro Tashiro 2  gekokujo_tanto_1 0  gekokujo_tanto_1_scabbard 3458764513820540928  12599298 9223372072044986383 116 155668 0.500000 100 0 0 0 0 19456 115 0 37 0 273 19
+ 0
+0
+
+ itm_gekokujo_ezo_sword_2 Warabite-to Warabite-to 2  gekokujo_katana_1 0  gekokujo_katana_1_scabbard 3458764513820540928  14680067 9223635962888716543 679 155668 2.000000 100 0 0 0 9 32768 103 0 78 0 274 32
+ 0
+0
+
+ itm_gekokujo_ezo_sword_3 Emush Emush 2  gekokujo_nodachi_1 0  gekokujo_nodachi_1_scabbard 3458764513820540928  6291459 9223635958593749216 920 417812 3.500000 80 0 0 0 11 38912 87 0 109 0 256 38
+ 0
+0
+
+ itm_gekokujo_naginata_1 Naginata Naginata 1  gekokujo_naginata_1 0  140836868 8725730477215488 740 155658 3.000000 80 0 0 0 13 40960 80 0 209 0 275 40
+ 0
+0
+
+ itm_gekokujo_naginata_2 Naginata Naginata 1  gekokujo_naginata_2 0  140836868 8725730477215488 740 155658 3.500000 80 0 0 0 13 40960 80 0 203 0 275 40
+ 0
+0
+
+ itm_gekokujo_naginata_3 Naginata Naginata 1  gekokujo_naginata_3 0  140836868 8725730477215488 740 155658 4.000000 80 0 0 0 13 40960 80 0 176 0 275 40
+ 0
+0
+
+ itm_gekokujo_naginata_4 Soshu_Naginata Soshu_Naginata 1  gekokujo_naginata_4 0  140836868 8725730477215488 1856 155658 4.000000 60 0 0 0 11 46080 70 0 232 0 275 45
+ 0
+0
+
+ itm_gekokujo_naginata_5 Yamato_Naginata Yamato_Naginata 1  gekokujo_naginata_5 0  140836868 8725730477215488 1114 155658 3.500000 60 0 0 0 11 35840 98 0 147 0 275 35
+ 0
+0
+
+ itm_gekokujo_naginata_6 Bizen_Naginata Bizen_Naginata 1  gekokujo_naginata_6 0  140836868 8725730477215488 1856 155658 3.500000 60 0 0 0 13 49152 70 0 239 0 275 48
+ 0
+0
+
+ itm_gekokujo_naginata_7 Yamashiro_Naginata Yamashiro_Naginata 1  gekokujo_naginata_7 0  140836868 8725730477215488 1114 155658 3.500000 60 0 0 0 12 38912 95 0 147 0 275 38
+ 0
+0
+
+ itm_gekokujo_naginata_8 Mino_Naginata Mino_Naginata 1  gekokujo_naginata_8 0  140836868 8725730477215488 1484 155658 4.000000 60 0 0 0 13 43008 88 0 176 0 275 42
+ 0
+0
+
+ itm_gekokujo_naginata_9 Masamune_Naginata Masamune_Naginata 1  gekokujo_naginata_9 0  140836868 8725730477215488 2226 155658 3.000000 40 0 0 0 12 35840 105 0 173 0 275 35
+ 0
+0
+
+ itm_gekokujo_naginata_10 Muramasa_Naginata Muramasa_Naginata 1  gekokujo_naginata_10 0  140836868 8725730477215488 2968 155658 3.500000 40 0 0 0 13 46080 80 0 203 0 275 45
+ 0
+0
+
+ itm_gekokujo_guandao_1 Chinese_Guandao Chinese_Guandao 1  khergit_pike_a 0  140836868 8725730477215488 700 8202 3.250000 60 0 0 0 0 39936 93 0 153 0 275 39
+ 0
+0
+
+ itm_gekokujo_yari_bamboo_1 Bamboo_Yari Bamboo_Yari 1  gf_bamboo_yari 0  1212481540 8725730477215488 80 8202 2.000000 110 0 0 0 0 15360 88 0 170 0 276 527
+ 0
+0
+
+ itm_gekokujo_fukuro_yari_1 Fukuro_Yari_Pike Fukuro_Yari_Pike 1  gekokujo_fukuro_yari_1 0  1480916996 8725730477215488 275 8202 3.000000 100 0 0 0 8 17408 75 0 275 0 280 529
+ 0
+0
+
+ itm_gekokujo_fukuro_yari_2 Fukuro_Yari_Pike Fukuro_Yari_Pike 1  gekokujo_fukuro_yari_2 0  1480916996 8725730477215488 275 8202 3.000000 100 0 0 0 8 17408 75 0 275 0 280 529
+ 0
+0
+
+ itm_gekokujo_fukuro_yari_3 Fukuro_Yari Fukuro_Yari 1  gekokujo_fukuro_yari_3 0  3359965188 8725730477215488 210 8202 2.500000 100 0 0 0 0 19456 80 0 210 0 280 531
+ 0
+0
+
+ itm_gekokujo_fukuro_yari_4 Fukuro_Yari Fukuro_Yari 1  gekokujo_fukuro_yari_4 0  3359965188 8725730477215488 210 8202 2.500000 100 0 0 0 0 19456 80 0 210 0 280 531
+ 0
+0
+
+ itm_gekokujo_yari_1 Su_Yari Su_Yari 1  gekokujo_su_yari_1 0  3359965188 8725730477215488 350 155658 2.500000 90 0 0 0 0 20480 80 0 202 0 283 532
+ 0
+0
+
+ itm_gekokujo_yari_2 Su_Yari_Pike Su_Yari_Pike 1  gekokujo_su_yari_2 0  1480916996 8725730477215488 350 155658 3.000000 90 0 0 0 9 18432 75 0 300 0 283 530
+ 0
+0
+
+ itm_gekokujo_yari_3 Su_Yari Su_Yari 1  gekokujo_su_yari_3 0  3359965188 8725730477215488 350 155658 2.500000 90 0 0 0 8 20480 80 0 235 0 283 532
+ 0
+0
+
+ itm_gekokujo_yari_4 Soshu_Su_Yari_Pike Soshu_Su_Yari_Pike 1  gekokujo_su_yari_4 0  1480916996 8725730477215488 700 155658 3.000000 80 0 0 0 0 18432 75 0 332 0 283 530
+ 0
+0
+
+ itm_gekokujo_yari_5 Yamato_Su_Yari Yamato_Su_Yari 1  gekokujo_su_yari_5 0  3359965188 8725730477215488 350 155658 2.500000 80 0 0 0 7 18432 83 0 267 0 283 530
+ 0
+0
+
+ itm_gekokujo_yari_6 Yamashiro_Su_Yari Yamashiro_Su_Yari 1  gekokujo_su_yari_6 0  3359965188 8725730477215488 350 155658 2.500000 80 0 0 0 0 20480 90 0 170 0 286 532
+ 0
+0
+
+ itm_gekokujo_omi_yari_1 Omi_Yari Omi_Yari 1  gekokujo_omi_yari_1 0  1212481540 8725730477215488 550 155658 3.000000 80 0 0 0 9 36864 75 0 282 0 284 36
+ 0
+0
+
+ itm_gekokujo_omi_yari_2 Omi_Yari Omi_Yari 1  gekokujo_omi_yari_2 0  1212481540 8725730477215488 550 155658 3.500000 80 0 0 0 10 41984 70 0 357 0 284 41
+ 0
+0
+
+ itm_gekokujo_omi_yari_3 Omi_Yari Omi_Yari 1  gekokujo_omi_yari_3 0  1212481540 8725730477215488 550 155658 3.000000 80 0 0 0 9 36864 75 0 282 0 284 36
+ 0
+0
+
+ itm_gekokujo_jumonji_yari_1 Jumonji_Yari Jumonji_Yari 1  gekokujo_jumonji_yari_1 0  3359965188 8725730477215488 410 155658 2.500000 90 0 0 0 8 32768 85 0 172 0 282 32
+ 0
+0
+
+ itm_gekokujo_jumonji_yari_2 Jumonji_Yari Jumonji_Yari 1  gekokujo_jumonji_yari_2 0  3359965188 8725730477215488 410 155658 3.000000 90 0 0 0 9 35840 80 0 240 0 282 35
+ 0
+0
+
+ itm_gekokujo_jumonji_yari_3 Jumonji_Yari Jumonji_Yari 1  gekokujo_jumonji_yari_3 0  3359965188 8725730477215488 410 155658 3.000000 90 0 0 0 9 32768 80 0 237 0 282 32
+ 0
+0
+
+ itm_gekokujo_jumonji_yari_4 Jumonji_Yari Jumonji_Yari 1  gekokujo_jumonji_yari_4 0  3359965188 8725730477215488 410 155658 2.500000 80 0 0 0 7 33792 85 0 175 0 284 33
+ 0
+0
+
+ itm_gekokujo_jumonji_yari_5 Jumonji_Yari Jumonji_Yari 1  gekokujo_jumonji_yari_5 0  3359965188 8725730477215488 410 155658 3.000000 80 0 0 0 9 36864 88 0 237 0 283 36
+ 0
+0
+
+ itm_gekokujo_katakama_yari_1 Katakama_Yari Katakama_Yari 1  gekokujo_katakama_yari_1 0  3359965188 8725730477215488 390 155658 2.500000 90 0 0 0 0 39936 85 0 175 0 282 295
+ 0
+0
+
+ itm_gekokujo_katakama_yari_2 Katakama_Yari Katakama_Yari 1  gekokujo_katakama_yari_2 0  3359965188 8725730477215488 390 155658 2.500000 90 0 0 0 0 39936 85 0 175 0 282 295
+ 0
+0
+
+ itm_gekokujo_katakama_yari_3 Katakama_Yari Katakama_Yari 1  gekokujo_katakama_yari_3 0  3359965188 8725730477215488 390 155658 3.000000 90 0 0 0 8 45056 80 0 240 0 282 300
+ 0
+0
+
+ itm_gekokujo_kama_1 Kama Kama 1  gekokujo_kama_1 0  4521986 9223388530091229198 9 262164 1.000000 100 0 0 0 0 22528 100 0 67 0 256 22
+ 0
+0
+
+ itm_gekokujo_kama_2 Kama Kama 1  gekokujo_kama_2 0  4521986 9223388530091229198 220 262164 1.000000 100 0 0 0 0 26624 100 0 72 0 256 282
+ 0
+0
+
+ itm_gekokujo_jo Jo Jo 1  wooden_staff 0  1212612612 8725728866602752 36 8202 1.500000 100 0 0 0 0 18432 100 0 130 0 531 530
+ 0
+0
+
+ itm_gekokujo_bo Bo Bo 1  quarter_staff 0  1078394884 8725728866602752 60 8202 2.000000 100 0 0 0 0 20480 104 0 140 0 532 532
+ 0
+0
+
+ itm_gekokujo_bo_iron Kanemuchi Kanemuchi 1  iron_staff 0  1078001668 8725728866602752 202 8202 2.000000 100 0 0 0 0 25600 97 0 140 0 538 537
+ 0
+0
+
+ itm_gekokujo_otsuchi Otsuchi Otsuchi 1  maul_c 0  313539362819 9223635925844623584 101 262164 7.000000 100 0 0 0 12 39936 81 0 82 0 256 551
+ 0
+0
+
+ itm_gekokujo_konsaibo_1 Konsaibo Konsaibo 1  gekokujo_konsaibo_1 0  279177396227 8725728598167296 264 262164 7.000000 100 0 0 0 10 40960 82 0 95 0 532 552
+ 0
+0
+
+ itm_gekokujo_konsaibo_2 Konsaibo Konsaibo 1  gekokujo_konsaibo_2 0  279177396227 8725728598167296 396 262164 9.000000 100 0 0 0 12 45056 78 0 118 0 532 556
+ 0
+0
+
+ itm_gekokujo_tetsubo_1 Tetsubo Tetsubo 1  gekokujo_tetsubo_1 0  279177134083 8725728598167296 310 262164 8.000000 100 0 0 0 11 49152 80 0 95 0 538 560
+ 0
+0
+
+ itm_gekokujo_tetsubo_2 Tetsubo Tetsubo 1  gekokujo_tetsubo_2 0  279177134083 8725728598167296 465 262164 10.000000 100 0 0 0 13 53248 76 0 118 0 538 564
+ 0
+0
+
+ itm_gekokujo_kanabo_practice Practice_Kanabo Practice_Kanabo 1  gekokujo_kanabo_practice 0  279177396227 8725728598167296 173 8202 7.000000 100 0 0 0 0 35840 85 0 118 0 532 547
+ 0
+0
+
+ itm_gekokujo_yumi_1 Practice_Yumi Practice_Yumi 2  gekokujo_yumi_1 0  gekokujo_yumi_1_carry 3458764513820540928  6357000 5905584128 58 655370 1.000000 100 0 0 0 0 0 100 52 0 0 271 0
+ 0
+0
+
+ itm_gekokujo_yumi_2 Bamboo_Yumi Bamboo_Yumi 2  gekokujo_yumi_2 0  gekokujo_yumi_2_carry 3458764513820540928  6357000 5905584128 192 655370 1.500000 100 0 0 0 0 0 97 53 0 0 273 0
+ 0
+0
+
+ itm_gekokujo_yumi_3 Simple_Yumi Simple_Yumi 2  gekokujo_yumi_3 0  gekokujo_yumi_3_carry 3458764513820540928  6357000 5905584128 326 655370 1.000000 100 0 0 0 1 0 94 55 0 0 275 0
+ 0
+0
+
+ itm_gekokujo_yumi_4 Short_Yumi Short_Yumi 2  gekokujo_yumi_4 0  gekokujo_yumi_4_carry 3458764513820540928  6357000 5905584128 460 655370 1.250000 100 0 0 0 2 0 90 56 0 0 277 0
+ 0
+0
+
+ itm_gekokujo_yumi_5 Yumi Yumi 2  gekokujo_yumi_5 0  gekokujo_yumi_5_carry 3458764513820540928  6357000 5905584128 594 655370 1.500000 100 0 0 0 3 0 87 58 0 0 279 0
+ 0
+0
+
+ itm_gekokujo_yumi_6 Yumi Yumi 2  gekokujo_yumi_6 0  gekokujo_yumi_6_carry 3458764513820540928  6357000 5905584128 594 655370 1.500000 100 0 0 0 3 0 87 58 0 0 279 0
+ 0
+0
+
+ itm_gekokujo_yumi_7 War_Yumi War_Yumi 2  gekokujo_yumi_7 0  gekokujo_yumi_7_carry 3458764513820540928  6357000 5905584128 728 655370 1.750000 100 0 0 0 4 0 84 59 0 0 281 0
+ 0
+0
+
+ itm_gekokujo_yumi_8 War_Yumi War_Yumi 2  gekokujo_yumi_8 0  gekokujo_yumi_8_carry 3458764513820540928  6357000 5905584128 862 655370 1.750000 100 0 0 0 5 0 81 60 0 0 283 0
+ 0
+0
+
+ itm_gekokujo_yumi_9 Compact_Yumi Compact_Yumi 2  gekokujo_yumi_9 0  gekokujo_yumi_9_carry 3458764513820540928  6357000 5905584128 828 655370 1.000000 100 0 0 0 4 0 84 59 0 0 281 0
+ 0
+0
+
+ itm_gekokujo_bow_ezo Ezo_Bow Ezo_Bow 2  nomad_bow 0  nomad_bow_case 3458764513820540928  6357000 37312532480 164 655370 1.250000 100 0 0 0 1 0 94 56 0 0 274 0
+ 0
+0
+
+ itm_gekokujo_bow_mongol Mongol_Bow Mongol_Bow 2  khergit_bow 0  khergit_bow_case 3458764513820540928  6357000 37312532480 269 655370 1.250000 100 0 0 0 2 0 90 57 0 0 275 0
+ 0
+0
+
+ itm_gekokujo_bow_korean Korean_Bow Korean_Bow 2  strong_bow 0  strong_bow_case 3458764513820540928  6357000 37312532480 437 655370 1.250000 100 0 0 0 2 0 88 58 0 0 277 0
+ 0
+0
+
+ itm_gekokujo_arquebus_1 Hizen_Teppo Hizen_Teppo 1  matchlock_1 0  7405585 555930353664 230 401410 6.000000 100 0 0 100 0 0 30 183 0 1 305 0
+ 0
+1
+-51.000000  4 600 1 1152921504606847102 720 2 1 0 721 2 1 112 1975 3 1008806316530991133 1 15 
+
+ itm_gekokujo_arquebus_2 Sakai_Teppo Sakai_Teppo 1  arquebus 0  7405585 555930353664 397 401410 5.500000 100 0 0 100 0 0 27 200 0 1 309 0
+ 0
+1
+-51.000000  4 600 1 1152921504606847102 720 2 1 0 721 2 1 106 1975 3 1008806316530991133 1 15 
+
+ itm_gekokujo_arquebus_3 Kunitomo_Teppo Kunitomo_Teppo 1  gekokujo_teppo_1 0  7405585 555930353664 563 401410 5.500000 100 0 0 100 0 0 23 217 0 1 313 0
+ 0
+1
+-51.000000  4 600 1 1152921504606847102 720 2 1 0 721 2 1 121 1975 3 1008806316530991133 1 15 
+
+ itm_gekokujo_arquebus_4 Nanban_Teppo Nanban_Teppo 1  matchlock_2 0  7405585 555930353664 730 401410 5.000000 100 0 0 100 0 0 20 233 0 1 317 0
+ 0
+1
+-51.000000  4 600 1 1152921504606847102 720 2 1 0 721 2 1 107 1975 3 1008806316530991133 1 15 
+
+ itm_gekokujo_arquebus_5 Negoro_Teppo Negoro_Teppo 1  gekokujo_teppo_1 0  7405585 555930353664 897 401410 5.000000 100 0 0 100 0 0 17 250 0 1 321 0
+ 0
+1
+-51.000000  4 600 1 1152921504606847102 720 2 1 0 721 2 1 106 1975 3 1008806316530991133 1 15 
+
+ itm_gekokujo_bullets_1 Bullets Bullets 2  cartridge_a 0  gekokujo_bullet_flying 2305843009213693952  16875538 0 41 4398046511112 2.000000 160 0 0 0 0 0 0 0 3 15 259 0
+ 0
+1
+-52.000000  4 600 1 1152921504606847103 720 2 1 0 721 2 1 0 1975 3 1008806316530991134 1 8 
+
+ itm_gekokujo_bullets_2 Heavy_Bullets Heavy_Bullets 2  cartridge_a 0  gekokujo_bullet_flying 2305843009213693952  16842770 0 234 4398046511112 3.000000 100 0 0 0 0 0 0 0 5 12 261 0
+ 0
+1
+-52.000000  4 600 1 1152921504606847103 720 2 1 0 721 2 1 0 1975 3 1008806316530991134 1 8 
+
+ itm_gekokujo_arrows_1 Target_Arrows Target_Arrows 3  gf_arrow_1 0  gf_arrow_1_flying 2305843009213693952  gf_quiver_1 3458764513820540928  98309 1610612736 72 4398046511112 3.000000 160 0 0 0 0 0 0 0 95 30 257 0
+ 0
+0
+
+ itm_gekokujo_arrows_2 Arrows Arrows 3  gf_arrow_2 0  gf_arrow_2_flying 2305843009213693952  gf_quiver_2 3458764513820540928  65541 1610612736 124 4398046511112 3.000000 70 0 0 0 0 0 0 0 95 30 258 0
+ 0
+0
+
+ itm_gekokujo_arrows_3 War_Arrows War_Arrows 3  gf_arrow_3 0  gf_arrow_3_flying 2305843009213693952  gf_quiver_3 3458764513820540928  65541 1610612736 410 4398046511112 3.000000 50 0 0 0 0 0 0 0 95 30 259 0
+ 0
+0
+
+ itm_gekokujo_arrows_4 Ceremonial_Arrows Ceremonial_Arrows 3  gf_arrow_4 0  gf_arrow_4_flying 2305843009213693952  gf_quiver_4 3458764513820540928  65541 1610612736 615 4398046511112 3.000000 30 0 0 0 0 0 0 0 95 30 260 0
+ 0
+0
+
+ itm_gekokujo_arrows_foreign Foreign_Arrows Foreign_Arrows 3  arrow_b 0  flying_missile 2305843009213693952  quiver_b 3458764513820540928  65541 1610612736 350 4398046511112 3.000000 30 0 0 0 0 0 0 0 95 28 259 0
+ 0
+0
+
+ itm_gekokujo_practice_jo Practice_Jo Practice_Jo 1  wooden_staff 0  1212547076 8725728866602752 9 0 2.000000 100 0 0 0 0 18432 103 0 118 0 530 530
+ 0
+0
+
+ itm_gekokujo_practice_wakizashi Practice_Wakizashi Practice_Wakizashi 1  gekokujo_practice_wakizashi 0  4653058 9223388538681163791 40 0 1.250000 100 0 0 0 0 18432 108 0 59 0 524 530
+ 0
+0
+
+ itm_gekokujo_practice_katana Practice_Katana Practice_Katana 1  gekokujo_practice_katana 0  6750211 9223635928528978175 120 0 2.000000 100 0 0 0 0 22528 108 0 78 0 523 534
+ 0
+0
+
+ itm_gekokujo_practice_nodachi Practice_Nodachi Practice_Nodachi 1  gekokujo_practice_nodachi 0  6750211 9223635924234010848 270 0 3.500000 100 0 0 0 0 30720 92 0 109 0 512 542
+ 0
+0
+
+ itm_gekokujo_practice_yari Practice_Yari Practice_Yari 1  gekokujo_practice_yari 0  3360030724 8725730477215488 80 0 2.000000 100 0 0 0 0 20480 88 0 186 0 532 532
+ 0
+0
+
+ itm_gekokujo_practice_naginata Practice_Naginata Practice_Naginata 1  gekokujo_practice_naginata 0  140902404 8725730477215488 371 0 3.750000 100 0 0 0 0 24576 80 0 121 0 527 536
+ 0
+0
+
+ itm_gekokujo_practice_yumi Practice_Yumi Practice_Yumi 2  gekokujo_yumi_2 0  gekokujo_yumi_2_carry 3458764513820540928  6291464 5905584128 0 0 1.500000 100 0 0 0 0 0 90 40 0 0 533 0
+ 0
+0
+
+ itm_gekokujo_practice_arrows Practice_Arrows Practice_Arrows 3  gf_arrow_1 0  gf_arrow_1_flying 2305843009213693952  gf_quiver_1 3458764513820540928  5 1610612736 0 0 1.500000 100 0 0 0 0 0 0 0 95 80 0 0
+ 0
+0
+
+ itm_gekokujo_practice_kunai Practice_Kunai Practice_Kunai 2  gekokujo_practice_kunai 0  gekokujo_practice_kunai_throw 2305843009213693952  541065226 131072 193 0 2.500000 100 0 0 0 0 0 110 24 0 50 526 0
+ 0
+0
+
+ itm_gekokujo_practice_kunai_melee Practice_Kunai Practice_Kunai 1  gekokujo_practice_kunai 0  4210690 9223372036879941647 193 0 2.500000 100 0 0 0 0 16384 110 0 30 0 532 528
+ 0
+0
+
+ itm_gekokujo_ezo_armor_1 Ezo_Outfit Ezo_Outfit 1  gekokujo_ezo_armor_1 0  553648141 0 148 123731968 2.000000 100 0 23 9 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_ezo_robes_1 Ezo_Outfit Ezo_Outfit 1  gekokujo_ezo_robes_1 0  553648141 0 148 123731968 2.000000 100 0 12 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_ezo_robes_2 Ezo_Outfit Ezo_Outfit 1  gekokujo_ezo_robes_2 0  553648141 0 148 123731968 2.000000 100 0 12 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_ezo_robes_3 Ezo_Outfit Ezo_Outfit 1  gekokujo_ezo_robes_3 0  553648141 0 148 123731968 2.000000 100 0 12 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_nomad_armor Nomad_Armor Nomad_Armor 1  nomad_armor_new 0  16777229 0 25 123731968 2.000000 100 0 24 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_ragged_outfit Ragged_Outfit Ragged_Outfit 1  ragged_outfit_a_new 0  553648141 0 390 123731968 7.000000 100 0 23 9 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_nomad_vest Nomad_Vest Nomad_Vest 1  nomad_vest_new 0  553648141 0 360 123731968 7.000000 50 0 22 8 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_tribal_warrior_outfit Tribal_Warrior_Outfit Tribal_Warrior_Outfit 1  tribal_warrior_outfit_a_new 0  553648141 0 520 123731968 14.000000 100 0 30 10 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_pelt_coat Pelt_Coat Pelt_Coat 1  thick_coat_a 0  16777229 0 14 123731968 2.000000 100 0 9 1 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_pilgrim_disguise Pilgrim_Disguise Pilgrim_Disguise 1  pilgrim_outfit 0  553648141 0 25 123731968 2.000000 100 0 19 8 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_pilgrim_hood Pilgrim_Hood Pilgrim_Hood 1  pilgrim_hood 0  536870924 0 35 123731968 1.250000 100 14 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_leather_apron Leather_Apron Leather_Apron 1  leather_apron 0  553648141 0 61 123731968 3.000000 100 0 12 7 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_leather_boots Leather_Boots Leather_Boots 1  leather_boots_a 0  536874766 0 174 123731968 1.250000 100 0 0 16 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_hide_boots Hide_Boots Hide_Boots 1  hide_boots_a 0  536874766 0 34 123731968 1.000000 100 0 0 10 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_nomad_boots Nomad_Boots Nomad_Boots 1  nomad_boots_a 0  536874766 0 90 123731968 1.250000 100 0 0 14 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kimono_1_1 Men's_Clothes Men's_Clothes 1  gekokujo_kimono_1_1 0  553713677 0 6 123731968 1.000000 100 0 6 1 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kimono_1_2 Men's_Clothes Men's_Clothes 1  gekokujo_kimono_1_2 0  553713677 0 6 123731968 1.000000 100 0 6 1 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kimono_1_3 Men's_Clothes Men's_Clothes 1  gekokujo_kimono_1_3 0  553713677 0 6 123731968 1.000000 100 0 6 1 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kimono_2_1 Field_Clothes Field_Clothes 1  gekokujo_kimono_2_1 0  553713677 0 20 123731968 1.000000 100 0 10 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kimono_2_2 Field_Clothes Field_Clothes 1  gekokujo_kimono_2_2 0  553713677 0 20 123731968 1.000000 100 0 10 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kimono_2_3 Field_Clothes Field_Clothes 1  gekokujo_kimono_2_3 0  553713677 0 20 123731968 1.000000 100 0 10 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kimono_3_1 Women's_Clothes Women's_Clothes 1  gekokujo_kimono_3_1 0  553713677 0 49 123731968 1.000000 100 0 8 4 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kimono_3_2 Women's_Clothes Women's_Clothes 1  gekokujo_kimono_3_2 0  553713677 0 49 123731968 1.000000 100 0 8 4 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kimono_3_3 Women's_Clothes Women's_Clothes 1  gekokujo_kimono_3_3 0  553713677 0 49 123731968 1.000000 100 0 8 4 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kimono_3_4 Women's_Clothes Women's_Clothes 1  gekokujo_kimono_3_4 0  553713677 0 49 123731968 1.000000 100 0 8 4 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kimono_3_5 Women's_Clothes Women's_Clothes 1  gekokujo_kimono_3_5 0  553713677 0 49 123731968 1.000000 100 0 8 4 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kimono_3_6 Women's_Clothes Women's_Clothes 1  gekokujo_kimono_3_6 0  553713677 0 49 123731968 1.000000 100 0 8 4 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_hakama_1 Samurai_Outfit Samurai_Outfit 1  gekokujo_hakama_1_1 0  553713677 0 91 123731968 1.500000 100 0 10 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_hakama_2 Samurai_Outfit Samurai_Outfit 1  gekokujo_hakama_1_2 0  553713677 0 91 123731968 1.500000 100 0 10 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_hakama_3 Samurai_Outfit Samurai_Outfit 1  gekokujo_hakama_1_3 0  553713677 0 91 123731968 1.500000 100 0 10 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_hakama_4 Samurai_Outfit Samurai_Outfit 1  gekokujo_hakama_1_4 0  553713677 0 91 123731968 1.500000 100 0 10 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_hakama_5 Samurai_Outfit Samurai_Outfit 1  gekokujo_hakama_1_5 0  553713677 0 91 123731968 1.500000 100 0 10 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_hakama_6 Samurai_Outfit Samurai_Outfit 1  gekokujo_hakama_1_6 0  553713677 0 91 123731968 1.500000 100 0 10 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_haori_1 Samurai_Outfit Samurai_Outfit 1  gekokujo_hakama_2_1 0  553713677 0 148 123731968 2.000000 100 0 12 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_haori_2 Samurai_Outfit Samurai_Outfit 1  gekokujo_hakama_2_2 0  553713677 0 148 123731968 2.000000 100 0 12 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_haori_3 Samurai_Outfit Samurai_Outfit 1  gekokujo_hakama_2_3 0  553713677 0 148 123731968 3.000000 100 0 12 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_haori_4 Samurai_Outfit Samurai_Outfit 1  gekokujo_hakama_2_4 0  553713677 0 148 123731968 2.000000 100 0 12 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_haori_5 Samurai_Outfit Samurai_Outfit 1  gekokujo_hakama_2_5 0  553713677 0 148 123731968 2.000000 100 0 12 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_haori_6 Samurai_Outfit Samurai_Outfit 1  gekokujo_hakama_2_6 0  553713677 0 148 123731968 2.000000 100 0 12 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kimono_2_monk Monk's_Clothes Monk's_Clothes 1  gekokujo_kimono_2_monk 0  553713677 0 20 123731968 1.000000 100 0 10 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_hakama_1_miko Miko's_Clothes Miko's_Clothes 1  gekokujo_hakama_1_miko 0  553713677 0 91 123731968 2.000000 100 0 10 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_tatami_half_1 Tatami_Hara-Ate_Armor Tatami_Hara-Ate_Armor 1  gekokujo_tatami_half_1 0  16842765 0 200 704643236 6.000000 200 0 14 8 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_tatami_half_2 Tatami_Hara-Ate_Armor Tatami_Hara-Ate_Armor 1  gekokujo_tatami_half_2 0  16842765 0 200 704643236 6.000000 200 0 15 7 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_tatami_half_3 Tatami_Hara-Ate_Armor Tatami_Hara-Ate_Armor 1  gekokujo_tatami_half_3 0  16842765 0 200 704643236 6.000000 200 0 16 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_okegawa_half_1 Okegawa_Hara-Ate_Armor Okegawa_Hara-Ate_Armor 1  gekokujo_okegawa_half_1 0  16842765 0 260 704643236 8.000000 150 0 19 9 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_okegawa_half_2 Okegawa_Hara-Ate_Armor Okegawa_Hara-Ate_Armor 1  gekokujo_okegawa_half_2 0  16842765 0 260 704643236 8.000000 150 0 20 8 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_okegawa_half_3 Okegawa_Hara-Ate_Armor Okegawa_Hara-Ate_Armor 1  gekokujo_okegawa_half_3 0  16842765 0 260 704643236 8.000000 150 0 21 7 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_okegawa_half_4 Okegawa_Hara-Ate_Armor Okegawa_Hara-Ate_Armor 1  gekokujo_okegawa_half_4 0  16842765 0 260 704643236 8.000000 150 0 19 9 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_okegawa_half_5 Okegawa_Hara-Ate_Armor Okegawa_Hara-Ate_Armor 1  gekokujo_okegawa_half_5 0  16842765 0 260 704643236 8.000000 150 0 20 8 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_okegawa_half_6 Okegawa_Hara-Ate_Armor Okegawa_Hara-Ate_Armor 1  gekokujo_okegawa_half_6 0  16842765 0 260 704643236 8.000000 150 0 21 7 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_okegawa_half_uesugi Uesugi_Hara-Ate_Armor Uesugi_Hara-Ate_Armor 1  gekokujo_okegawa_half_uesugi 0  16777229 0 260 704643236 8.000000 150 0 19 9 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_okegawa_half_date Date_Hara-Ate_Armor Date_Hara-Ate_Armor 1  gekokujo_okegawa_half_date 0  16777229 0 260 704643236 8.000000 150 0 20 8 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_okegawa_half_oda Oda_Hara-Ate_Armor Oda_Hara-Ate_Armor 1  gekokujo_okegawa_half_oda 0  16777229 0 260 704643236 8.000000 150 0 21 7 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_okegawa_half_mori Mori_Hara-Ate_Armor Mori_Hara-Ate_Armor 1  gekokujo_okegawa_half_mori 0  16777229 0 260 704643236 8.000000 150 0 19 9 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_okegawa_half_takeda Takeda_Hara-Ate_Armor Takeda_Hara-Ate_Armor 1  gekokujo_okegawa_half_takeda 0  16777229 0 260 704643236 8.000000 150 0 20 8 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_okegawa_half_tokugawa Tokugawa_Hara-Ate_Armor Tokugawa_Hara-Ate_Armor 1  gekokujo_okegawa_half_tokugawa 0  16777229 0 260 704643236 8.000000 150 0 21 7 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_mogami_half_1 Mogami_Hara-Ate_Armor Mogami_Hara-Ate_Armor 1  gekokujo_mogami_half_1 0  16842765 0 300 704643236 10.000000 120 0 22 10 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_mogami_half_2 Mogami_Hara-Ate_Armor Mogami_Hara-Ate_Armor 1  gekokujo_mogami_half_2 0  16842765 0 300 704643236 10.000000 120 0 23 9 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_mogami_half_3 Mogami_Hara-Ate_Armor Mogami_Hara-Ate_Armor 1  gekokujo_mogami_half_3 0  16842765 0 300 704643236 10.000000 120 0 24 8 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_tatami_short_1 Tatami_Retainer_Armor Tatami_Retainer_Armor 1  gekokujo_tatami_short_1 0  16842765 0 550 704643236 11.000000 100 0 29 11 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_tatami_short_2 Tatami_Retainer_Armor Tatami_Retainer_Armor 1  gekokujo_tatami_short_2 0  16842765 0 550 704643236 11.000000 100 0 30 10 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_tatami_short_3 Tatami_Retainer_Armor Tatami_Retainer_Armor 1  gekokujo_tatami_short_3 0  16842765 0 550 704643236 11.000000 100 0 31 9 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_tatami_short_4 Tatami_Retainer_Armor Tatami_Retainer_Armor 1  gekokujo_tatami_short_4 0  16842765 0 550 704643236 11.000000 100 0 30 10 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_tatami_short_5 Tatami_Retainer_Armor Tatami_Retainer_Armor 1  gekokujo_tatami_short_5 0  16842765 0 550 704643236 11.000000 100 0 31 9 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_tatami_short_6 Tatami_Retainer_Armor Tatami_Retainer_Armor 1  gekokujo_tatami_short_6 0  16842765 0 550 704643236 11.000000 100 0 29 11 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_okegawa_short_1 Okegawa_Retainer_Armor Okegawa_Retainer_Armor 1  gekokujo_okegawa_short_1 0  16842765 0 1050 704643236 15.000000 100 0 33 12 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_okegawa_short_2 Okegawa_Retainer_Armor Okegawa_Retainer_Armor 1  gekokujo_okegawa_short_2 0  16842765 0 1050 704643236 15.000000 100 0 34 11 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_okegawa_short_3 Okegawa_Retainer_Armor Okegawa_Retainer_Armor 1  gekokujo_okegawa_short_3 0  16842765 0 1050 704643236 15.000000 100 0 35 10 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_okegawa_short_4 Okegawa_Retainer_Armor Okegawa_Retainer_Armor 1  gekokujo_okegawa_short_4 0  16842765 0 1050 704643236 15.000000 100 0 34 11 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_okegawa_short_5 Okegawa_Retainer_Armor Okegawa_Retainer_Armor 1  gekokujo_okegawa_short_5 0  16842765 0 1050 704643236 15.000000 100 0 35 10 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_okegawa_short_6 Okegawa_Retainer_Armor Okegawa_Retainer_Armor 1  gekokujo_okegawa_short_6 0  16842765 0 1050 704643236 15.000000 100 0 33 12 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_okegawa_short_7 Okegawa_Retainer_Armor Okegawa_Retainer_Armor 1  gekokujo_okegawa_short_7 0  16842765 0 1050 704643236 15.000000 100 0 35 10 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_okegawa_short_8 Okegawa_Retainer_Armor Okegawa_Retainer_Armor 1  gekokujo_okegawa_short_8 0  16842765 0 1050 704643236 15.000000 100 0 33 12 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_okegawa_short_9 Okegawa_Retainer_Armor Okegawa_Retainer_Armor 1  gekokujo_okegawa_short_9 0  16842765 0 1050 704643236 15.000000 100 0 34 11 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_okegawa_short_10 Okegawa_Retainer_Armor Okegawa_Retainer_Armor 1  gekokujo_okegawa_short_10 0  16842765 0 1050 704643236 15.000000 100 0 35 10 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_okegawa_short_11 Okegawa_Retainer_Armor Okegawa_Retainer_Armor 1  gekokujo_okegawa_short_11 0  16842765 0 1050 704643236 15.000000 100 0 35 10 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_okegawa_short_12 Okegawa_Retainer_Armor Okegawa_Retainer_Armor 1  gekokujo_okegawa_short_12 0  16842765 0 1050 704643236 15.000000 100 0 35 10 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_okegawa_short_uesugi Uesugi_Retainer_Armor Uesugi_Retainer_Armor 1  gekokujo_okegawa_short_uesugi 0  16842765 0 1050 704643236 15.000000 100 0 33 12 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_okegawa_short_oda Oda_Retainer_Armor Oda_Retainer_Armor 1  gekokujo_okegawa_short_oda 0  16842765 0 1050 704643236 15.000000 100 0 34 11 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_okegawa_short_mori Mori_Retainer_Armor Mori_Retainer_Armor 1  gekokujo_okegawa_short_mori 0  16842765 0 1050 704643236 15.000000 100 0 35 10 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_okegawa_short_takeda Takeda_Retainer_Armor Takeda_Retainer_Armor 1  gekokujo_okegawa_short_takeda 0  16842765 0 1050 704643236 15.000000 100 0 34 11 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_okegawa_short_tokugawa Tokugawa_Retainer_Armor Tokugawa_Retainer_Armor 1  gekokujo_okegawa_short_tokugawa 0  16842765 0 1050 704643236 15.000000 100 0 35 10 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_mogami_short_1 Mogami_Retainer_Armor Mogami_Retainer_Armor 1  gekokujo_mogami_short_1 0  16842765 0 1190 704643236 17.000000 100 0 37 13 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_mogami_short_2 Mogami_Retainer_Armor Mogami_Retainer_Armor 1  gekokujo_mogami_short_2 0  16842765 0 1190 704643236 17.000000 100 0 38 12 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_mogami_short_3 Mogami_Retainer_Armor Mogami_Retainer_Armor 1  gekokujo_mogami_short_3 0  16842765 0 1190 704643236 17.000000 100 0 39 11 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_mogami_short_4 Mogami_Retainer_Armor Mogami_Retainer_Armor 1  gekokujo_mogami_short_4 0  16842765 0 1190 704643236 17.000000 100 0 38 12 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_mogami_short_5 Mogami_Retainer_Armor Mogami_Retainer_Armor 1  gekokujo_mogami_short_5 0  16842765 0 1190 704643236 17.000000 100 0 39 11 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_mogami_short_6 Mogami_Retainer_Armor Mogami_Retainer_Armor 1  gekokujo_mogami_short_6 0  16842765 0 1190 704643236 17.000000 100 0 37 13 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_yukinoshita_short_1 Yukinoshita_Retainer_Armor Yukinoshita_Retainer_Armor 1  gekokujo_yukinoshita_short_1 0  16842765 0 1200 704643236 18.000000 100 0 42 10 8 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_yukinoshita_short_2 Yukinoshita_Retainer_Armor Yukinoshita_Retainer_Armor 1  gekokujo_yukinoshita_short_2 0  16842765 0 1200 704643236 18.000000 100 0 41 11 8 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_yukinoshita_short_3 Yukinoshita_Retainer_Armor Yukinoshita_Retainer_Armor 1  gekokujo_yukinoshita_short_3 0  16842765 0 1200 704643236 18.000000 100 0 40 12 8 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_yukinoshita_short_date Date_Retainer_Armor Date_Retainer_Armor 1  gekokujo_yukinoshita_short_date 0  16842765 0 1200 704643236 18.000000 100 0 41 11 8 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_okegawa_long_1 Okegawa_Armor Okegawa_Armor 1  gekokujo_okegawa_long_1 0  16842765 0 1325 704643236 18.000000 100 0 41 14 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_okegawa_long_2 Okegawa_Armor Okegawa_Armor 1  gekokujo_okegawa_long_2 0  16842765 0 1325 704643236 18.000000 100 0 42 13 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_okegawa_long_3 Okegawa_Armor Okegawa_Armor 1  gekokujo_okegawa_long_3 0  16842765 0 1325 704643236 18.000000 100 0 43 12 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_okegawa_long_4 Okegawa_Armor Okegawa_Armor 1  gekokujo_okegawa_long_4 0  16842765 0 1325 704643236 18.000000 100 0 41 14 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_okegawa_long_5 Okegawa_Armor Okegawa_Armor 1  gekokujo_okegawa_long_5 0  16842765 0 1325 704643236 18.000000 100 0 42 13 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_okegawa_long_6 Okegawa_Armor Okegawa_Armor 1  gekokujo_okegawa_long_6 0  16842765 0 1325 704643236 18.000000 100 0 43 12 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_mogami_long_1 Mogami_Armor Mogami_Armor 1  gekokujo_mogami_long_1 0  16842765 0 1400 704643236 19.000000 100 0 45 15 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_mogami_long_2 Mogami_Armor Mogami_Armor 1  gekokujo_mogami_long_2 0  16842765 0 1400 704643236 19.000000 100 0 46 14 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_mogami_long_3 Mogami_Armor Mogami_Armor 1  gekokujo_mogami_long_3 0  16842765 0 1400 704643236 19.000000 100 0 47 13 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_nuinobe_long_1 Nuinobe_Armor Nuinobe_Armor 1  gekokujo_nuinobe_long_1 0  16842765 0 1525 704643236 19.000000 100 0 46 16 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_nuinobe_long_2 Nuinobe_Armor Nuinobe_Armor 1  gekokujo_nuinobe_long_2 0  16842765 0 1525 704643236 19.000000 100 0 47 15 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_nuinobe_long_3 Nuinobe_Armor Nuinobe_Armor 1  gekokujo_nuinobe_long_3 0  16842765 0 1525 704643236 19.000000 100 0 48 14 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_hishinui_long_1 Hishinui_Armor Hishinui_Armor 1  gekokujo_hishinui_long_1 0  16842765 0 1525 704643236 19.000000 100 0 47 15 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_hishinui_long_2 Hishinui_Armor Hishinui_Armor 1  gekokujo_hishinui_long_2 0  16842765 0 1525 704643236 19.000000 100 0 48 14 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_hishinui_long_3 Hishinui_Armor Hishinui_Armor 1  gekokujo_hishinui_long_3 0  16842765 0 1525 704643236 19.000000 100 0 46 16 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_yukinoshita_long_1 Yukinoshita_Armor Yukinoshita_Armor 1  gekokujo_yukinoshita_long_1 0  16842765 0 1675 704643236 21.000000 60 0 51 14 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_yukinoshita_long_2 Yukinoshita_Armor Yukinoshita_Armor 1  gekokujo_yukinoshita_long_2 0  16842765 0 1675 704643236 21.000000 60 0 52 13 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_yukinoshita_long_3 Yukinoshita_Armor Yukinoshita_Armor 1  gekokujo_yukinoshita_long_3 0  16842765 0 1675 704643236 21.000000 60 0 53 12 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kebiki_1 Kozane_Armor Kozane_Armor 1  gekokujo_kebiki_1 0  16842765 0 1650 704643236 20.000000 80 0 48 17 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kebiki_2 Kozane_Armor Kozane_Armor 1  gekokujo_kebiki_2 0  16842765 0 1650 704643236 20.000000 80 0 49 16 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kebiki_3 Kozane_Armor Kozane_Armor 1  gekokujo_kebiki_3 0  16842765 0 1650 704643236 20.000000 80 0 50 15 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kebiki_4 Kozane_Armor Kozane_Armor 1  gekokujo_kebiki_4 0  16842765 0 1650 704643236 20.000000 80 0 51 14 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kebiki_5 Kozane_Armor Kozane_Armor 1  gekokujo_kebiki_5 0  16842765 0 1650 704643236 20.000000 80 0 52 13 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kebiki_6 Kozane_Armor Kozane_Armor 1  gekokujo_kebiki_6 0  16842765 0 1650 704643236 20.000000 80 0 48 17 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kebiki_7 Kozane_Armor Kozane_Armor 1  gekokujo_kebiki_7 0  16842765 0 1650 704643236 20.000000 80 0 49 16 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kebiki_8 Kozane_Armor Kozane_Armor 1  gekokujo_kebiki_8 0  16842765 0 1650 704643236 20.000000 80 0 50 15 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kebiki_9 Kozane_Armor Kozane_Armor 1  gekokujo_kebiki_9 0  16842765 0 1650 704643236 20.000000 80 0 51 14 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kebiki_10 Kozane_Armor Kozane_Armor 1  gekokujo_kebiki_10 0  16842765 0 1650 704643236 20.000000 80 0 52 13 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kebiki_11 Kozane_Armor Kozane_Armor 1  gekokujo_kebiki_11 0  16842765 0 1650 704643236 20.000000 80 0 48 17 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kebiki_12 Kozane_Armor Kozane_Armor 1  gekokujo_kebiki_12 0  16842765 0 1650 704643236 20.000000 80 0 49 16 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kebiki_13 Kozane_Armor Kozane_Armor 1  gekokujo_kebiki_13 0  16842765 0 1650 704643236 20.000000 80 0 50 15 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kebiki_14 Kozane_Armor Kozane_Armor 1  gekokujo_kebiki_14 0  16842765 0 1650 704643236 20.000000 80 0 51 14 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kebiki_15 Kozane_Armor Kozane_Armor 1  gekokujo_kebiki_15 0  16842765 0 1650 704643236 20.000000 80 0 52 13 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kebiki_16 Kozane_Armor Kozane_Armor 1  gekokujo_kebiki_16 0  16842765 0 1650 704643236 20.000000 80 0 48 17 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kebiki_17 Kozane_Armor Kozane_Armor 1  gekokujo_kebiki_17 0  16842765 0 1650 704643236 20.000000 80 0 49 16 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kebiki_18 Kozane_Armor Kozane_Armor 1  gekokujo_kebiki_18 0  16842765 0 1650 704643236 20.000000 80 0 50 15 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kebiki_19 Kozane_Armor Kozane_Armor 1  gekokujo_kebiki_19 0  16842765 0 1650 704643236 20.000000 80 0 51 14 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kebiki_20 Kozane_Armor Kozane_Armor 1  gekokujo_kebiki_20 0  16842765 0 1650 704643236 20.000000 80 0 52 13 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kebiki_21 Kozane_Armor Kozane_Armor 1  gekokujo_kebiki_21 0  16842765 0 1650 704643236 20.000000 80 0 50 15 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_nanban_1 Nanban_Armor Nanban_Armor 1  gekokujo_nanban_1 0  16842765 0 3300 704643236 25.000000 90 0 57 13 10 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_nanban_2 Nanban_Armor Nanban_Armor 1  gekokujo_nanban_2 0  16842765 0 3300 704643236 25.000000 90 0 56 14 10 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_nanban_3 Nanban_Armor Nanban_Armor 1  gekokujo_nanban_3 0  16842765 0 3300 704643236 25.000000 90 0 55 15 10 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_nanban_4 Nanban_Armor Nanban_Armor 1  gekokujo_nanban_4 0  16842765 0 3300 704643236 25.000000 90 0 54 16 10 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_nanban_5 Nanban_Armor Nanban_Armor 1  gekokujo_nanban_5 0  16842765 0 3300 704643236 25.000000 90 0 53 17 10 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_nanban_6 Nanban_Armor Nanban_Armor 1  gekokujo_nanban_6 0  16842765 0 3300 704643236 25.000000 90 0 52 18 10 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_sugegasa_1 Sugegasa Sugegasa 1  gekokujo_sugegasa 0  65548 0 9 123731968 1.000000 100 3 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_monk_headwrap White_Headwrap White_Headwrap 2  gekokujo_headwrap 0  gekokujo_headwrap_inv 1152921504606846976  69388 0 22 123731968 1.000000 100 6 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_ninja_headwrap Black_Headwrap Black_Headwrap 2  gekokujo_headwrap_black 0  gekokujo_headwrap_black_inv 1152921504606846976  69388 0 22 123731968 1.000000 100 6 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_jingasa_1 Jingasa Jingasa 1  gekokujo_jingasa_1 0  65548 0 176 704643236 1.750000 100 21 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_jingasa_2 Jingasa Jingasa 1  gekokujo_jingasa_2 0  65548 0 176 704643236 1.750000 100 21 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_jingasa_3 Jingasa Jingasa 1  gekokujo_jingasa_3 0  65548 0 176 704643236 1.750000 100 21 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_jingasa_4 Jingasa Jingasa 1  gekokujo_jingasa_4 0  65548 0 176 704643236 1.750000 100 21 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_jingasa_5 Jingasa Jingasa 1  gekokujo_jingasa_5 0  65548 0 176 704643236 1.750000 100 21 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_jingasa_6 Jingasa Jingasa 1  gekokujo_jingasa_6 0  65548 0 176 704643236 1.750000 100 21 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_jingasa_7 Jingasa Jingasa 1  gekokujo_jingasa_7 0  65548 0 176 704643236 1.750000 100 21 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_jingasa_8 Jingasa Jingasa 1  gekokujo_jingasa_8 0  65548 0 176 704643236 1.750000 100 21 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_jingasa_9 Jingasa Jingasa 1  gekokujo_jingasa_9 0  65548 0 176 704643236 1.750000 100 21 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_jingasa_uesugi Uesugi_Jingasa Uesugi_Jingasa 1  gekokujo_jingasa_uesugi 0  12 0 176 704643236 1.750000 100 21 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_jingasa_date Date_Jingasa Date_Jingasa 1  gekokujo_jingasa_date 0  12 0 176 704643236 1.750000 100 21 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_jingasa_oda Oda_Jingasa Oda_Jingasa 1  gekokujo_jingasa_oda 0  12 0 176 704643236 1.750000 100 21 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_jingasa_mori Mori_Jingasa Mori_Jingasa 1  gekokujo_jingasa_mori 0  12 0 176 704643236 1.750000 100 21 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_jingasa_takeda Takeda_Jingasa Takeda_Jingasa 1  gekokujo_jingasa_takeda 0  12 0 176 704643236 1.750000 100 21 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_jingasa_tokugawa Tokugawa_Jingasa Tokugawa_Jingasa 1  gekokujo_jingasa_tokugawa 0  12 0 176 704643236 1.750000 100 21 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_jingasa_miyoshi Miyoshi_Jingasa Miyoshi_Jingasa 1  gekokujo_jingasa_miyoshi 0  12 0 176 704643236 1.750000 100 21 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_jingasa_amako Amako_Jingasa Amako_Jingasa 1  gekokujo_jingasa_amako 0  12 0 176 704643236 1.750000 100 21 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_jingasa_otomo Otomo_Jingasa Otomo_Jingasa 1  gekokujo_jingasa_otomo 0  12 0 176 704643236 1.750000 100 21 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_jingasa_nanbu Nanbu_Jingasa Nanbu_Jingasa 1  gekokujo_jingasa_nanbu 0  12 0 176 704643236 1.750000 100 21 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_jingasa_asakura Asakura_Jingasa Asakura_Jingasa 1  gekokujo_jingasa_asakura 0  12 0 176 704643236 1.750000 100 21 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_jingasa_chosokabe Chosokabe_Jingasa Chosokabe_Jingasa 1  gekokujo_jingasa_chosokabe 0  12 0 176 704643236 1.750000 100 21 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_jingasa_hojo Hojo_Jingasa Hojo_Jingasa 1  gekokujo_jingasa_hojo 0  12 0 176 704643236 1.750000 100 21 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_jingasa_mogami Mogami_Jingasa Mogami_Jingasa 1  gekokujo_jingasa_mogami 0  12 0 176 704643236 1.750000 100 21 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_jingasa_shimazu Shimazu_Jingasa Shimazu_Jingasa 1  gekokujo_jingasa_shimazu 0  12 0 176 704643236 1.750000 100 21 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_jingasa_ryuzoji Ryuzoji_Jingasa Ryuzoji_Jingasa 1  gekokujo_jingasa_ryuzoji 0  12 0 176 704643236 1.750000 100 21 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_jingasa_satake Satake_Jingasa Satake_Jingasa 1  gekokujo_jingasa_satake 0  12 0 176 704643236 1.750000 100 21 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_jingasa_satomi Satomi_Jingasa Satomi_Jingasa 1  gekokujo_jingasa_satomi 0  12 0 176 704643236 1.750000 100 21 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_jingasa_ukita Ukita_Jingasa Ukita_Jingasa 1  gekokujo_jingasa_ukita 0  12 0 176 704643236 1.750000 100 21 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_jingasa_ikko Ikko_Jingasa Ikko_Jingasa 1  gekokujo_jingasa_ikko 0  12 0 176 704643236 1.750000 100 21 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_hari_o_1 Okashi_Hari-Bachi_Kabuto Okashi_Hari-Bachi_Kabuto 1  gekokujo_hari_o_1 0  65548 0 300 704643238 2.000000 100 30 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_hari_o_2 Okashi_Hari-Bachi_Kabuto Okashi_Hari-Bachi_Kabuto 1  gekokujo_hari_o_2 0  65548 0 300 704643238 2.000000 100 30 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_hari_o_3 Okashi_Hari-Bachi_Kabuto Okashi_Hari-Bachi_Kabuto 1  gekokujo_hari_o_3 0  65548 0 300 704643238 2.000000 100 30 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_suji_o_1 Okashi_Suji-Bachi_Kabuto Okashi_Suji-Bachi_Kabuto 1  gekokujo_suji_o_1 0  65548 0 400 704643238 2.000000 100 32 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_suji_o_2 Okashi_Suji-Bachi_Kabuto Okashi_Suji-Bachi_Kabuto 1  gekokujo_suji_o_2 0  65548 0 400 704643238 2.000000 100 32 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_suji_o_3 Okashi_Suji-Bachi_Kabuto Okashi_Suji-Bachi_Kabuto 1  gekokujo_suji_o_3 0  65548 0 400 704643238 2.000000 100 32 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_shinomi_o_1 Okashi_Shinominari_Kabuto Okashi_Shinominari_Kabuto 1  gekokujo_shinomi_o_1 0  65548 0 600 704643238 2.500000 100 35 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_shinomi_o_2 Okashi_Shinominari_Kabuto Okashi_Shinominari_Kabuto 1  gekokujo_shinomi_o_2 0  65548 0 600 704643238 2.500000 100 35 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_shinomi_o_3 Okashi_Shinominari_Kabuto Okashi_Shinominari_Kabuto 1  gekokujo_shinomi_o_3 0  65548 0 600 704643238 2.500000 100 35 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_zunari_o_1 Okashi_Zunari_Kabuto Okashi_Zunari_Kabuto 1  gekokujo_zunari_o_1 0  65548 0 600 704643238 2.500000 100 35 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_zunari_o_2 Okashi_Zunari_Kabuto Okashi_Zunari_Kabuto 1  gekokujo_zunari_o_2 0  65548 0 600 704643238 2.500000 100 35 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_zunari_o_3 Okashi_Zunari_Kabuto Okashi_Zunari_Kabuto 1  gekokujo_zunari_o_3 0  65548 0 600 704643238 2.500000 100 35 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto3_o_1 Okashi_Shinominari_Kabuto Okashi_Shinominari_Kabuto 1  gekokujo_kabuto3_o_1 0  65548 0 600 704643238 2.500000 100 35 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto3_o_2 Okashi_Shinominari_Kabuto Okashi_Shinominari_Kabuto 1  gekokujo_kabuto3_o_2 0  65548 0 600 704643238 2.500000 100 35 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto3_o_3 Okashi_Shinominari_Kabuto Okashi_Shinominari_Kabuto 1  gekokujo_kabuto3_o_3 0  65548 0 600 704643238 2.500000 100 35 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_shinomi_o_h_1 Okashi_Shinominari_Kabuto Okashi_Shinominari_Kabuto 1  gekokujo_shinomi_o_h_1 0  65548 0 750 704643238 3.500000 100 38 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_shinomi_o_h_2 Okashi_Shinominari_Kabuto Okashi_Shinominari_Kabuto 1  gekokujo_shinomi_o_h_2 0  65548 0 750 704643238 3.500000 100 38 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_shinomi_o_h_3 Okashi_Shinominari_Kabuto Okashi_Shinominari_Kabuto 1  gekokujo_shinomi_o_h_3 0  65548 0 750 704643238 3.500000 100 38 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_zunari_o_h_1 Okashi_Zunari_Kabuto Okashi_Zunari_Kabuto 1  gekokujo_zunari_o_h_1 0  65548 0 750 704643238 3.500000 100 38 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_zunari_o_h_2 Okashi_Zunari_Kabuto Okashi_Zunari_Kabuto 1  gekokujo_zunari_o_h_2 0  65548 0 750 704643238 3.500000 100 38 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_zunari_o_h_3 Okashi_Zunari_Kabuto Okashi_Zunari_Kabuto 1  gekokujo_zunari_o_h_3 0  65548 0 750 704643238 3.500000 100 38 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto3_o_h_1 Okashi_Shinominari_Kabuto Okashi_Shinominari_Kabuto 1  gekokujo_kabuto3_o_h_1 0  65548 0 750 704643238 3.500000 100 38 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto3_o_h_2 Okashi_Shinominari_Kabuto Okashi_Shinominari_Kabuto 1  gekokujo_kabuto3_o_h_2 0  65548 0 750 704643238 3.500000 100 38 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto3_o_h_3 Okashi_Shinominari_Kabuto Okashi_Shinominari_Kabuto 1  gekokujo_kabuto3_o_h_3 0  65548 0 750 704643238 3.500000 100 38 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_eboshi_h_1 Eboshi_Kabuto Eboshi_Kabuto 1  gekokujo_eboshi_h_1 0  65548 0 940 704643238 4.000000 100 41 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_eboshi_h_2 Eboshi_Kabuto Eboshi_Kabuto 1  gekokujo_eboshi_h_2 0  65548 0 940 704643238 4.000000 100 41 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_eboshi_h_3 Eboshi_Kabuto Eboshi_Kabuto 1  gekokujo_eboshi_h_3 0  65548 0 940 704643238 4.000000 100 41 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_shinomi_h_1 Shinominari_Kabuto Shinominari_Kabuto 1  gekokujo_shinomi_h_1 0  65548 0 940 704643238 4.000000 100 41 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_shinomi_h_2 Shinominari_Kabuto Shinominari_Kabuto 1  gekokujo_shinomi_h_2 0  65548 0 940 704643238 4.000000 100 41 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_shinomi_h_3 Shinominari_Kabuto Shinominari_Kabuto 1  gekokujo_shinomi_h_3 0  65548 0 940 704643238 4.000000 100 41 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_zunari_h_1 Zunari_Kabuto Zunari_Kabuto 1  gekokujo_zunari_h_1 0  65548 0 940 704643238 4.000000 100 41 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_zunari_h_2 Zunari_Kabuto Zunari_Kabuto 1  gekokujo_zunari_h_2 0  65548 0 940 704643238 4.000000 100 41 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_zunari_h_3 Zunari_Kabuto Zunari_Kabuto 1  gekokujo_zunari_h_3 0  65548 0 940 704643238 4.000000 100 41 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_eboshi_m_1 Eboshi_Kabuto Eboshi_Kabuto 1  gekokujo_eboshi_m_1 0  65548 0 1170 704643238 5.000000 100 45 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_eboshi_m_2 Eboshi_Kabuto Eboshi_Kabuto 1  gekokujo_eboshi_m_2 0  65548 0 1170 704643238 5.000000 100 45 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_eboshi_m_3 Eboshi_Kabuto Eboshi_Kabuto 1  gekokujo_eboshi_m_3 0  65548 0 1170 704643238 5.000000 100 45 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_shinomi_m_1 Shinominari_Kabuto Shinominari_Kabuto 1  gekokujo_shinomi_m_1 0  65548 0 1170 704643238 5.000000 100 45 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_shinomi_m_2 Shinominari_Kabuto Shinominari_Kabuto 1  gekokujo_shinomi_m_2 0  65548 0 1170 704643238 5.000000 100 45 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_shinomi_m_3 Shinominari_Kabuto Shinominari_Kabuto 1  gekokujo_shinomi_m_3 0  65548 0 1170 704643238 5.000000 100 45 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_zunari_m_1 Zunari_Kabuto Zunari_Kabuto 1  gekokujo_zunari_m_1 0  65548 0 1170 704643238 5.000000 100 45 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_zunari_m_2 Zunari_Kabuto Zunari_Kabuto 1  gekokujo_zunari_m_2 0  65548 0 1170 704643238 5.000000 100 45 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_zunari_m_3 Zunari_Kabuto Zunari_Kabuto 1  gekokujo_zunari_m_3 0  65548 0 1170 704643238 5.000000 100 45 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto1_h_1 Suji-Bachi_Kabuto Suji-Bachi_Kabuto 1  gekokujo_kabuto1_h_1 0  65548 0 1032 704643238 3.500000 100 43 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto1_h_2 Suji-Bachi_Kabuto Suji-Bachi_Kabuto 1  gekokujo_kabuto1_h_2 0  65548 0 1032 704643238 3.500000 100 43 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto1_h_3 Suji-Bachi_Kabuto Suji-Bachi_Kabuto 1  gekokujo_kabuto1_h_3 0  65548 0 1032 704643238 3.500000 100 43 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto1_m_1 Suji-Bachi_Kabuto Suji-Bachi_Kabuto 1  gekokujo_kabuto1_m_1 0  65548 0 1316 704643238 4.500000 100 47 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto1_m_2 Suji-Bachi_Kabuto Suji-Bachi_Kabuto 1  gekokujo_kabuto1_m_2 0  65548 0 1316 704643238 4.500000 100 47 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto1_m_3 Suji-Bachi_Kabuto Suji-Bachi_Kabuto 1  gekokujo_kabuto1_m_3 0  65548 0 1316 704643238 4.500000 100 47 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto2_h_1 Suji-Bachi_Kabuto Suji-Bachi_Kabuto 1  gekokujo_kabuto2_h_1 0  65548 0 1242 704643238 4.000000 100 46 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto2_h_2 Suji-Bachi_Kabuto Suji-Bachi_Kabuto 1  gekokujo_kabuto2_h_2 0  65548 0 1242 704643238 4.000000 100 46 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto2_h_3 Suji-Bachi_Kabuto Suji-Bachi_Kabuto 1  gekokujo_kabuto2_h_3 0  65548 0 1242 704643238 4.000000 100 46 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto2_m_1 Suji-Bachi_Kabuto Suji-Bachi_Kabuto 1  gekokujo_kabuto2_m_1 0  65548 0 1450 704643238 5.000000 100 50 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto2_m_2 Suji-Bachi_Kabuto Suji-Bachi_Kabuto 1  gekokujo_kabuto2_m_2 0  65548 0 1450 704643238 5.000000 100 50 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto2_m_3 Suji-Bachi_Kabuto Suji-Bachi_Kabuto 1  gekokujo_kabuto2_m_3 0  65548 0 1450 704643238 5.000000 100 50 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto3_h_1 Shinominari_Kabuto Shinominari_Kabuto 1  gekokujo_kabuto3_h_1 0  65548 0 940 704643238 4.000000 100 41 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto3_h_2 Shinominari_Kabuto Shinominari_Kabuto 1  gekokujo_kabuto3_h_2 0  65548 0 940 704643238 4.000000 100 41 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto3_h_3 Shinominari_Kabuto Shinominari_Kabuto 1  gekokujo_kabuto3_h_3 0  65548 0 940 704643238 4.000000 100 41 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto3_m_1 Shinominari_Kabuto Shinominari_Kabuto 1  gekokujo_kabuto3_m_1 0  65548 0 1170 704643238 5.000000 100 45 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto3_m_2 Shinominari_Kabuto Shinominari_Kabuto 1  gekokujo_kabuto3_m_2 0  65548 0 1170 704643238 5.000000 100 45 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto3_m_3 Shinominari_Kabuto Shinominari_Kabuto 1  gekokujo_kabuto3_m_3 0  65548 0 1170 704643238 5.000000 100 45 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto_nanban_h_1 Momonari_Kabuto Momonari_Kabuto 1  gekokujo_kabuto_nanban_h_1 0  65548 0 2142 704643238 4.000000 100 48 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto_nanban_h_2 Momonari_Kabuto Momonari_Kabuto 1  gekokujo_kabuto_nanban_h_2 0  65548 0 2142 704643238 4.000000 100 48 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto_nanban_h_3 Momonari_Kabuto Momonari_Kabuto 1  gekokujo_kabuto_nanban_h_3 0  65548 0 2142 704643238 4.000000 100 48 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto_nanban_h_4 Momonari_Kabuto Momonari_Kabuto 1  gekokujo_kabuto_nanban_h_4 0  65548 0 2142 704643238 4.000000 100 48 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto_nanban_h_5 Momonari_Kabuto Momonari_Kabuto 1  gekokujo_kabuto_nanban_h_5 0  65548 0 2142 704643238 4.000000 100 48 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto_nanban_h_6 Momonari_Kabuto Momonari_Kabuto 1  gekokujo_kabuto_nanban_h_6 0  65548 0 2142 704643238 4.000000 100 48 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto_nanban_m_1 Momonari_Kabuto Momonari_Kabuto 1  gekokujo_kabuto_nanban_m_1 0  65548 0 2350 704643238 5.000000 80 52 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto_nanban_m_2 Momonari_Kabuto Momonari_Kabuto 1  gekokujo_kabuto_nanban_m_2 0  65548 0 2350 704643238 5.000000 80 52 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto_nanban_m_3 Momonari_Kabuto Momonari_Kabuto 1  gekokujo_kabuto_nanban_m_3 0  65548 0 2350 704643238 5.000000 80 52 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto_nanban_m_4 Momonari_Kabuto Momonari_Kabuto 1  gekokujo_kabuto_nanban_m_4 0  65548 0 2350 704643238 5.000000 80 52 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto_nanban_m_5 Momonari_Kabuto Momonari_Kabuto 1  gekokujo_kabuto_nanban_m_5 0  65548 0 2350 704643238 5.000000 80 52 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto_nanban_m_6 Momonari_Kabuto Momonari_Kabuto 1  gekokujo_kabuto_nanban_m_6 0  65548 0 2350 704643238 5.000000 80 52 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto_unique_1 General's_Eboshi_Kabuto General's_Eboshi_Kabuto 1  gekokujo_kabuto_unique_1 0  65548 0 2170 704643238 6.000000 50 46 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto_unique_2 General's_Suji-Bachi_Kabuto General's_Suji-Bachi_Kabuto 1  gekokujo_kabuto_unique_2 0  65548 0 2316 704643238 5.500000 50 48 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto_unique_3 General's_Suji-Bachi_Kabuto General's_Suji-Bachi_Kabuto 1  gekokujo_kabuto_unique_3 0  65548 0 2450 704643238 6.000000 50 51 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto_unique_4 General's_Shinominari_Kabuto General's_Shinominari_Kabuto 1  gekokujo_kabuto_unique_4 0  65548 0 2170 704643238 6.000000 50 46 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto_unique_5 General's_Zunari_Kabuto General's_Zunari_Kabuto 1  gekokujo_kabuto_unique_5 0  65548 0 2170 704643238 6.000000 50 46 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto_unique_6 General's_Zunari_Kabuto General's_Zunari_Kabuto 1  gekokujo_kabuto_unique_6 0  65548 0 1940 704643238 5.000000 50 42 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto_unique_7 General's_Eboshi_Kabuto General's_Eboshi_Kabuto 1  gekokujo_kabuto_unique_7 0  65548 0 1940 704643238 5.000000 50 42 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto_unique_8 General's_Suji-Bachi_Kabuto General's_Suji-Bachi_Kabuto 1  gekokujo_kabuto_unique_8 0  65548 0 2032 704643238 4.500000 50 44 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto_unique_9 General's_Suji-Bachi_Kabuto General's_Suji-Bachi_Kabuto 1  gekokujo_kabuto_unique_9 0  65548 0 2242 704643238 5.000000 50 47 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto_unique_10 General's_Shinominari_Kabuto General's_Shinominari_Kabuto 1  gekokujo_kabuto_unique_10 0  65548 0 1940 704643238 5.000000 50 42 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto_unique_11 General's_Shinominari_Kabuto General's_Shinominari_Kabuto 1  gekokujo_kabuto_unique_11 0  65548 0 2170 704643238 6.000000 50 46 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto_unique_12 General's_Zunari_Kabuto General's_Zunari_Kabuto 1  gekokujo_kabuto_unique_12 0  65548 0 2170 704643238 6.000000 50 46 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto_unique_13 General's_Eboshi_Kabuto General's_Eboshi_Kabuto 1  gekokujo_kabuto_unique_13 0  65548 0 2170 704643238 6.000000 50 46 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto_unique_14 General's_Suji-Bachi_Kabuto General's_Suji-Bachi_Kabuto 1  gekokujo_kabuto_unique_14 0  65548 0 2316 704643238 5.500000 50 48 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto_unique_15 General's_Suji-Bachi_Kabuto General's_Suji-Bachi_Kabuto 1  gekokujo_kabuto_unique_15 0  65548 0 2450 704643238 6.000000 50 51 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto_unique_16 General's_Suji-Bachi_Kabuto General's_Suji-Bachi_Kabuto 1  gekokujo_kabuto_unique_16 0  65548 0 2242 704643238 5.000000 50 47 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto_unique_17 General's_Shinominari_Kabuto General's_Shinominari_Kabuto 1  gekokujo_kabuto_unique_17 0  65548 0 1940 704643238 5.000000 50 42 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto_unique_18 General's_Zunari_Kabuto General's_Zunari_Kabuto 1  gekokujo_kabuto_unique_18 0  65548 0 1940 704643238 5.000000 50 42 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto_unique_19 General's_Eboshi_Kabuto General's_Eboshi_Kabuto 1  gekokujo_kabuto_unique_19 0  65548 0 1940 704643238 5.000000 50 42 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto_unique_20 General's_Suji-Bachi_Kabuto General's_Suji-Bachi_Kabuto 1  gekokujo_kabuto_unique_20 0  65548 0 2032 704643238 4.500000 50 44 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto_unique_21 General's_Shinominari_Kabuto General's_Shinominari_Kabuto 1  gekokujo_kabuto_unique_21 0  65548 0 1940 704643238 5.000000 50 42 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto_unique_22 General's_Shinominari_Kabuto General's_Shinominari_Kabuto 1  gekokujo_kabuto_unique_22 0  65548 0 2170 704643238 6.000000 50 46 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto_unique_23 General's_Shinominari_Kabuto General's_Shinominari_Kabuto 1  gekokujo_kabuto_unique_23 0  65548 0 1940 704643238 5.000000 50 42 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto_unique_24 General's_Shinominari_Kabuto General's_Shinominari_Kabuto 1  gekokujo_kabuto_unique_24 0  65548 0 2170 704643238 6.000000 50 46 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto_unique_25 General's_Momonari_Kabuto General's_Momonari_Kabuto 1  gekokujo_kabuto_unique_25 0  65548 0 2602 704643238 6.000000 50 54 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto_unique_26 General's_Momonari_Kabuto General's_Momonari_Kabuto 1  gekokujo_kabuto_unique_26 0  65548 0 2602 704643238 6.000000 50 54 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto_unique_27 General's_Momonari_Kabuto General's_Momonari_Kabuto 1  gekokujo_kabuto_unique_27 0  65548 0 2602 704643238 6.000000 50 54 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto_unique_28 General's_Momonari_Kabuto General's_Momonari_Kabuto 1  gekokujo_kabuto_unique_28 0  65548 0 2602 704643238 6.000000 50 54 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto_unique_29 General's_Momonari_Kabuto General's_Momonari_Kabuto 1  gekokujo_kabuto_unique_29 0  65548 0 2602 704643238 6.000000 50 54 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto_unique_30 General's_Momonari_Kabuto General's_Momonari_Kabuto 1  gekokujo_kabuto_unique_30 0  65548 0 2602 704643238 6.000000 50 54 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_tabi Tabi_Socks Tabi_Socks 1  gekokujo_tabi 0  536940302 0 4 123731968 1.000000 100 0 0 3 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_sandal_1 Straw_Sandals Straw_Sandals 1  gekokujo_sandal_1 0  69390 0 6 123731968 1.000000 100 0 0 4 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_sandal_2 Straw_Sandals Straw_Sandals 1  gekokujo_sandal_2 0  69390 0 6 123731968 1.000000 100 0 0 4 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_sandal_3 Straw_Sandals Straw_Sandals 1  gekokujo_sandal_3 0  69390 0 6 123731968 1.000000 100 0 0 4 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_light_suneate_1 Light_Shino_Sune-Ate Light_Shino_Sune-Ate 1  gekokujo_light_suneate_1 0  69390 0 300 704643236 2.000000 100 0 0 12 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_light_suneate_2 Light_Shino_Sune-Ate Light_Shino_Sune-Ate 1  gekokujo_light_suneate_2 0  69390 0 300 704643236 2.000000 100 0 0 12 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_light_suneate_3 Light_Shino_Sune-Ate Light_Shino_Sune-Ate 1  gekokujo_light_suneate_3 0  69390 0 300 704643236 2.000000 100 0 0 12 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_shino_suneate_1 Shino_Sune-Ate Shino_Sune-Ate 1  gekokujo_shino_suneate_1 0  69390 0 525 704643236 2.500000 100 0 0 20 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_shino_suneate_2 Shino_Sune-Ate Shino_Sune-Ate 1  gekokujo_shino_suneate_2 0  69390 0 525 704643236 2.500000 100 0 0 20 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_shino_suneate_3 Shino_Sune-Ate Shino_Sune-Ate 1  gekokujo_shino_suneate_3 0  69390 0 525 704643236 2.500000 100 0 0 20 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_tsubo_suneate_1 Tsubo_Sune-Ate Tsubo_Sune-Ate 1  gekokujo_tsubo_suneate_1 0  69390 0 900 704643236 3.000000 100 0 0 28 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_tsubo_suneate_2 Tsubo_Sune-Ate Tsubo_Sune-Ate 1  gekokujo_tsubo_suneate_2 0  69390 0 900 704643236 3.000000 100 0 0 28 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_tsubo_suneate_3 Tsubo_Sune-Ate Tsubo_Sune-Ate 1  gekokujo_tsubo_suneate_3 0  69390 0 900 704643236 3.000000 100 0 0 28 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_sashimono_1 Ashigaru_Sashimono Ashigaru_Sashimono 2  gekokujo_sashimono_1 0  gekokujo_sashimono_1_inv 1152921504606846976  8716292 6442450944 50 0 1.000000 160 0 0 0 0 10240 0 0 100 0 522 522
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063581 1729382256910270496 1224979098644774912 1224979098644774913 
+
+ itm_gekokujo_sashimono_2 Samurai_Sashimono Samurai_Sashimono 2  gekokujo_sashimono_2 0  gekokujo_sashimono_2_inv 1152921504606846976  8716292 6442450944 50 0 1.000000 160 0 0 0 0 10240 0 0 100 0 522 522
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063581 1729382256910270496 1224979098644774912 1224979098644774913 
+
+ itm_gekokujo_sashimono_3 Large_Sashimono Large_Sashimono 2  gekokujo_sashimono_3 0  gekokujo_sashimono_3_inv 1152921504606846976  8716292 6442450944 50 0 1.000000 160 0 0 0 0 10240 0 0 100 0 522 522
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063581 1729382256910270496 1224979098644774912 1224979098644774913 
+
+ itm_gekokujo_sashimono_4 Wide_Sashimono Wide_Sashimono 2  gekokujo_sashimono_4 0  gekokujo_sashimono_4_inv 1152921504606846976  8716292 6442450944 50 0 1.000000 160 0 0 0 0 10240 0 0 100 0 522 522
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063581 1729382256910270496 1224979098644774912 1224979098644774913 
+
+ itm_gekokujo_sashimono_5 Square_Sashimono Square_Sashimono 2  gekokujo_sashimono_5 0  gekokujo_sashimono_5_inv 1152921504606846976  8716292 6442450944 50 0 1.000000 160 0 0 0 0 10240 0 0 100 0 522 522
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063581 1729382256910270496 1224979098644774912 1224979098644774913 
+
+ itm_gekokujo_sashimono_uesugi_1 Uesugi_Ashigaru_Sashimono Uesugi_Ashigaru_Sashimono 2  gekokujo_sashimono_uesugi_1 0  gekokujo_sashimono_uesugi_1_inv 1152921504606846976  8650756 6442450944 50 8202 1.000000 100 0 0 0 0 10240 0 0 100 0 522 522
+ 0
+0
+
+ itm_gekokujo_sashimono_date_1 Date_Ashigaru_Sashimono Date_Ashigaru_Sashimono 2  gekokujo_sashimono_date_1 0  gekokujo_sashimono_date_1_inv 1152921504606846976  8650756 6442450944 50 8202 1.000000 100 0 0 0 0 10240 0 0 100 0 522 522
+ 0
+0
+
+ itm_gekokujo_sashimono_oda_1 Oda_Ashigaru_Sashimono Oda_Ashigaru_Sashimono 2  gekokujo_sashimono_oda_1 0  gekokujo_sashimono_oda_1_inv 1152921504606846976  8650756 6442450944 50 8202 1.000000 100 0 0 0 0 10240 0 0 100 0 522 522
+ 0
+0
+
+ itm_gekokujo_sashimono_mori_1 Mori_Ashigaru_Sashimono Mori_Ashigaru_Sashimono 2  gekokujo_sashimono_mori_1 0  gekokujo_sashimono_mori_1_inv 1152921504606846976  8650756 6442450944 50 8202 1.000000 100 0 0 0 0 10240 0 0 100 0 522 522
+ 0
+0
+
+ itm_gekokujo_sashimono_takeda_1 Takeda_Ashigaru_Sashimono Takeda_Ashigaru_Sashimono 2  gekokujo_sashimono_takeda_1 0  gekokujo_sashimono_takeda_1_inv 1152921504606846976  8650756 6442450944 50 8202 1.000000 100 0 0 0 0 10240 0 0 100 0 522 522
+ 0
+0
+
+ itm_gekokujo_sashimono_tokugawa_1 Tokugawa_Ashigaru_Sashimono Tokugawa_Ashigaru_Sashimono 2  gekokujo_sashimono_tokugawa_1 0  gekokujo_sashimono_tokugawa_1_inv 1152921504606846976  8650756 6442450944 50 8202 1.000000 100 0 0 0 0 10240 0 0 100 0 522 522
+ 0
+0
+
+ itm_gekokujo_sashimono_miyoshi_1 Miyoshi_Ashigaru_Sashimono Miyoshi_Ashigaru_Sashimono 2  gekokujo_sashimono_miyoshi_1 0  gekokujo_sashimono_miyoshi_1_inv 1152921504606846976  8650756 6442450944 50 8202 1.000000 100 0 0 0 0 10240 0 0 100 0 522 522
+ 0
+0
+
+ itm_gekokujo_sashimono_amako_1 Amako_Ashigaru_Sashimono Amako_Ashigaru_Sashimono 2  gekokujo_sashimono_amako_1 0  gekokujo_sashimono_amako_1_inv 1152921504606846976  8650756 6442450944 50 8202 1.000000 100 0 0 0 0 10240 0 0 100 0 522 522
+ 0
+0
+
+ itm_gekokujo_sashimono_otomo_1 Otomo_Ashigaru_Sashimono Otomo_Ashigaru_Sashimono 2  gekokujo_sashimono_otomo_1 0  gekokujo_sashimono_otomo_1_inv 1152921504606846976  8650756 6442450944 50 8202 1.000000 100 0 0 0 0 10240 0 0 100 0 522 522
+ 0
+0
+
+ itm_gekokujo_sashimono_nanbu_1 Nanbu_Ashigaru_Sashimono Nanbu_Ashigaru_Sashimono 2  gekokujo_sashimono_nanbu_1 0  gekokujo_sashimono_nanbu_1_inv 1152921504606846976  8650756 6442450944 50 8202 1.000000 100 0 0 0 0 10240 0 0 100 0 522 522
+ 0
+0
+
+ itm_gekokujo_sashimono_asakura_1 Asakura_Ashigaru_Sashimono Asakura_Ashigaru_Sashimono 2  gekokujo_sashimono_asakura_1 0  gekokujo_sashimono_asakura_1_inv 1152921504606846976  8650756 6442450944 50 8202 1.000000 100 0 0 0 0 10240 0 0 100 0 522 522
+ 0
+0
+
+ itm_gekokujo_sashimono_chosokabe_1 Chosokabe_Ashigaru_Sashimono Chosokabe_Ashigaru_Sashimono 2  gekokujo_sashimono_chosokabe_1 0  gekokujo_sashimono_chosokabe_1_inv 1152921504606846976  8650756 6442450944 50 8202 1.000000 100 0 0 0 0 10240 0 0 100 0 522 522
+ 0
+0
+
+ itm_gekokujo_sashimono_hojo_1 Hojo_Ashigaru_Sashimono Hojo_Ashigaru_Sashimono 2  gekokujo_sashimono_hojo_1 0  gekokujo_sashimono_hojo_1_inv 1152921504606846976  8650756 6442450944 50 8202 1.000000 100 0 0 0 0 10240 0 0 100 0 522 522
+ 0
+0
+
+ itm_gekokujo_sashimono_mogami_1 Mogami_Ashigaru_Sashimono Mogami_Ashigaru_Sashimono 2  gekokujo_sashimono_mogami_1 0  gekokujo_sashimono_mogami_1_inv 1152921504606846976  8650756 6442450944 50 8202 1.000000 100 0 0 0 0 10240 0 0 100 0 522 522
+ 0
+0
+
+ itm_gekokujo_sashimono_shimazu_1 Shimazu_Ashigaru_Sashimono Shimazu_Ashigaru_Sashimono 2  gekokujo_sashimono_shimazu_1 0  gekokujo_sashimono_shimazu_1_inv 1152921504606846976  8650756 6442450944 50 8202 1.000000 100 0 0 0 0 10240 0 0 100 0 522 522
+ 0
+0
+
+ itm_gekokujo_sashimono_ryuzoji_1 Ryuzoji_Ashigaru_Sashimono Ryuzoji_Ashigaru_Sashimono 2  gekokujo_sashimono_ryuzoji_1 0  gekokujo_sashimono_ryuzoji_1_inv 1152921504606846976  8650756 6442450944 50 8202 1.000000 100 0 0 0 0 10240 0 0 100 0 522 522
+ 0
+0
+
+ itm_gekokujo_sashimono_satake_1 Satake_Ashigaru_Sashimono Satake_Ashigaru_Sashimono 2  gekokujo_sashimono_satake_1 0  gekokujo_sashimono_satake_1_inv 1152921504606846976  8650756 6442450944 50 8202 1.000000 100 0 0 0 0 10240 0 0 100 0 522 522
+ 0
+0
+
+ itm_gekokujo_sashimono_satomi_1 Satomi_Ashigaru_Sashimono Satomi_Ashigaru_Sashimono 2  gekokujo_sashimono_satomi_1 0  gekokujo_sashimono_satomi_1_inv 1152921504606846976  8650756 6442450944 50 8202 1.000000 100 0 0 0 0 10240 0 0 100 0 522 522
+ 0
+0
+
+ itm_gekokujo_sashimono_ukita_1 Ukita_Ashigaru_Sashimono Ukita_Ashigaru_Sashimono 2  gekokujo_sashimono_ukita_1 0  gekokujo_sashimono_ukita_1_inv 1152921504606846976  8650756 6442450944 50 8202 1.000000 100 0 0 0 0 10240 0 0 100 0 522 522
+ 0
+0
+
+ itm_gekokujo_sashimono_ikko_1 Ikko_Ashigaru_Sashimono Ikko_Ashigaru_Sashimono 2  gekokujo_sashimono_ikko_1 0  gekokujo_sashimono_ikko_1_inv 1152921504606846976  8650756 6442450944 50 8202 1.000000 100 0 0 0 0 10240 0 0 100 0 522 522
+ 0
+0
+
+ itm_gekokujo_sashimono_uesugi_2 Uesugi_Samurai_Sashimono Uesugi_Samurai_Sashimono 2  gekokujo_sashimono_uesugi_2 0  gekokujo_sashimono_uesugi_2_inv 1152921504606846976  8650756 6442450944 50 8202 1.000000 100 0 0 0 0 10240 0 0 100 0 522 522
+ 0
+0
+
+ itm_gekokujo_sashimono_date_2 Date_Samurai_Sashimono Date_Samurai_Sashimono 2  gekokujo_sashimono_date_2 0  gekokujo_sashimono_date_2_inv 1152921504606846976  8650756 6442450944 50 8202 1.000000 100 0 0 0 0 10240 0 0 100 0 522 522
+ 0
+0
+
+ itm_gekokujo_sashimono_oda_2 Oda_Samurai_Sashimono Oda_Samurai_Sashimono 2  gekokujo_sashimono_oda_2 0  gekokujo_sashimono_oda_2_inv 1152921504606846976  8650756 6442450944 50 8202 1.000000 100 0 0 0 0 10240 0 0 100 0 522 522
+ 0
+0
+
+ itm_gekokujo_sashimono_mori_2 Mori_Samurai_Sashimono Mori_Samurai_Sashimono 2  gekokujo_sashimono_mori_2 0  gekokujo_sashimono_mori_2_inv 1152921504606846976  8650756 6442450944 50 8202 1.000000 100 0 0 0 0 10240 0 0 100 0 522 522
+ 0
+0
+
+ itm_gekokujo_sashimono_takeda_2 Takeda_Samurai_Sashimono Takeda_Samurai_Sashimono 2  gekokujo_sashimono_takeda_2 0  gekokujo_sashimono_takeda_2_inv 1152921504606846976  8650756 6442450944 50 8202 1.000000 100 0 0 0 0 10240 0 0 100 0 522 522
+ 0
+0
+
+ itm_gekokujo_sashimono_tokugawa_2 Tokugawa_Samurai_Sashimono Tokugawa_Samurai_Sashimono 2  gekokujo_sashimono_tokugawa_2 0  gekokujo_sashimono_tokugawa_2_inv 1152921504606846976  8650756 6442450944 50 8202 1.000000 100 0 0 0 0 10240 0 0 100 0 522 522
+ 0
+0
+
+ itm_gekokujo_sashimono_miyoshi_2 Miyoshi_Samurai_Sashimono Miyoshi_Samurai_Sashimono 2  gekokujo_sashimono_miyoshi_2 0  gekokujo_sashimono_miyoshi_2_inv 1152921504606846976  8650756 6442450944 50 8202 1.000000 100 0 0 0 0 10240 0 0 100 0 522 522
+ 0
+0
+
+ itm_gekokujo_sashimono_amako_2 Amako_Samurai_Sashimono Amako_Samurai_Sashimono 2  gekokujo_sashimono_amako_2 0  gekokujo_sashimono_amako_2_inv 1152921504606846976  8650756 6442450944 50 8202 1.000000 100 0 0 0 0 10240 0 0 100 0 522 522
+ 0
+0
+
+ itm_gekokujo_sashimono_otomo_2 Otomo_Samurai_Sashimono Otomo_Samurai_Sashimono 2  gekokujo_sashimono_otomo_2 0  gekokujo_sashimono_otomo_2_inv 1152921504606846976  8650756 6442450944 50 8202 1.000000 100 0 0 0 0 10240 0 0 100 0 522 522
+ 0
+0
+
+ itm_gekokujo_sashimono_nanbu_2 Nanbu_Samurai_Sashimono Nanbu_Samurai_Sashimono 2  gekokujo_sashimono_nanbu_2 0  gekokujo_sashimono_nanbu_2_inv 1152921504606846976  8650756 6442450944 50 8202 1.000000 100 0 0 0 0 10240 0 0 100 0 522 522
+ 0
+0
+
+ itm_gekokujo_sashimono_asakura_2 Asakura_Samurai_Sashimono Asakura_Samurai_Sashimono 2  gekokujo_sashimono_asakura_2 0  gekokujo_sashimono_asakura_2_inv 1152921504606846976  8650756 6442450944 50 8202 1.000000 100 0 0 0 0 10240 0 0 100 0 522 522
+ 0
+0
+
+ itm_gekokujo_sashimono_chosokabe_2 Chosokabe_Samurai_Sashimono Chosokabe_Samurai_Sashimono 2  gekokujo_sashimono_chosokabe_2 0  gekokujo_sashimono_chosokabe_2_inv 1152921504606846976  8650756 6442450944 50 8202 1.000000 100 0 0 0 0 10240 0 0 100 0 522 522
+ 0
+0
+
+ itm_gekokujo_sashimono_hojo_2 Hojo_Samurai_Sashimono Hojo_Samurai_Sashimono 2  gekokujo_sashimono_hojo_2 0  gekokujo_sashimono_hojo_2_inv 1152921504606846976  8650756 6442450944 50 8202 1.000000 100 0 0 0 0 10240 0 0 100 0 522 522
+ 0
+0
+
+ itm_gekokujo_sashimono_mogami_2 Mogami_Samurai_Sashimono Mogami_Samurai_Sashimono 2  gekokujo_sashimono_mogami_2 0  gekokujo_sashimono_mogami_2_inv 1152921504606846976  8650756 6442450944 50 8202 1.000000 100 0 0 0 0 10240 0 0 100 0 522 522
+ 0
+0
+
+ itm_gekokujo_sashimono_shimazu_2 Shimazu_Samurai_Sashimono Shimazu_Samurai_Sashimono 2  gekokujo_sashimono_shimazu_2 0  gekokujo_sashimono_shimazu_2_inv 1152921504606846976  8650756 6442450944 50 8202 1.000000 100 0 0 0 0 10240 0 0 100 0 522 522
+ 0
+0
+
+ itm_gekokujo_sashimono_ryuzoji_2 Ryuzoji_Samurai_Sashimono Ryuzoji_Samurai_Sashimono 2  gekokujo_sashimono_ryuzoji_2 0  gekokujo_sashimono_ryuzoji_2_inv 1152921504606846976  8650756 6442450944 50 8202 1.000000 100 0 0 0 0 10240 0 0 100 0 522 522
+ 0
+0
+
+ itm_gekokujo_sashimono_satake_2 Satake_Samurai_Sashimono Satake_Samurai_Sashimono 2  gekokujo_sashimono_satake_2 0  gekokujo_sashimono_satake_2_inv 1152921504606846976  8650756 6442450944 50 8202 1.000000 100 0 0 0 0 10240 0 0 100 0 522 522
+ 0
+0
+
+ itm_gekokujo_sashimono_satomi_2 Satomi_Samurai_Sashimono Satomi_Samurai_Sashimono 2  gekokujo_sashimono_satomi_2 0  gekokujo_sashimono_satomi_2_inv 1152921504606846976  8650756 6442450944 50 8202 1.000000 100 0 0 0 0 10240 0 0 100 0 522 522
+ 0
+0
+
+ itm_gekokujo_sashimono_ukita_2 Ukita_Samurai_Sashimono Ukita_Samurai_Sashimono 2  gekokujo_sashimono_ukita_2 0  gekokujo_sashimono_ukita_2_inv 1152921504606846976  8650756 6442450944 50 8202 1.000000 100 0 0 0 0 10240 0 0 100 0 522 522
+ 0
+0
+
+ itm_gekokujo_sashimono_ikko_2 Ikko_Samurai_Sashimono Ikko_Samurai_Sashimono 2  gekokujo_sashimono_ikko_2 0  gekokujo_sashimono_ikko_2_inv 1152921504606846976  8650756 6442450944 50 8202 1.000000 100 0 0 0 0 10240 0 0 100 0 522 522
+ 0
+0
+
+ itm_gekokujo_jinbaori_1 General's_Shino_Sune-Ate General's_Shino_Sune-Ate 1  gekokujo_jinbaori_1 0  16846606 0 925 704643236 4.000000 50 0 3 20 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_jinbaori_2 General's_Shino_Sune-Ate General's_Shino_Sune-Ate 1  gekokujo_jinbaori_2 0  16846606 0 925 704643236 4.000000 50 0 3 20 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_jinbaori_3 General's_Shino_Sune-Ate General's_Shino_Sune-Ate 1  gekokujo_jinbaori_3 0  16846606 0 925 704643236 4.000000 50 0 3 20 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_jinbaori_4 General's_Shino_Sune-Ate General's_Shino_Sune-Ate 1  gekokujo_jinbaori_4 0  16846606 0 925 704643236 4.000000 50 0 3 20 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_jinbaori_5 General's_Shino_Sune-Ate General's_Shino_Sune-Ate 1  gekokujo_jinbaori_5 0  16846606 0 925 704643236 4.000000 50 0 3 20 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_jinbaori_6 General's_Shino_Sune-Ate General's_Shino_Sune-Ate 1  gekokujo_jinbaori_6 0  16846606 0 925 704643236 4.000000 50 0 3 20 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_jinbaori_7 General's_Shino_Sune-Ate General's_Shino_Sune-Ate 1  gekokujo_jinbaori_7 0  16846606 0 925 704643236 4.000000 50 0 3 20 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_jinbaori_8 General's_Shino_Sune-Ate General's_Shino_Sune-Ate 1  gekokujo_jinbaori_8 0  16846606 0 925 704643236 4.000000 50 0 3 20 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_jinbaori_9 General's_Shino_Sune-Ate General's_Shino_Sune-Ate 1  gekokujo_jinbaori_9 0  16846606 0 925 704643236 4.000000 50 0 3 20 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_jinbaori_sanada Rokumonsen_Jinbaori Rokumonsen_Jinbaori 1  gekokujo_jinbaori_sanada 0  16846606 0 925 704643236 4.000000 50 0 3 20 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_jinbaori_yamamoto Yama_Jinbaori Yama_Jinbaori 1  gekokujo_jinbaori_yamamoto 0  16846606 0 925 704643236 4.000000 50 0 3 20 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_jinbaori_murakami Mura_Jinbaori Mura_Jinbaori 1  gekokujo_jinbaori_murakami 0  16846606 0 925 704643236 4.000000 50 0 3 20 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_jinbaori_honda Hon_Jinbaori Hon_Jinbaori 1  gekokujo_jinbaori_honda 0  16846606 0 925 704643236 4.000000 50 0 3 20 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_jinbaori_nagao Tomoe_Jinbaori Tomoe_Jinbaori 1  gekokujo_jinbaori_nagao 0  16846606 0 925 704643236 4.000000 50 0 3 20 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_jinbaori_uesugi Bishamon_Jinbaori Bishamon_Jinbaori 1  gekokujo_jinbaori_uesugi 0  16846606 0 925 704643236 4.000000 50 0 3 20 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_tekko_1 Hand_Wraps Hand_Wraps 1  gf_tekko_1_L 0  65551 0 45 123731968 0.250000 150 0 3 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_tekko_2 Leather_Gloves Leather_Gloves 1  leather_gloves_L 0  65551 0 248 123731968 0.250000 100 0 4 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_tekko_3_1 Tekko Tekko 1  gf_tekko_2_1_L 0  65551 0 564 123731968 0.500000 100 0 5 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_tekko_3_2 Tekko Tekko 1  gf_tekko_2_2_L 0  65551 0 564 123731968 0.500000 100 0 5 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_tekko_3_3 Tekko Tekko 1  gf_tekko_2_3_L 0  65551 0 564 123731968 0.500000 100 0 5 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_tekko_4_1 Kusari_Tekko Kusari_Tekko 1  ssh_tekko_1_L 0  65551 0 1040 123731968 1.000000 75 0 6 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_tekko_4_2 Kusari_Tekko Kusari_Tekko 1  ssh_tekko_2_L 0  65551 0 1040 123731968 1.000000 75 0 6 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_tekko_4_3 Kusari_Tekko Kusari_Tekko 1  ssh_tekko_3_L 0  65551 0 1040 123731968 1.000000 75 0 6 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_domaru_old Okegawa_Armor Okegawa_Armor 1  samurai_armor 0  16777229 0 1577 704643236 18.000000 100 0 38 19 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_kabuto_mempo_old Kabuto_Mempo Kabuto_Mempo 1  samurai_helmet 0  12 0 824 704643238 2.000000 100 44 0 0 8 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_suneate_old Sune-Ate Sune-Ate 1  samurai_boots 0  3854 0 465 123731968 1.000000 100 0 0 21 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_mongol_boots Hokuteki_Leather_Boots Hokuteki_Leather_Boots 1  khergit_leather_boots 0  536874766 0 120 123731968 1.000000 100 0 0 18 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_mongol_helmet_1 Hokuteki_Helmet Hokuteki_Helmet 1  tattered_steppe_cap_a_new 0  12 0 200 123731968 2.000000 100 31 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_mongol_helmet_2 Hokuteki_Helmet Hokuteki_Helmet 1  lamellar_helmet_a 0  12 0 433 123731968 2.000000 100 40 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gekokujo_mongol_helmet_3 Hokuteki_Helmet Hokuteki_Helmet 1  lamellar_helmet_b 0  12 0 333 123731968 2.000000 100 36 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_items_end Items_End Items_End 1  shield_round_a 0  0 0 1 0 0.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
